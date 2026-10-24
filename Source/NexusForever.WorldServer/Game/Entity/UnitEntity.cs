@@ -57,6 +57,13 @@ namespace NexusForever.WorldServer.Game.Entity
                 UnitId = Guid,
                 Stat   = new StatValue(Stat.Health, value)
             }, true);
+
+            // the stat update alone does not redraw other units' health bars in the client; this message does
+            EnqueueToVisible(new ServerEntityHealthUpdate
+            {
+                UnitId = Guid,
+                Health = value
+            }, true);
         }
 
         /// <summary>
