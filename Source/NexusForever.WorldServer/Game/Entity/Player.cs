@@ -139,6 +139,9 @@ namespace NexusForever.WorldServer.Game.Entity
         /// </summary>
         public uint? VanityPetGuid { get; set; }
 
+        /// <summary>Unit id of the Scientist scanbot following this player, if one was deployed.</summary>
+        public uint? ScanbotGuid { get; set; }
+
         public bool IsSitting => currentChairGuid != null;
 
         /// <summary>Seconds since the class resource regeneration last ran (once per second, stat updates are sent to the client).</summary>
