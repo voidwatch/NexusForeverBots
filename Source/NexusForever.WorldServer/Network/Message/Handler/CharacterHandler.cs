@@ -353,7 +353,13 @@ namespace NexusForever.WorldServer.Network.Message.Handler
                     });
                 }
 
-                Location startingLocation = AssetManager.Instance.GetStartingLocation((Race)creationEntry.RaceId, (Faction)creationEntry.FactionId, (CharacterCreationStart)creationEntry.CharacterCreationStartEnum);
+                // The tutorial starts (Arkship 0 has no location row, PreTutorial is world 3460) are scripted sequences this server does not run:
+                // a player would be stuck there. Human players start where "skip tutorial" puts them; bots keep the tutorial start for coverage.
+                var creationStart = (CharacterCreationStart)creationEntry.CharacterCreationStartEnum;
+                if (session is not Bots.BotSession && (creationStart == CharacterCreationStart.PreTutorial || creationStart == CharacterCreationStart.Arkship))
+                    creationStart = CharacterCreationStart.Nexus;
+
+                Location startingLocation = AssetManager.Instance.GetStartingLocation((Race)creationEntry.RaceId, (Faction)creationEntry.FactionId, creationStart);
                 if (startingLocation == null)
                     throw new ArgumentNullException(nameof(startingLocation));
 
