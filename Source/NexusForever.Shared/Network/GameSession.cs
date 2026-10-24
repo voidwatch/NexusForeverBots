@@ -163,12 +163,32 @@ namespace NexusForever.Shared.Network
         /// </summary>
         public static Action<string> UnhandledPacketHook { get; set; }
 
+        /// <summary>
+        /// Called with the opcode (hex) when a client packet has no message class at all.
+        /// </summary>
+        public static Action<string> UnknownPacketHook { get; set; }
+
+        /// <summary>
+        /// Client packets that carry nothing the server acts on: ClientStatisticsWatchdog/WindowOpen/Gfx/Connection/Framerate (0x023C-0x0240),
+        /// ClientRewardRotationsRequestUpdate (0x07CC), ClientCreddExchangeInfoRequest (0x0269), ClientFortuneNotifyStorefront (0x03D3) and
+        /// ClientFortuneNotifyGame (0x0793). Names from the upstream emulator's opcode list.
+        /// </summary>
+        private static readonly System.Collections.Generic.HashSet<ushort> IgnoredClientOpcodes = new() { 0x023C, 0x023D, 0x023E, 0x023F, 0x0240, 0x07CC, 0x0269, 0x03D3, 0x0793 };
+
+        private static readonly ConcurrentDictionary<ushort, byte> warnedUnknown = new();
+
         protected void HandlePacket(ClientGamePacket packet)
         {
             IReadable message = MessageManager.Instance.GetMessage(packet.Opcode);
             if (message == null)
             {
-                log.Warn($"Received unknown packet {packet.Opcode:X}");
+                // client telemetry and store notices (statistics, framerate, CREDD and storefront pings): nothing to do, keep the log readable
+                if (IgnoredClientOpcodes.Contains((ushort)packet.Opcode))
+                    return;
+
+                UnknownPacketHook?.Invoke($"0x{(ushort)packet.Opcode:X4}");
+                if (warnedUnknown.TryAdd((ushort)packet.Opcode, 0))
+                    log.Warn($"Received unknown packet {packet.Opcode:X} (further ones of this opcode are only counted)");
                 return;
             }
 

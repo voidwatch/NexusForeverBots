@@ -63,6 +63,8 @@ namespace NexusForever.WorldServer
         {
             NexusForever.Shared.Network.GameSession.UnhandledPacketHook = op =>
                 NexusForever.WorldServer.Diagnostics.FailureLedger.Record("system-unhandled-message", op);
+            NexusForever.Shared.Network.GameSession.UnknownPacketHook = op =>
+                NexusForever.WorldServer.Diagnostics.FailureLedger.Record("client-unknown-message", op);
 
             Directory.SetCurrentDirectory(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location));
 
