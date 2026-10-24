@@ -1,0 +1,36 @@
+[
+ {
+  "boss": "Pyrobane",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Megalith",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ }
+]

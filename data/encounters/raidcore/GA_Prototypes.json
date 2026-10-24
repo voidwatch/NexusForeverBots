@@ -1,0 +1,88 @@
+[
+ {
+  "boss": "Phagetech Commander",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Phagetech Augmentor",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Summon Repairbot",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Summon Repairbot every": "every: raidcore -, drusera [17.0], lui - -> single source"
+  },
+  "names": "certain"
+ },
+ {
+  "boss": "Phagetech Protector",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Phagetech Fabricator",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Summon Destructobot",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Summon Destructobot every": "every: raidcore -, drusera [16.0], lui - -> single source"
+  },
+  "names": "certain"
+ }
+]

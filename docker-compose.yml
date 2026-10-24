@@ -1,0 +1,179 @@
+﻿name: nexusforeverbots
+
+x-db-env: &db-env
+  Database__Auth__ConnectionString: "server=db;port=3306;user=${DB_USER};password=${DB_PASSWORD};database=nexus_forever_auth"
+  Database__Auth__Provider: MySql
+
+services:
+  db:
+    image: mariadb:10.11
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MARIADB_USER: ${DB_USER}
+      MARIADB_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - db-data:/var/lib/mysql
+      - ./docker/mariadb-init.sh:/docker-entrypoint-initdb.d/10-nexusforever.sh:ro
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 20s
+    # DB is only reachable from the compose network. No published port on purpose.
+
+  # WorldServer owns the schema: it applies EF migrations to all three databases and registers the realm row.
+  world:
+    build: { context: ., args: { PROJECT: WorldServer } }
+    image: ${IMAGE_PREFIX:-nexusforeverbots}-world:local
+    restart: unless-stopped
+    depends_on:
+      db: { condition: service_healthy }
+    environment:
+      <<: *db-env
+      Database__Character__ConnectionString: "server=db;port=3306;user=${DB_USER};password=${DB_PASSWORD};database=nexus_forever_character"
+      Database__Character__Provider: MySql
+      Database__World__ConnectionString: "server=db;port=3306;user=${DB_USER};password=${DB_PASSWORD};database=nexus_forever_world"
+      Database__World__Provider: MySql
+      GameTablePath: /data/tbl
+      Map__MapPath: /data/map
+      Map__GridUnloadTimer: ${GRID_UNLOAD_TIMER:-300}
+      CachePath: /cache
+      RealmId: ${REALM_ID:-1}
+      NF_REALM_HOST: ${REALM_HOST}
+      NF_REALM_NAME: ${REALM_NAME:-NexusForever}
+      NF_BOTS_TARGET: ${BOTS_TARGET:-0}
+      NF_BOTS_MAX: ${BOTS_MAX:-8}
+      NF_COMBAT: ${COMBAT:-0}
+      NF_COMBAT_AGGRO: ${COMBAT_AGGRO:-0}
+      NF_INNATE_COSTS: ${INNATE_COSTS:-1}
+      NF_BOTS_IMMORTAL: ${BOTS_IMMORTAL:-0}
+      NF_BOTS_SYNTHETIC: ${BOTS_SYNTHETIC:-1}
+      NF_BOTS_CLEAN: ${BOTS_CLEAN:-0}
+      NF_BOTS_FOCUS: ${BOTS_FOCUS:-}
+      NF_BOTS_DAMAGE: ${BOTS_DAMAGE:-1}
+      NF_BOTS_DUNGEON: ${BOTS_DUNGEON:-0}
+      NF_VETERAN_WORLDS: ${VETERAN_WORLDS:-}
+      NF_BOTS_VETERAN: ${BOTS_VETERAN:-alternate}
+      NF_BOTS_TEAM: ${BOTS_TEAM:-5}
+      NF_BOTS_RAID: ${BOTS_RAID:-}
+      NF_BOTS_RAID_TEAM: ${BOTS_RAID_TEAM:-20}
+      NF_BOTS_RAID_TEAMS: ${BOTS_RAID_TEAMS:-1}
+      NF_BOTS_DUNGEON_ENTRY: ${BOTS_DUNGEON_ENTRY:-auto}
+      NF_BOTS_DUNGEON_MINUTES: ${BOTS_DUNGEON_MINUTES:-30}
+      NF_RAID_SAVED_INSTANCES: ${RAID_SAVED_INSTANCES:-1}
+      NF_BOTS_TEAM_LEVEL: ${BOTS_TEAM_LEVEL:-boss}
+      NF_BOTS_DUNGEON_BOTS: ${BOTS_DUNGEON_BOTS:-}
+      NF_BOTS_SYSTEM_BOTS: ${BOTS_SYSTEM_BOTS:-0}
+      NF_BOTS_PATH_BOTS: ${BOTS_PATH_BOTS:-0}
+      NF_BOTS_PATH_FOCUS: ${BOTS_PATH_FOCUS:-}
+      NF_BOTS_EVENT_BOTS: ${BOTS_EVENT_BOTS:-}
+      NF_BOTS_EVENTS: ${BOTS_EVENTS:-0}
+      NF_PROFILE: ${PROFILE:-0}
+      NF_MAP_IDLE_UNLOAD: ${MAP_IDLE_UNLOAD:-420}
+      NF_LOG_LEVEL: ${LOG_LEVEL:-}
+      NF_TICK_MS: ${TICK_MS:-20}
+      NF_SHUTDOWN_SAVE_SECONDS: ${SHUTDOWN_SAVE_SECONDS:-15}
+      NF_REGEN_HEALTH_OOC: ${REGEN_HEALTH_OOC:-5}             # design values, not decoded (docs/CONFIGURATION.md)
+      NF_REGEN_HEALTH_COMBAT: ${REGEN_HEALTH_COMBAT:-0}
+      NF_REGEN_SUIT_POWER: ${REGEN_SUIT_POWER:-5}
+      NF_DECAY_KINETIC_COMBAT: ${DECAY_KINETIC_COMBAT:-10}
+      NF_DECAY_KINETIC_OOC: ${DECAY_KINETIC_OOC:-100}
+      NF_DECAY_VOLATILITY_OOC: ${DECAY_VOLATILITY_OOC:-10}
+    volumes:
+      - ./data/tbl:/data/tbl:ro
+      - ./data/map:/data/map:ro
+      - ./data/research:/data/research:ro
+      - ./data/encounters:/data/encounters:ro
+      - world-cache:/cache
+    ports:
+      - "${BIND_IP:-0.0.0.0}:${WORLD_PORT:-24000}:24000"
+    # Server console: docker attach --sig-proxy=false --detach-keys=ctrl-x nexusforeverbots-world-1   (Ctrl-X detaches; never Ctrl-C).
+    # The server also runs fine headless when nothing is attached.
+    # a world that leaks must not take the host (and the stable server on it) down: only this container is killed and restarted
+    mem_limit: ${WORLD_MEM_LIMIT:-14g}
+    stdin_open: true
+    tty: true
+    stop_grace_period: 30s   # the shutdown save (NF_SHUTDOWN_SAVE_SECONDS, 15 s) must finish before docker kills the process
+    logging:
+      driver: json-file
+      options: { max-size: "50m", max-file: "6" }   # long bot runs must not fill the disk with logs
+    healthcheck:
+      test: ["CMD", "bash", "-c", "exec 3<>/dev/tcp/127.0.0.1/24000"]   # /dev/tcp is bash-only; sh is dash here
+      interval: 10s
+      timeout: 3s
+      retries: 30
+      start_period: 180s   # loading .tbl tables + maps is slow
+
+  auth:
+    build: { context: ., args: { PROJECT: AuthServer } }
+    image: ${IMAGE_PREFIX:-nexusforeverbots}-auth:local
+    restart: unless-stopped
+    depends_on:
+      world: { condition: service_healthy }   # schema must exist first
+    environment:
+      <<: *db-env
+    ports:
+      - "${BIND_IP:-0.0.0.0}:${AUTH_PORT:-23115}:23115"
+
+  sts:
+    build: { context: ., args: { PROJECT: StsServer } }
+    image: ${IMAGE_PREFIX:-nexusforeverbots}-sts:local
+    restart: unless-stopped
+    depends_on:
+      world: { condition: service_healthy }
+    environment:
+      <<: *db-env
+    ports:
+      - "${BIND_IP:-0.0.0.0}:${STS_PORT:-6600}:6600"
+
+  # One-shot tool: docker compose run --rm mapgen   (writes .nfmap files to data/map-gen/work/map; Patch is read-only)
+  #   -e MAPGEN_ARGS="-e -g" also extracts the game tables to data/map-gen/work/tbl (install.sh uses this when data/tbl is missing)
+  mapgen:
+    profiles: [tools]
+    image: mcr.microsoft.com/dotnet/sdk:5.0
+    working_dir: /out/work
+    environment:
+      MAPGEN_ARGS: "-g"   # override per run: docker compose run --rm -e MAPGEN_ARGS="-e -g" mapgen
+    volumes:
+      - ./Source:/src:ro
+      - ${PATCH_DIR:-./client/Patch}:/patch:ro
+      - ./data/map-gen:/out
+    # output is made world-writable so the host user can move or delete it (the container runs as root)
+    entrypoint: ["sh", "-c", "mkdir -p /out/work && cp -r /src /build && cd /build/NexusForever.MapGenerator && dotnet publish -c Release -o /app >/dev/null && cd /out/work && dotnet /app/NexusForever.MapGenerator.dll -i /patch $$MAPGEN_ARGS </dev/null; rc=$$?; chmod -R a+rwX /out/work; exit $$rc"]
+
+  # One-shot tool: client UI scripts for research (read only): docker compose run --rm -e NF_EXTRACT_PATTERN="UI/Vendor/*.lua" uiextract
+  #   files land in data/map-gen/work/files/<dir>/ (gitignored)
+  uiextract:
+    profiles: [tools]
+    image: mcr.microsoft.com/dotnet/sdk:5.0
+    working_dir: /out/work
+    environment:
+      NF_EXTRACT_PATTERN: ${NF_EXTRACT_PATTERN:-UI/Vendor/*.lua}
+    volumes:
+      - ./Source:/src:ro
+      - ${PATCH_DIR:-./client/Patch}:/patch:ro
+      - ./data/map-gen:/out
+    entrypoint: ["sh", "-c", "mkdir -p /out/work && cp -r /src /build && cd /build/NexusForever.MapGenerator && dotnet publish -c Release -o /app >/dev/null && cd /out/work && dotnet /app/NexusForever.MapGenerator.dll -i /patch -e </dev/null"]
+
+  # One-shot tool: .NET diagnostics for a hung world (docker compose run --rm dotnettools), installs dotnet-stack/dotnet-counters/dotnet-gcdump 5.x
+  #   into research/tools/ (gitignored); copy into the world with tar over docker compose exec -T and run `dotnet-stack report -p 1`.
+  dotnettools:
+    profiles: [tools]
+    image: mcr.microsoft.com/dotnet/sdk:5.0
+    volumes:
+      - ./research/tools:/out
+    entrypoint: ["sh", "-c", "dotnet tool install dotnet-stack --version 5.0.221401 --tool-path /out/dn >/dev/null && dotnet tool install dotnet-counters --version 5.0.251802 --tool-path /out/dn >/dev/null; dotnet tool install dotnet-gcdump --version 5.0.251802 --tool-path /out/dn >/dev/null; ls /out/dn"]
+
+  # One-shot tool: docker compose run --rm nugetaudit   (lists vulnerable NuGet packages, direct and transitive)
+  nugetaudit:
+    profiles: [tools]
+    image: mcr.microsoft.com/dotnet/sdk:5.0
+    volumes:
+      - ./Source:/src:ro
+    entrypoint: ["sh", "-c", "cp -r /src /build && cd /build && dotnet --version && for p in */*.csproj; do dotnet restore $$p >/dev/null 2>&1; echo == $$p; dotnet list $$p package --vulnerable --include-transitive 2>&1 | grep -vE '^ *$$' | tail -n 15; done"]
+
+volumes:
+  db-data:
+  world-cache:

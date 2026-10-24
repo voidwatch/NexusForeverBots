@@ -1,0 +1,77 @@
+# challenge	type	creatures	names  (scripts/research/challenge_sources.py)
+40	4	2409,11434,61554,61556	crystalmaw; loftite crystals; shoveljaw boulderback; shoveljaw crusher
+61	5	1297,18096,18104,18140,21926	gronyx
+65	5	57127	broken maintenance constructs
+68	5	51196	buzzbing honeyhives
+80	5	18441,19574	eldan scrap
+106	5	16778,17217,35134	gust elemental
+117	5	19116,19748,70757	snoglug eggs
+213	5	62627,62639,62652,62664	scout
+253	2	32847,39835,42678,47656	spider eggs
+315	5	33085	data beacons
+328	5	26462,49935,58689	pearls; seaspine mollusks
+333	5	18159,20057	buzzbings
+410	2	46178	flitterflies
+412	5	65601	solarsting stalks
+427	4	30936,36816,42806,51464	invisible loot unit; meteorites
+429	5	29685,29686	spotted caps
+438	5	63068	swords
+442	2	15170,16952,17650,20227,20228,20950,21995,30006,34600,40528,50715,75108	target dummies
+443	5	30048,30049,47941	beer cans
+446	5	30048,30049,47941	beer cans
+453	5	31366	darkspire necroblooms
+472	2	31684	tunnelweb shinies
+485	5	18081,30268	dagun; marshpond snoglugs
+492	5	17186	battlesworn
+517	5	33139,34462	fallen fruit; fruit trees
+521	2	33717	wiggleroot radishes
+525	5	45308,45309	glitchbytes
+528	5	50343,50344,51955	grove; pumera
+531	5	33832	lolli-lopps
+554	5	35344	shiny pearls
+558	5	35391,38938	stolen goods
+576	5	36293	roan skulls
+581	2	36508	industrial sludge
+601	5	39632	abandoned supplies
+660	5	19039,19854,19855,53268	boulders
+665	5	37719,38165	darkspur scratchers; salvage
+673	5	37885,39767	alchemist vossak; infused willoweep
+679	5	39224,50671,50672	frizlets; glowstalk
+681	2	32847,39835,42678,47656	spider eggs
+687	5	34817,34896,35159,35160,35161,35162,39874,40378	treasure piles
+694	5	40029	dred crates
+702	5	20809,20810,25612,67717	hungry; lopp villagers
+739	5	28186,52525,52526	treasures
+740	2	42278,42280	celebratory incense; shiny vind
+747	2	42327	ice anomalies
+751	5	42383,51955	eldan vinewires; grove
+752	5	42384	coralcrusted seashells
+814	5	41514	lugwrench tinkerers
+832	2	43413	gloomthorn eggs
+833	5	43392	chompacabra skulls
+839	5	43430	phantom bloom
+841	5	42580	mechari
+845	2	43443	gloomthorn flowers
+846	2	43463	venomgrass
+849	5	41939,41940	laser cutters
+853	5	43544,47612	bottles; sweetwater's finest
+854	5	34021,38505,42627	surveillancebots
+948	2	54920	primal life
+952	2	45263,45271	fire motes
+953	2	54920	primal life
+954	2	45263,45271	fire motes
+970	5	37407,46762	xas crates
+988	2	49011,49119	crazed fire elemental; fires
+990	2	45439,47901,62242	bigpig; flying cubigs
+1000	5	53514	explorer diary pages
+1001	5	45388,48951	trash
+1018	5	51955,53463	fresh veggies; grove
+1026	5	13394,13395,53549,53550	vind eggs
+1027	5	53569	incongruous items
+1028	5	5154,18241,18821	ravenok
+1031	5	19303,19304,73747	annihilator
+1083	5	57145	pell surveillance cameras
+1084	5	57150	razorbeak feathers
+1119	2	71360	snowballs
+1136	2	24039,24040,24041,24042,24420,24421,24422,24423,25235,25238,40905,40906,40907,54033,61992,61993	squirg zombies
+1137	2	21120,23472,27042,31257,31562,52475,53319,62595,75980	jabbits

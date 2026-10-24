@@ -1,0 +1,35 @@
+[
+ {
+  "boss": "Gloomclaw",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Rupture",
+      "first": 8,
+      "every": 43.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Corrupting Rays",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "likely",
+  "timerSources": {
+   "Rupture every": "every: raidcore [43.0, 39.0], drusera [43.0], lui [43.0] -> agree",
+   "Rupture first": "first: raidcore [35.0], drusera -, lui - -> single source"
+  },
+  "names": "certain"
+ }
+]

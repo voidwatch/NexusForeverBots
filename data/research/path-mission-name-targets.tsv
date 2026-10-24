@@ -1,0 +1,4 @@
+# mission	path/type	creatures	name	source  (scripts/research/path_name_targets.py)
+2227	2/2	39224	BOTANY: Glowstalks	title-match
+2263	2/2	39297	CHEMISTRY: Nitrofen Ice Deposits	title-match
+2267	2/14	62082	DIAGNOSTICS: Space Debris	title-match

@@ -1,0 +1,116 @@
+[
+ {
+  "boss": "Golgox the Lifecrusher",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Terax Blightweaver",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Stitching Strain",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Stitching Strain every": "every: raidcore -, drusera [55.0], lui - -> single source"
+  },
+  "names": "guess"
+ },
+ {
+  "boss": "Ersoth Curseform",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Teleport",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Channeling Energy",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "guess"
+ },
+ {
+  "boss": "Noxmind the Insidious",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Fleshmonger Vratorg",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Gathering Energy",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "guess"
+ }
+]

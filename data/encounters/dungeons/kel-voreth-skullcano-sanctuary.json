@@ -1,0 +1,196 @@
+[
+ {
+  "boss": "Grond the Corpsemaker",
+  "world": 1336,
+  "enrage": 600,
+  "leash": 120,
+  "source": "guides (wildstar.fandom.com via search summaries, elijaa.org): ability names and the 30 percent frenzy; timings are assumptions",
+  "phases": [
+   {
+    "name": "Pit fight",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Buck",
+      "first": 12,
+      "every": 24,
+      "target": "random"
+     },
+     {
+      "spell": "Thrash",
+      "first": 18,
+      "every": 28,
+      "target": "self"
+     },
+     {
+      "spell": "Bellow",
+      "first": 25,
+      "every": 40,
+      "target": "self"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Bloodsucker Flea",
+      "count": 3,
+      "first": 20,
+      "every": 45
+     }
+    ]
+   },
+   {
+    "name": "Frenzy",
+    "health": 30,
+    "say": "Grond goes into a frenzy!",
+    "abilities": [
+     {
+      "spell": "Mutilate",
+      "first": 6,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Buck",
+      "first": 10,
+      "every": 20,
+      "target": "random"
+     },
+     {
+      "spell": "Thrash",
+      "first": 15,
+      "every": 24,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Stew-Shaman Tugga",
+  "world": 1263,
+  "enrage": 480,
+  "leash": 100,
+  "source": "guide summary (steamhawkegaming, elijaa.org): subdue and meat feast at 75 percent, Into the Stew; timings are assumptions",
+  "phases": [
+   {
+    "name": "Interrupts and telegraphs",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Into the Stew",
+      "first": 15,
+      "every": 30,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Meat feast",
+    "health": 75,
+    "say": "Tugga scatters the meat and feasts!",
+    "abilities": [
+     {
+      "spell": "Into the Stew",
+      "first": 25,
+      "every": 30,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Rayna Darkspeaker",
+  "world": 1271,
+  "enrage": 600,
+  "leash": 100,
+  "source": "guide summary (jabbithole/fandom search summaries): lava pools, flame leash, fire walls under 60 and 30 percent; timings are assumptions",
+  "phases": [
+   {
+    "name": "Lava pools and flame leash",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Smoldering",
+      "first": 10,
+      "every": 22,
+      "target": "random"
+     },
+     {
+      "spell": "Flame Leash",
+      "first": 16,
+      "every": 30,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Fire walls",
+    "health": 60,
+    "abilities": [
+     {
+      "spell": "Molten Wave",
+      "first": 8,
+      "every": 20,
+      "target": "self"
+     },
+     {
+      "spell": "Flame Leash",
+      "first": 16,
+      "every": 30,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Final phase",
+    "health": 30,
+    "abilities": [
+     {
+      "spell": "Smoldering",
+      "first": 8,
+      "every": 20,
+      "target": "random"
+     },
+     {
+      "spell": "Raging Lava",
+      "first": 18,
+      "every": 34,
+      "target": "self"
+     },
+     {
+      "spell": "Molten Wave",
+      "first": 12,
+      "every": 24,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Spiritmother Selene the Corrupted",
+  "world": 1271,
+  "enrage": 600,
+  "leash": 100,
+  "source": "guide summary: Nightmare Ripple must be interrupted; timings are assumptions",
+  "phases": [
+   {
+    "name": "Fight",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Nightmare Ripple",
+      "first": 12,
+      "every": 25,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ }
+]

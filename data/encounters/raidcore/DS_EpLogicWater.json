@@ -1,0 +1,77 @@
+[
+ {
+  "boss": "Hydroflux",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Watery Grave",
+      "first": 8,
+      "every": 10.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Tsunami",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Watery Grave every": "every: raidcore [10.0], drusera -, lui - -> single source",
+   "Watery Grave first": "first: raidcore [10.0], drusera -, lui - -> single source"
+  },
+  "names": "certain"
+ },
+ {
+  "boss": "Mnemesis",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Circuit Breaker",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Imprison",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Defragment",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Circuit Breaker every": "every: raidcore -, drusera -, lui [25.0] -> single source",
+   "Imprison every": "every: raidcore -, drusera -, lui [25.0] -> single source",
+   "Imprison first": "first: raidcore -, drusera -, lui [33.0] -> single source",
+   "Defragment every": "every: raidcore -, drusera -, lui [40.0, 50.0, 36.0] -> single source",
+   "Defragment first": "first: raidcore -, drusera -, lui [10.0, 21.0, 16.0, 75.0] -> single source"
+  },
+  "names": "certain"
+ }
+]

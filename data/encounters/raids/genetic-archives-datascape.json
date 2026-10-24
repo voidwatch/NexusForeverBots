@@ -1,0 +1,310 @@
+[
+ {
+  "boss": "Experiment X-89",
+  "world": 1462,
+  "enrage": 600,
+  "leash": 150,
+  "source": "RaidCore (cast names Shattering Shockwave, Repugnant Spew, Resounding Shout, bomb debuffs); timings are assumptions",
+  "phases": [
+   {
+    "name": "Fight",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Repugnant Spew",
+      "first": 8,
+      "every": 22,
+      "target": "tank"
+     },
+     {
+      "spell": "Shattering Shockwave",
+      "first": 15,
+      "every": 30,
+      "target": "self"
+     },
+     {
+      "spell": "Resounding Shout",
+      "first": 25,
+      "every": 35,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "certain"
+ },
+ {
+  "boss": "Kuralak the Defiler",
+  "world": 1462,
+  "enrage": 900,
+  "leash": 150,
+  "source": "RaidCore Kuralak module: vanish 47 s, outbreak 45 s, eggs 66 s, tank switch 88 s; phase 2 at 74 percent (Chromosome Corruption) with outbreak after 15 s, eggs after 73 s, tank switch after 37 s",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Vanish into Darkness",
+      "first": 30,
+      "every": 47,
+      "target": "self"
+     },
+     {
+      "spell": "Outbreak",
+      "first": 20,
+      "every": 45,
+      "target": "self"
+     },
+     {
+      "spell": "DNA Siphon",
+      "first": 25,
+      "every": 88,
+      "target": "tank"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 74,
+    "say": "Chromosome Corruption!",
+    "abilities": [
+     {
+      "spell": "Chromosome Corruption",
+      "first": 1,
+      "every": 0,
+      "target": "random"
+     },
+     {
+      "spell": "Outbreak",
+      "first": 15,
+      "every": 45,
+      "target": "self"
+     },
+     {
+      "spell": "DNA Siphon",
+      "first": 37,
+      "every": 88,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "likely",
+  "timerSources": {
+   "Vanish into Darkness every": "every: raidcore [47.0], drusera [50.0], lui [47.0] -> agree",
+   "Outbreak every": "every: raidcore [45.0, 15.0], drusera [40.0], lui [45.0, 15.0] -> agree",
+   "DNA Siphon every": "every: raidcore [88.0, 37.0], drusera [90.0], lui - -> agree"
+  },
+  "names": "certain"
+ },
+ {
+  "boss": "Dreadphage Ohmna",
+  "world": 1462,
+  "enrage": 900,
+  "leash": 150,
+  "source": "RaidCore Ohmna module: Erupt with pillar timer 25/32 s, tank switch 45 s, tentacles every 20 s, Genetic Torrent (big spew) every 60 s (40 s below 17 percent), phases at 52 and 20 and 17 percent",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Erupt",
+      "first": 25,
+      "every": 32,
+      "target": "tank"
+     },
+     {
+      "spell": "Genetic Torrent",
+      "first": 45,
+      "every": 60,
+      "target": "self"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Tentacle of Ohmna",
+      "count": 2,
+      "first": 15,
+      "every": 20
+     }
+    ]
+   },
+   {
+    "name": "Phase 2: tentacles",
+    "health": 52,
+    "abilities": [
+     {
+      "spell": "Erupt",
+      "first": 20,
+      "every": 32,
+      "target": "tank"
+     },
+     {
+      "spell": "Genetic Torrent",
+      "first": 30,
+      "every": 60,
+      "target": "self"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Tentacle of Ohmna",
+      "count": 3,
+      "first": 10,
+      "every": 20
+     }
+    ]
+   },
+   {
+    "name": "Phase 3: ravenous maws",
+    "health": 20,
+    "abilities": [
+     {
+      "spell": "Genetic Torrent",
+      "first": 30,
+      "every": 60,
+      "target": "self"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Ravenous Maw of the Dreadphage",
+      "count": 3,
+      "first": 2
+     }
+    ]
+   },
+   {
+    "name": "Phase 4: burn",
+    "health": 17,
+    "abilities": [
+     {
+      "spell": "Genetic Torrent",
+      "first": 20,
+      "every": 40,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Genetic Torrent every": "every: raidcore -, drusera [84.0], lui - -> single source"
+  },
+  "names": "certain"
+ },
+ {
+  "boss": "Avatus",
+  "world": 1333,
+  "enrage": 1200,
+  "leash": 200,
+  "source": "RaidCore Avatus module: Crushing Blow, Data Flare, Obliteration Beam (26-37 s), gun grid every 21 s, support cannon 23 s, blind 29 s, purge cycle 20 s; phase changes at 75, 50 and 25 percent",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Crushing Blow",
+      "first": 12,
+      "every": 30,
+      "target": "tank"
+     },
+     {
+      "spell": "Data Flare",
+      "first": 20,
+      "every": 40,
+      "target": "random"
+     },
+     {
+      "spell": "Obliteration Beam",
+      "first": 26,
+      "every": 37,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 75,
+    "abilities": [
+     {
+      "spell": "Crushing Blow",
+      "first": 12,
+      "every": 30,
+      "target": "tank"
+     },
+     {
+      "spell": "Obliteration Beam",
+      "first": 26,
+      "every": 30,
+      "target": "random"
+     },
+     {
+      "spell": "Data Flare",
+      "first": 22,
+      "every": 29,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 3",
+    "health": 50,
+    "abilities": [
+     {
+      "spell": "Crushing Blow",
+      "first": 10,
+      "every": 26,
+      "target": "tank"
+     },
+     {
+      "spell": "Obliteration Beam",
+      "first": 20,
+      "every": 26,
+      "target": "random"
+     },
+     {
+      "spell": "Data Flare",
+      "first": 16,
+      "every": 23,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 4: kill Avatus",
+    "health": 25,
+    "abilities": [
+     {
+      "spell": "Crushing Blow",
+      "first": 8,
+      "every": 20,
+      "target": "tank"
+     },
+     {
+      "spell": "Obliteration Beam",
+      "first": 14,
+      "every": 21,
+      "target": "random"
+     },
+     {
+      "spell": "Data Flare",
+      "first": 10,
+      "every": 20,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Obliteration Beam every": "every: raidcore [44.0, 58.0], drusera -, lui - -> single source"
+  },
+  "names": "certain"
+ }
+]

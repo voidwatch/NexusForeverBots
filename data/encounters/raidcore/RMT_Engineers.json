@@ -1,0 +1,126 @@
+[
+ {
+  "boss": "Chief Engineer Wilbargh",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Liquidate",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Electroshock",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Rocket Jump",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Liquidate first": "first: raidcore -, drusera -, lui [12.0] -> single source",
+   "Electroshock first": "first: raidcore -, drusera -, lui [11.0] -> single source"
+  },
+  "names": "certain"
+ },
+ {
+  "boss": "Head Engineer Orvulgh",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Fusion Core",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Cooling Turbine",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Spark Plug",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Lubricant Nozzle",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ }
+]

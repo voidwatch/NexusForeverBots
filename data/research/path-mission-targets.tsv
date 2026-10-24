@@ -1,0 +1,2086 @@
+# mission	path/type	creatures	name	jabbithole page  (scripts/research/jh_path_missions.py)
+33	0/0	11139	HOLDOUT: Conquer the Coldburrow Skeech	holdout-conquer-the-coldburrow-skeech-1
+34	0/0	11141	HOLDOUT: Conquer the Dominion	holdout-conquer-the-dominion-1
+42	2/2		Hacked Dominion Turret	hacked-dominion-turret-1
+42	2/2	18680	Inactive Dominion Turret	inactive-dominion-turret-1
+66	2/2	34872	Cinderbloom	cinderbloom-15
+67	2/2	23456	Deadwind Caster	deadwind-caster-15
+67	2/2	61486	Deadwind Doomcaller	deadwind-doomcaller-15
+67	2/2	61528	Deadwind Elder Witchdoctor	deadwind-elder-witchdoctor-15
+67	2/2	61496	Deadwind Executioner	deadwind-executioner-15
+67	2/2	23450	Deadwind Jackal	deadwind-jackal-15
+67	2/2	9598,61661	Deadwind Lunatic	deadwind-lunatic-15
+67	2/2	9599,61662	Deadwind Maniac	deadwind-maniac-15
+67	2/2	9597	Deadwind Sleeper	deadwind-sleeper-15
+67	2/2	10529,61669	Deadwind Witchdoctor	deadwind-witchdoctor-15
+67	2/2	9800,12327	Tamolo	tamolo-15
+68	2/2	61494	Gnarlfoot Brute	gnarlfoot-brute-15
+68	2/2	9570	Gnarlfoot Climber	gnarlfoot-climber-15
+68	2/2	23319,61672	Gnarlfoot Screecher	gnarlfoot-screecher-15
+68	2/2	9573	Gnarlfoot Slasher	gnarlfoot-slasher-15
+70	2/2	10519	Bloodfire Sawgrass	bloodfire-sawgrass-15
+71	2/2	10509,11396,61538	Accelerite Crystal	accelerite-crystal-15
+71	2/2	10509,11396,61538	Accelerite Crystal	accelerite-crystal-387
+156	0/0	12508	HOLDOUT: Conquer the Yeti	holdout-conquer-the-yeti-1
+160	2/2	15888,50815	Vitalium Crystal	vitalium-crystal-1
+167	2/2	24168	Grove Strangler	grove-strangler-15
+183	2/2	24136	Plagued Hycrest Citizen	plagued-hycrest-citizen-6
+183	2/2	24134,24135,39059,39060	Plagued Hycrest Farmer	plagued-hycrest-farmer-6
+183	2/2	24398	Plagued Hycrest Guard	plagued-hycrest-guard-6
+187	2/2	61995	Gnash	gnash-6
+187	2/2	61986	Greystone Burrower	greystone-burrower-6
+187	2/2	25374	Greystone Demolisher	greystone-demolisher-356
+187	2/2	25374	Greystone Demolisher	greystone-demolisher-6
+187	2/2	12804	Greystone Earthrager	greystone-earthrager-356
+187	2/2	12804	Greystone Earthrager	greystone-earthrager-6
+187	2/2	52330	Greystone Masher	greystone-masher-6
+187	2/2	61994	Greystone Pummeler	greystone-pummeler-6
+187	2/2	13008	Greystone Rumbler	greystone-rumbler-6
+187	2/2	13007	Greystone Slasher	greystone-slasher-6
+188	2/2	13058	Nova Blossom	nova-blossom-6
+189	2/2	24744	Eldan Technology	eldan-technology-356
+189	2/2	24744	Eldan Technology	eldan-technology-6
+190	2/2	24754	Plague Canister	plague-canister-6
+200	0/7	20792	Deadstar Brawler	deadstar-brawler-17
+200	0/7	16884,20209,61523	Deadstar Punisher	deadstar-punisher-17
+200	0/7	21369	Deadstar Rifleman	deadstar-rifleman-17
+200	0/7	20703,20806,21368,29060	Deadstar Scrapper	deadstar-scrapper-17
+200	0/7		Deadstar Trained Dagun	deadstar-trained-dagun-17
+200	0/7	61551	Enforcer Drugel	enforcer-drugel-17
+200	0/7	13103,13669	Lieutenant Pragg	lieutenant-pragg-17
+200	0/7	13326,19122	SWAT: Seeing Deadstars	swat-seeing-deadstars-17
+201	2/2	61550	Frostpaw	frostpaw-17
+201	2/2		Highly Irradiated Icetail Leaper	highly-irradiated-icetail-leaper-17
+201	2/2		Highly Irradiated Icetail Pouncer	highly-irradiated-icetail-pouncer-17
+201	2/2		Highly Irradiated Icetail Slayer	highly-irradiated-icetail-slayer-17
+201	2/2		Highly Irradiated Snoglug	highly-irradiated-snoglug-17
+201	2/2	17286	Irradiated Icetail Leaper	irradiated-icetail-leaper-17
+201	2/2	17286	Irradiated Icetail Leaper	irradiated-icetail-leaper-421
+201	2/2	17287	Irradiated Icetail Pouncer	irradiated-icetail-pouncer-17
+201	2/2	17288	Irradiated Icetail Slayer	irradiated-icetail-slayer-17
+201	2/2	61549	Irradiated Icetail Stalker	irradiated-icetail-stalker-17
+201	2/2	12754	Irradiated Snoglug	irradiated-snoglug-17
+208	0/0	13363	HOLDOUT: Chua Target Practice	holdout-chua-target-practice-17
+209	0/0	13373	HOLDOUT: The Plagued Horde	holdout-the-plagued-horde-6
+210	0/0	13371	HOLDOUT: Crush the Canimid	holdout-crush-the-canimid-6
+218	2/2	13369,19514,22727,48810,48811,48812,48813,48814,48815,48816,48817,48818	Large Loftite Formation	large-loftite-formation-17
+218	2/2	13369,19514,22727,48810,48811,48812,48813,48814,48815,48816,48817,48818	Large Loftite Formation	large-loftite-formation-420
+235	2/2	13725	Cuboar Abomination	cuboar-abomination-6
+235	2/2	62013	Cuboar Colossal	cuboar-colossal-6
+235	2/2	62007	Cuboar Horror	cuboar-horror-6
+235	2/2	26252	Cuboar Mutation	cuboar-mutation-6
+237	2/2	26285,52415	Honeyhive Drone	honeyhive-drone-6
+237	2/2	26155	Honeyhive Guardian	honeyhive-guardian-6
+237	2/2	39023	Honeyhive Harvester	honeyhive-harvester-6
+237	2/2	13831	Honeyhive Queen	honeyhive-queen-6
+237	2/2	26154	Honeyhive Sentinel	honeyhive-sentinel-6
+237	2/2	27146,62023	Honeyhive Stinger	honeyhive-stinger-6
+237	2/2	62026	Honeyhive Warden	honeyhive-warden-6
+237	2/2	26793	Honeywing	honeywing-6
+256	0/0	14050	HOLDOUT: Counting Crowes	holdout-counting-crowes-17
+262	2/14	14110	Darkspur Cartel Terminal	darkspur-cartel-terminal-17
+262	2/14	14110	Darkspur Cartel Terminal	darkspur-cartel-terminal-432
+262	2/14		Darkspur Terminal	darkspur-terminal-17
+264	2/2	61566	Grimpaw	grimpaw-17
+264	2/2	4148	Grimstone Digger	grimstone-digger-17
+264	2/2	19804,20215	Grimstone Mangler	grimstone-mangler-17
+264	2/2	61561	Grimstone Ravager	grimstone-ravager-17
+264	2/2	20937	Grimstone Ruffian	grimstone-ruffian-17
+264	2/2	61624	Grimstone Savage	grimstone-savage-17
+266	2/2	19560	Fiera Flower	fiera-flower-17
+266	2/2	19560	Fiera Flower	fiera-flower-427
+266	2/2	19560	Fiera Flower	fiera-flower-428
+267	0/0	14057	HOLDOUT: A Grim Affair	holdout-a-grim-affair-17
+301	2/2	14559	Blooming Gildgrass	blooming-gildgrass-368
+301	2/2	14559	Blooming Gildgrass	blooming-gildgrass-6
+311	3/13	20792	Deadstar Brawler	deadstar-brawler-17
+311	3/13	21369	Deadstar Rifleman	deadstar-rifleman-17
+311	3/13	19582	Explorer Duskrunner	explorer-duskrunner-17
+311	3/13	37407,46762	XAS Crate	xas-crate-17
+314	0/0	14770	HOLDOUT: Mechanical Hostiles	holdout-mechanical-hostiles-17
+315	0/7	20971	Alerted Probe	alerted-probe-17
+315	0/7	21009	Purifier Mark I	purifier-mark-i-17
+315	0/7	14769	SWAT: Mastering the Magnetron	swat-mastering-the-magnetron-17
+315	0/7	20996,21534	Site 14 Augmentor	site-14-augmentor-17
+315	0/7	61508	Site 14 Defender	site-14-defender-17
+315	0/7	61578	Site 14 Devastator	site-14-devastator-17
+315	0/7	35216,37648	Site 14 Probe	site-14-probe-17
+315	0/7	20997,37643	Site 14 Protector	site-14-protector-17
+425	2/2	18588	Razorbeak Nester	razorbeak-nester-16
+425	2/2	16699	Razorbeak Render	razorbeak-render-16
+425	2/2	16700	Razorbeak Riptalon	razorbeak-riptalon-16
+426	2/2	16610	Air Tome-Binder	air-tome-binder-16
+426	2/2	48837	Gravek the Swale-Striker	gravek-the-swale-striker-16
+426	2/2	61750	Pasik the Wind-Shaper	pasik-the-wind-shaper-16
+426	2/2	16639	Stormtalon Tome-Binder	stormtalon-tome-binder-16
+426	2/2	16640	Summoning Tome-Binder	summoning-tome-binder-16
+426	2/2	16648,17153,34689,37527	Thundercall Acolyte	thundercall-acolyte-16
+426	2/2	14464,21669,37532	Thundercall Arcanist	thundercall-arcanist-16
+426	2/2	14464,21669,37532	Thundercall Arcanist	thundercall-arcanist-405
+426	2/2	61640	Thundercall Blade-Bearer	thundercall-blade-bearer-16
+426	2/2	14468,21667	Thundercall Guardian	thundercall-guardian-16
+426	2/2	14468,21667	Thundercall Guardian	thundercall-guardian-405
+426	2/2	14461,16613,21670	Thundercall Warrior	thundercall-warrior-16
+426	2/2	16612,21671	Thundercall Wind-Speaker	thundercall-wind-speaker-16
+426	2/2	61749	Thundercall Wind-Striker	thundercall-wind-striker-16
+426	2/2	61641	Thundercall Wind-Weaver	thundercall-wind-weaver-16
+426	2/2	16611	Thundercall Wind-Witch	thundercall-wind-witch-16
+426	2/2	16808	Wind-Wail the Storm-Shaman	wind-wail-the-storm-shaman-16
+426	2/2	16808	Wind-Wail the Storm-Shaman	wind-wail-the-storm-shaman-405
+427	2/2	16778,17217,35134	Gust Elemental	gust-elemental-16
+427	2/2	61748	Sandsquall Elemental	sandsquall-elemental-16
+427	2/2	61638	Sandstorm Elemental	sandstorm-elemental-16
+427	2/2	48834	Veshra the Eye of the Storm	veshra-the-eye-of-the-storm-16
+427	2/2	14573	Wind Elemental	wind-elemental-16
+430	0/0	16901	HOLDOUT: Defend the XAS Fuel Supply	holdout-defend-the-xas-fuel-supply-16
+431	0/0	16902	HOLDOUT: Hostile Natives	holdout-hostile-natives-16
+432	0/0	16903	HOLDOUT: Conquer the Pell	holdout-conquer-the-pell-16
+648	2/2	36884	Coldburrow Xenobreeder	coldburrow-xenobreeder-1
+648	2/2	36884	Coldburrow Xenobreeder	coldburrow-xenobreeder-219
+648	2/2	14054,36429	Fierce Skeech Scratcher	fierce-skeech-scratcher-1
+648	2/2	11907,11913	Skeech Diviner	skeech-diviner-1
+648	2/2	11907,11913	Skeech Diviner	skeech-diviner-219
+648	2/2	11917,34186	Skeech Frostlord	skeech-frostlord-1
+648	2/2	11917,34186	Skeech Frostlord	skeech-frostlord-219
+648	2/2	11910	Skeech Scratcher	skeech-scratcher-1
+648	2/2	11910	Skeech Scratcher	skeech-scratcher-219
+648	2/2	11912,26049,69597	Skeech Shaman	skeech-shaman-1
+648	2/2	11912,26049,69597	Skeech Shaman	skeech-shaman-219
+662	0/0	18981	HOLDOUT: The East Wall	holdout-the-east-wall-16
+663	0/0	18982	HOLDOUT: Death From Below!	holdout-death-from-below-16
+664	0/6	17917,19544,20985,49394	Prison Cage	prison-cage-16
+664	0/6	18983	RESCUE OP: Battlefield Prisoners	rescue-op-battlefield-prisoners-16
+665	0/5	18984	DEMOLITION: Explosive Assault	demolition-explosive-assault-16
+665	0/5	19161	Dominion Key Element	dominion-key-element-16
+666	0/0	18985	HOLDOUT: Frontal Assault	holdout-frontal-assault-16
+667	0/7	17923	Chief Arms Officer Voski	chief-arms-officer-voski-16
+667	0/7	17919	Chief Cannoneer Nox	chief-cannoneer-nox-16
+667	0/7	17918	Chief Engineer Fippi	chief-engineer-fippi-16
+667	0/7	17922	Chief Medical Officer Terentius	chief-medical-officer-terentius-16
+667	0/7	17969,22268,51551,70232	Colonel Audax	colonel-audax-16
+667	0/7	17947,23307	Crimson Advance Scout	crimson-advance-scout-16
+667	0/7	61632	Crimson Assault Trooper	crimson-assault-trooper-16
+667	0/7	17873,25838	Crimson Battlebot	crimson-battlebot-16
+667	0/7	21881	Crimson Breechloader	crimson-breechloader-16
+667	0/7	19229	Crimson Equalizer	crimson-equalizer-16
+667	0/7	61645	Crimson Executioner	crimson-executioner-16
+667	0/7	61711	Crimson Heavy Gunner	crimson-heavy-gunner-16
+667	0/7	61630	Crimson Ranger	crimson-ranger-16
+667	0/7	61647	Crimson Scattershot	crimson-scattershot-16
+667	0/7		Crimson Sentry	crimson-sentry-16
+667	0/7	19228	Crimson Slasher	crimson-slasher-16
+667	0/7	61644	Crimson Slaughtershot	crimson-slaughtershot-16
+667	0/7	21706	Crimson Supply Operator	crimson-supply-operator-16
+667	0/7	17908,21879	Crimson Trabant	crimson-trabant-16
+667	0/7	61742	Fuelfuze Devastator M9	fuelfuze-devastator-m9-16
+667	0/7	22270,22271	Fuelfuze Operations Overseer	fuelfuze-operations-overseer-16
+667	0/7	21858,21859	Fuelfuze Supplier	fuelfuze-supplier-16
+667	0/7	23309	Fuelfuze Supply Operator	fuelfuze-supply-operator-16
+667	0/7	21876	Noxbane Biotech	noxbane-biotech-16
+667	0/7	61684	Noxbane Direbot	noxbane-direbot-16
+667	0/7	17871	Noxbane Dreadbot	noxbane-dreadbot-16
+667	0/7		Noxbane Sentry	noxbane-sentry-16
+667	0/7	61685	Noxbane Toxicologist	noxbane-toxicologist-16
+667	0/7	17898	Noxbane Tracker	noxbane-tracker-16
+667	0/7	18986	SWAT: The Subtle Rocket	swat-the-subtle-rocket-16
+667	0/7	17911	Toxiplast Biotech	toxiplast-biotech-16
+667	0/7	17913	Toxiplast Microchemist	toxiplast-microchemist-16
+667	0/7	61741	XD-1 Dreadnaught	xd-1-dreadnaught-16
+667	0/7	61735	XV-3 Destroyer	xv-3-destroyer-16
+668	0/5	18987	DEMOLITION: Poison Explosion	demolition-poison-explosion-16
+668	0/5	19164,20574	Poison Canister	poison-canister-16
+669	0/4		ASSASSINATION: Lead Exo-Archaeologist Skarval	assassination-lead-exo-archaeologist-skarval-16
+669	0/4	18988	ASSASSINATION: Lead Xenoarchaeologist Skarval	assassination-lead-xenoarchaeologist-skarval-16
+669	0/4	19234	Lead Xenoarchaeologist Skarval	lead-xenoarchaeologist-skarval-16
+670	0/7	16610	Air Tome-Binder	air-tome-binder-16
+670	0/7	61750	Pasik the Wind-Shaper	pasik-the-wind-shaper-16
+670	0/7	19014	SWAT: Blast It All to Pell	swat-blast-it-all-to-pell-16
+670	0/7	16639	Stormtalon Tome-Binder	stormtalon-tome-binder-16
+670	0/7	16640	Summoning Tome-Binder	summoning-tome-binder-16
+670	0/7	16648,17153,34689,37527	Thundercall Acolyte	thundercall-acolyte-16
+670	0/7	14464,21669,37532	Thundercall Arcanist	thundercall-arcanist-16
+670	0/7	61640	Thundercall Blade-Bearer	thundercall-blade-bearer-16
+670	0/7	14468,21667	Thundercall Guardian	thundercall-guardian-16
+670	0/7	14461,16613,21670	Thundercall Warrior	thundercall-warrior-16
+670	0/7	16612,21671	Thundercall Wind-Speaker	thundercall-wind-speaker-16
+670	0/7	61749	Thundercall Wind-Striker	thundercall-wind-striker-16
+670	0/7	61641	Thundercall Wind-Weaver	thundercall-wind-weaver-16
+670	0/7	16611	Thundercall Wind-Witch	thundercall-wind-witch-16
+675	0/0	19117	HOLDOUT: Quell the Dominion Invaders	holdout-quell-the-dominion-invaders-16
+679	0/5	13095,34668,34669	Chua Ship Anchor	chua-ship-anchor-17
+679	0/5	19131	DEMOLITION: Anchors Away	demolition-anchors-away-17
+680	0/4	19136	ASSASSINATION: Valtross Stormwing	assassination-valtross-stormwing-16
+680	0/4	14614	Valtross Stormwing	valtross-stormwing-16
+683	0/0	19143	HOLDOUT: Insect Repellent	holdout-insect-repellent-16
+685	0/7	35610	Cave Thumper	cave-thumper-17
+685	0/7	35610	Cave Thumper	cave-thumper-421
+685	0/7	16630	Icemaw Alpha	icemaw-alpha-17
+685	0/7	16632	Icemaw Frostclaw	icemaw-frostclaw-17
+685	0/7	16632	Icemaw Frostclaw	icemaw-frostclaw-421
+685	0/7	16631	Icemaw Mauler	icemaw-mauler-17
+685	0/7	19177	SWAT: Caving In	swat-caving-in-17
+685	0/7	19173	Stalactite	stalactite-17
+686	0/7	17338	Breog the Bonebreaker	breog-the-bonebreaker-16
+686	0/7	19168	SWAT: Extra Firepower	swat-extra-firepower-16
+686	0/7	61760	Stormwing Broodmaven	stormwing-broodmaven-16
+686	0/7	14608,17204	Stormwing Brutalizer	stormwing-brutalizer-16
+686	0/7	61721	Stormwing Cloudstriker	stormwing-cloudstriker-16
+686	0/7	14612,17359,22312	Stormwing Eviscerator	stormwing-eviscerator-16
+686	0/7	11153,14616,17206,59486	Stormwing Guardian	stormwing-guardian-16
+686	0/7	11149,14618,17207,17211,17212,17344	Stormwing Protector	stormwing-protector-16
+686	0/7	61720	Stormwing Skywatcher	stormwing-skywatcher-16
+686	0/7	14613,17361,22313	Stormwing Warrior	stormwing-warrior-16
+686	0/7	48840	Zersa the Betrothed	zersa-the-betrothed-16
+696	2/2	19549	Dribbles	dribbles-16
+696	2/2	48836	Slopper	slopper-16
+696	2/2	17094,17120	Windyburrow Biter	windyburrow-biter-16
+696	2/2	17098,17122	Windyburrow Gnawer	windyburrow-gnawer-16
+696	2/2	17099	Windyburrow Nibbler	windyburrow-nibbler-16
+696	2/2	17097,17121	Windyburrow Nipper	windyburrow-nipper-16
+697	2/2	19491,19626,46327	Pollen	pollen-16
+698	2/2	19474	Falkrin Feather	falkrin-feather-16
+698	2/2	19484	Falkrin Feather Pile	falkrin-feather-pile-16
+699	2/2	19489	Primal Osun Brazier	primal-osun-brazier-16
+700	3/13	13377,16846	Explorer Rokgore	explorer-rokgore-17
+700	3/13		Mound of Ice	mound-of-ice-17
+701	2/14	14555,14811,18459,19210,19686,20731,46707,47006	Eldan Relic	eldan-relic-17
+701	2/14	14555,14811,18459,19210,19686,20731,46707,47006	Eldan Relic	eldan-relic-435
+702	2/2	21727	Augmented Gustclaw Burrower	augmented-gustclaw-burrower-16
+702	2/2	21727	Augmented Gustclaw Burrower	augmented-gustclaw-burrower-404
+702	2/2	61738	Augmented Gustclaw Eviscerator	augmented-gustclaw-eviscerator-16
+702	2/2	61698	Augmented Gustclaw Shredder	augmented-gustclaw-shredder-16
+702	2/2	61699	Augmented Sickleswarm Divebomber	augmented-sickleswarm-divebomber-16
+702	2/2	19328	Augmented Sickleswarm Hivedrone	augmented-sickleswarm-hivedrone-16
+702	2/2	61739	Augmented Sickleswarm Venomstriker	augmented-sickleswarm-venomstriker-16
+702	2/2	61740	Beezlebuzz the Vilestinger	beezlebuzz-the-vilestinger-16
+706	2/2	18441,19574	Eldan Scrap	eldan-scrap-16
+707	2/2	21923	Honeysting Barbtail	honeysting-barbtail-16
+707	2/2	21922	Honeysting Hivebomber	honeysting-hivebomber-16
+707	2/2	61734	Honeysting Hiveguard	honeysting-hiveguard-16
+707	2/2	61623	Honeysting Impaler	honeysting-impaler-16
+707	2/2	21644,56177	Honeysting Striker	honeysting-striker-16
+707	2/2	48823	Queen Bizzelt	queen-bizzelt-16
+707	2/2	61754	Whimwood Barbtail	whimwood-barbtail-16
+707	2/2	17086,17507,59838	Whimwood Bladewing	whimwood-bladewing-16
+707	2/2	17087,17508,59839	Whimwood Mender	whimwood-mender-16
+707	2/2	17088,17509,59836	Whimwood Stinger	whimwood-stinger-16
+707	2/2	17089,17510,59837	Whimwood Swarmer	whimwood-swarmer-16
+708	2/2	15263	Cloverscale	cloverscale-16
+708	2/2	22299,36722,36726,36751,36755,36809	Whimflower	whimflower-16
+708	2/2	61705	Whimthorn Fangstem	whimthorn-fangstem-16
+708	2/2	17504	Whimthorn Lasher	whimthorn-lasher-16
+708	2/2	17336	Whimthorn Sawtooth	whimthorn-sawtooth-16
+708	2/2	17505	Whimthorn Spitter	whimthorn-spitter-16
+709	2/14	12402,18161,18185,18186,18382,18383,19368,19663,20610,21602,21603,21761,21769,23441,23464,25454,25506,26173,29816,34771,43503,43980,43982,49585,50790,51051,51052,51053,51054,51057,51107,51108,51109,51123,51444,51450,51776,56641,56642,56643,56895,59436,63643,65772,67796	Eldan Control Panel	eldan-control-panel-16
+710	2/2	48451	Galeradish	galeradish-16
+710	2/2	21064	Galeras Sprout	galeras-sprout-16
+711	2/14	19635	Toxic Material	toxic-material-16
+711	2/14	19635	Toxic Material	toxic-material-402
+712	2/2	19637	Crimson Legion Uplink Station	crimson-legion-uplink-station-16
+713	3/13	19684	Explorer Cawley	explorer-cawley-17
+713	3/13	22310,37507	Slush Crate	slush-crate-17
+716	0/7	20931	Pinewrath Barktooth	pinewrath-barktooth-17
+716	0/7	61576	Pinewrath Branchsnapper	pinewrath-branchsnapper-17
+716	0/7	13763	Pinewrath Logchomper	pinewrath-logchomper-17
+716	0/7	61601	Pinewrath Stumpmaker	pinewrath-stumpmaker-17
+716	0/7	20932	Pinewrath Trunksplitter	pinewrath-trunksplitter-17
+716	0/7	19695	SWAT: Flaming Stumpkins	swat-flaming-stumpkins-17
+716	0/7	14136	The Lurking Terror	the-lurking-terror-17
+717	0/6	19710	RESCUE OP: Gallow's Duskfall	rescue-op-gallows-duskfall-17
+717	0/6	19708	Skeech Prisoner Bag	skeech-prisoner-bag-17
+717	0/6	19708	Skeech Prisoner Bag	skeech-prisoner-bag-428
+777	2/2	20575	Evolved Silversnout	evolved-silversnout-2
+777	2/2	20575	Evolved Silversnout	evolved-silversnout-416
+777	2/2	11924,53388	Frostbite	frostbite-2
+777	2/2	61868	Silversnout Crusher	silversnout-crusher-2
+777	2/2		Silversnout Girrok	silversnout-girrok-2
+777	2/2		Silversnout Girrok	silversnout-girrok-416
+777	2/2	61867	Silversnout Mauler	silversnout-mauler-2
+778	2/2	20779	Boulderpack Ringtail	boulderpack-ringtail-2
+778	2/2	20775,39697	Enraged Ringtail	enraged-ringtail-2
+778	2/2	61864	Furious Ringtail	furious-ringtail-2
+778	2/2	19887	Playful Ringtail	playful-ringtail-2
+778	2/2	20776	Territorial Ringtail	territorial-ringtail-2
+779	2/2	19874,22643	Ice-Crusted Boulderback	ice-crusted-boulderback-2
+779	2/2	61862	Permafrost Boulderback	permafrost-boulderback-2
+779	2/2	61861,73173	Rime-Scaled Boulderback	rime-scaled-boulderback-2
+779	2/2	53393	Stormshell	stormshell-2
+780	2/2	20914	Frost-Striped Hunter	frost-striped-hunter-2
+780	2/2	19893	Frost-Striped Predator	frost-striped-predator-2
+780	2/2	22600,25637	Frost-Striped Pumera	frost-striped-pumera-2
+780	2/2	61869	Ice-Claw Predator	ice-claw-predator-2
+781	2/2	19889	Lumbering Walatusk	lumbering-walatusk-2
+781	2/2	20778	Stranded Walatusk Bull	stranded-walatusk-bull-2
+781	2/2	20994	Walatusk Bull	walatusk-bull-2
+782	2/2	19949,22613,23703,39903,40802	Tundra Jabbit	tundra-jabbit-2
+784	0/0	21057	Holdout: When Freebots Attack	holdout-when-freebots-attack-2
+787	3/13	17481,18160,20308,21180	Buzzbing Honey	buzzbing-honey-16
+787	3/13	21138	Explorer Hailstone	explorer-hailstone-16
+787	3/13	18749,20564,21164,32718	Ravenok Nest	ravenok-nest-16
+789	3/12	21222	Underseer Mogo	underseer-mogo-16
+789	3/12	21222	Underseer Mogo	underseer-mogo-401
+791	0/7	21136	SWAT: Toxic Ooze	swat-toxic-ooze-2
+791	0/7	61859	Snowshadow Analyst	snowshadow-analyst-2
+791	0/7	61859	Snowshadow Analyst	snowshadow-analyst-408
+791	0/7	20780	Snowshadow Apprentice Mastermind	snowshadow-apprentice-mastermind-2
+791	0/7	19900	Snowshadow Scientist	snowshadow-scientist-2
+792	3/13	21211	Disturbed Snow Mound	disturbed-snow-mound-2
+792	3/13	19927	Thuwn Quillwhiskers	thuwn-quillwhiskers-2
+793	3/12	39995	Escaped Skug Queen	escaped-skug-queen-2
+793	3/12	39995	Escaped Skug Queen	escaped-skug-queen-415
+794	3/12	21199	Coded Journal	coded-journal-2
+796	3/13	21137	Intelligence Assessment	intelligence-assessment-2
+796	3/13	21081	Secured Chest	secured-chest-2
+796	3/13	21081	Secured Chest	secured-chest-408
+796	3/13	21253	Security Crate	security-crate-2
+797	0/6	16853,21155,67375	Cage	cage-2
+797	0/6	16853,21155,67375	Cage	cage-407
+797	0/6	21156	RESCUE OP: Bot Savior	rescue-op-bot-savior-2
+802	0/5	21203	DEMOLITION: A Hydronamic Blast	demolition-a-hydronamic-blast-2
+802	0/5	21380,39580,49317,49320,49384	Ikthian Incubator	ikthian-incubator-2
+804	0/4	21208	ASSASSINATION: Retire the Hunter	assassination-retire-the-hunter-2
+804	0/4	21406	Elder Hunter Khorus	elder-hunter-khorus-2
+805	0/0	21210	HOLDOUT: Holding Back the ICI	holdout-holding-back-the-ici-2
+806	0/0	21279	HOLDOUT: Icetail Incursion	holdout-icetail-incursion-2
+814	2/14	21518	Gigantic Ancient Skull	gigantic-ancient-skull-2
+814	2/14	21518	Gigantic Ancient Skull	gigantic-ancient-skull-407
+814	2/14	62079	Gigantic Bone Claw	gigantic-bone-claw-2
+814	2/14	62079	Gigantic Bone Claw	gigantic-bone-claw-407
+815	3/13	17002	Explorer Britara	explorer-britara-16
+815	3/13	21530	Secured Crate	secured-crate-16
+816	3/13	21529	Explorer Zitara	explorer-zitara-16
+826	2/2	21955	Augmented Slateform Charger	augmented-slateform-charger-17
+826	2/2	61579	Augmented Slateform Demolisher	augmented-slateform-demolisher-17
+826	2/2	21001	Augmented Slateform Slammer	augmented-slateform-slammer-17
+826	2/2	19377	Stonemore	stonemore-17
+827	2/2	20931	Pinewrath Barktooth	pinewrath-barktooth-17
+827	2/2	61576	Pinewrath Branchsnapper	pinewrath-branchsnapper-17
+827	2/2	13763	Pinewrath Logchomper	pinewrath-logchomper-17
+827	2/2	61601	Pinewrath Stumpmaker	pinewrath-stumpmaker-17
+827	2/2	20932	Pinewrath Trunksplitter	pinewrath-trunksplitter-17
+827	2/2	14136	The Lurking Terror	the-lurking-terror-17
+830	0/4	21916	ASSASSINATION: Slushed and Slurried	assassination-slushed-and-slurried-17
+830	0/4	21893	Gurtha Crowe	gurtha-crowe-17
+831	3/13		Excavator's Lockbox	excavators-lockbox-16
+831	3/13	21917	Rocky Moreland	rocky-moreland-16
+843	3/13	22350	Explorer Wentworth	explorer-wentworth-16
+860	0/0	22761	HOLDOUT: Guardians of Pride's Rest	holdout-guardians-of-prides-rest-15
+863	0/0	22807	Holdout: Moodie Mysticism	holdout-moodie-mysticism-15
+865	0/4	22816	ASSASSINATION: Operation Monkeywrench	assassination-operation-monkeywrench-15
+865	0/4	22821	Jagged Rock Mechanic	jagged-rock-mechanic-15
+867	0/7	61494	Gnarlfoot Brute	gnarlfoot-brute-15
+867	0/7	9570	Gnarlfoot Climber	gnarlfoot-climber-15
+867	0/7	23319,61672	Gnarlfoot Screecher	gnarlfoot-screecher-15
+867	0/7	9573	Gnarlfoot Slasher	gnarlfoot-slasher-15
+867	0/7	22861	SWAT: Monkeyshines	swat-monkeyshines-15
+868	3/13	22934	Murray	murray-15
+871	2/2	20775,39697	Enraged Ringtail	enraged-ringtail-2
+871	2/2		Permafrost	permafrost-2
+871	2/2	19887	Playful Ringtail	playful-ringtail-2
+871	2/2	22609,23704	Territorial Icetail	territorial-icetail-2-veteran
+872	2/2	22600,25637	Frost-Striped Pumera	frost-striped-pumera-2
+873	2/2	11924,53388	Frostbite	frostbite-2
+873	2/2	61868	Silversnout Crusher	silversnout-crusher-2
+873	2/2		Silversnout Girrok	silversnout-girrok-2
+873	2/2	19878,22606	Silversnout Matron	silversnout-matron-2
+873	2/2	61867	Silversnout Mauler	silversnout-mauler-2
+874	2/2	19874,22643	Ice-Crusted Boulderback	ice-crusted-boulderback-2
+874	2/2	61862	Permafrost Boulderback	permafrost-boulderback-2
+874	2/2	61861,73173	Rime-Scaled Boulderback	rime-scaled-boulderback-2
+874	2/2	53393	Stormshell	stormshell-2
+875	2/2	19949,22613,23703,39903,40802	Tundra Jabbit	tundra-jabbit-2
+877	2/2	19885,22611,45166	Territorial Icebay Shellark	territorial-icebay-shellark-2
+879	3/13	20877,21272,23137	Ammo Crate	ammo-crate-2
+879	3/13	30056,47952	Eldan Lockbox	eldan-lockbox-2
+879	3/13	23148	Explorer Taspillus Pellos	explorer-taspillus-pellos-2
+880	3/13		Dominion Lockbox	dominion-lockbox-2
+880	3/13	23149	Explorer Vinulus Prullos	explorer-vinulus-prullos-2
+881	3/13	23147,56435	Explorer Avicta Agarius	explorer-avicta-agarius-2
+881	3/13	23134	Submerged Locker	submerged-locker-2
+885	0/0	23104	HOLDOUT: Pumera Standoff	holdout-pumera-standoff-2
+886	0/0	23105	HOLDOUT: Exile Raiders	holdout-exile-raiders-2
+893	0/0	23158	HOLDOUT: Prisoner Pushback	holdout-prisoner-pushback-2
+894	0/4	23468	ASSASSINATION: Brother Vasker	assassination-brother-vasker-2
+894	0/4	23186	Brother Vasker	brother-vasker-2
+896	0/7	22548	Pridianflow Cringer	pridianflow-cringer-2
+896	0/7	22540	Pridianflow Frostformer	pridianflow-frostformer-2
+896	0/7	22545	Pridianheart Cruxgrower	pridianheart-cruxgrower-2
+896	0/7	23200	SWAT: Destabilization	swat-destabilization-2
+896	0/7		Toxic Fraz	toxic-fraz-2
+896	0/7		Toxic Fraz	toxic-fraz-409
+896	0/7	23302	Toxic Frizlet	toxic-frizlet-2
+896	0/7	23302	Toxic Frizlet	toxic-frizlet-409
+1009	0/0	23620	HOLDOUT: Mercenary Madness	holdout-mercenary-madness-15
+1028	0/7	13540,13544,13545,20627,32966,40149,41134,46404,49626,59993	Canimid Burrow	canimid-burrow-17
+1028	0/7	23911	SWAT: Fire in the Hole	swat-fire-in-the-hole-17
+1029	0/4	23860	ASSASSINATION: Kill the Protector	assassination-kill-the-protector-17
+1029	0/4	23850	Eldan Protector Mark II	eldan-protector-mark-ii-17
+1029	0/4	23850	Eldan Protector Mark II	eldan-protector-mark-ii-436
+1033	2/2	23884,26974,34099,34144,69532	Augmented Buzzbing	augmented-buzzbing-2
+1033	2/2	23883,26973,35623,60001	Augmented Canimid	augmented-canimid-2
+1048	2/2	24322,52583	Bloodpetal	bloodpetal-12
+1053	0/0	24403	HOLDOUT: Battlebot Brawl	holdout-battlebot-brawl-12
+1056	2/2	24244	Dreg Abomination	dreg-abomination-12
+1056	2/2	32065	Scarhide Assailant	scarhide-assailant-12
+1056	2/2	38084	Scarhide Basher	scarhide-basher-12
+1056	2/2	24141	Scarhide Beastmaster	scarhide-beastmaster-12
+1056	2/2	24425	Scarhide Chief	scarhide-chief-12
+1056	2/2	24216	Scarhide Farstriker	scarhide-farstriker-12
+1056	2/2	24140	Scarhide Raider	scarhide-raider-12
+1056	2/2	32067	Scarhide Scrabmaster	scarhide-scrabmaster-12
+1057	2/2	24793,38162	Deactivated Battlebot	deactivated-battlebot-12
+1057	2/2		Hacked Battlebot	hacked-battlebot-12
+1091	0/7	24124	Grave Crawler	grave-crawler-6
+1091	0/7	61964	Grave Creeper	grave-creeper-6
+1091	0/7	61967	Grave Venomspitter	grave-venomspitter-6
+1091	0/7	24125	Grave Walker	grave-walker-6
+1091	0/7	52265	Grave Weaver	grave-weaver-6
+1091	0/7	13375	SWAT: Spider Scorcher	swat-spider-scorcher-6
+1091	0/7	24126	Spithra	spithra-6
+1093	0/5	13376	DEMOLITION: Blow up the Bugs	demolition-blow-up-the-bugs-6
+1093	0/5	24701,59645	Listening Device	listening-device-6
+1098	0/4	24734,24735	ASSASSINATION: Kill the Chef	assassination-kill-the-chef-2
+1098	0/4	24933	Chef Garnua	chef-garnua-2
+1100	0/4	24734,24735	ASSASSINATION: Kill the Chef	assassination-kill-the-chef-2
+1100	0/4	24933	Chef Garnua	chef-garnua-2
+1103	2/2	25403,59531,59532	Lopp Treasure Hunter	lopp-treasure-hunter-2
+1106	2/2	61872	Rimerazor Bruiser	rimerazor-bruiser-2
+1106	2/2	61875	Rimerazor Howler	rimerazor-howler-2
+1106	2/2	24067	Rimerazor Nomad	rimerazor-nomad-2
+1107	2/2	24068	Coldroot Icecracker	coldroot-icecracker-2
+1107	2/2	24068	Coldroot Icecracker	coldroot-icecracker-419
+1110	0/7	24789,24790	SWAT: Air Superiority	swat-air-superiority-2
+1110	0/7	45797	Squirg Clampjaw	squirg-clampjaw-2
+1110	0/7	24036	Squirg Erupter	squirg-erupter-2
+1110	0/7	45799	Squirg Ripfang	squirg-ripfang-2
+1110	0/7	24035,30646,39646	Squirg Smasher	squirg-smasher-2
+1110	0/7	24037	Squirg Spewer	squirg-spewer-2
+1110	0/7	24038	Squirg Stalker	squirg-stalker-2
+1110	0/7	24039,24040,24041,24042,24420,24421,24422,24423,25235,25238,40905,40906,40907,54033,61992,61993	Squirg Zombie	squirg-zombie-2
+1110	0/7	24039,24040,24041,24042,24420,24421,24422,24423,25235,25238,40905,40906,40907,54033,61992,61993	Squirg Zombie	squirg-zombie-412
+1116	0/0	24765	HOLDOUT: Chua Augmentation Gone Wrong	holdout-chua-augmentation-gone-wrong-15
+1121	0/7	24789,24790	SWAT: Air Superiority	swat-air-superiority-2
+1121	0/7	45797	Squirg Clampjaw	squirg-clampjaw-2
+1121	0/7	24036	Squirg Erupter	squirg-erupter-2
+1121	0/7	45799	Squirg Ripfang	squirg-ripfang-2
+1121	0/7	24035,30646,39646	Squirg Smasher	squirg-smasher-2
+1121	0/7	24037	Squirg Spewer	squirg-spewer-2
+1121	0/7	24038	Squirg Stalker	squirg-stalker-2
+1121	0/7	24039,24040,24041,24042,24420,24421,24422,24423,25235,25238,40905,40906,40907,54033,61992,61993	Squirg Zombie	squirg-zombie-2
+1132	3/13	21373	Ikthian Dissector	ikthian-dissector-2
+1132	3/13	24800	Treasure Hunter Madhavi	treasure-hunter-madhavi-2
+1140	3/13	24838	Archaeologist Falco	archaeologist-falco-6
+1140	3/13	24853,33562,39299,39300,39301,42425,42427,42428,42429,43350,43352	Loose Rock	loose-rock-6
+1148	0/7	50860	Gavwyn the Verdant Defender	gavwyn-the-verdant-defender-15
+1148	0/7	24859	SWAT: Toxic Aurin	swat-toxic-aurin-15
+1148	0/7	61560	Wildwood Bladewarden	wildwood-bladewarden-15
+1148	0/7	24146	Wildwood Protector	wildwood-protector-15
+1148	0/7	24144	Wildwood Weaver	wildwood-weaver-15
+1148	0/7	24145	Wildwood Whisperer	wildwood-whisperer-15
+1151	0/5	24915,24917	DEMOLITION: Fire in the Squirg Hole!	demolition-fire-in-the-squirg-hole-2
+1151	0/5	24855	Squirg Mound	squirg-mound-2
+1153	2/14	25048	Feralplain Data Station	feralplain-data-station-15
+1156	3/13	24892	Discarded Barrel	discarded-barrel-6
+1156	3/13	24873	Relic Hunter Lucan	relic-hunter-lucan-6
+1160	0/6	24922,34473	Falkrin Prisoner	falkrin-prisoner-15
+1160	0/6	24918	RESCUE OP: Falkrin Prisoners	rescue-op-falkrin-prisoners-15
+1161	0/5	24915,24917	DEMOLITION: Fire in the Squirg Hole!	demolition-fire-in-the-squirg-hole-2
+1161	0/5	24855	Squirg Mound	squirg-mound-2
+1171	0/6		Lopp in Soup	lopp-in-soup-2
+1171	0/6	24993,24995	RESCUE OP: Stop Lopp Soup	rescue-op-stop-lopp-soup-2
+1174	0/6		Lopp in Soup	lopp-in-soup-2
+1174	0/6	24993,24995	RESCUE OP: Stop Lopp Soup	rescue-op-stop-lopp-soup-2
+1180	0/4	25035	ASSASSINATION: Deathmite Queen	assassination-deathmite-queen-15
+1180	0/4	24236	Deathmite Queen	deathmite-queen-15
+1182	2/14	25040,28914,40876,74929	Eldan Information Construct	eldan-information-construct-15
+1182	2/14	25040,28914,40876,74929	Eldan Information Construct	eldan-information-construct-389
+1184	0/0	25076	HOLDOUT: Terminite Terror	holdout-terminite-terror-15
+1188	0/7	35626	Energized Hillscourge Biter	energized-hillscourge-biter-15
+1188	0/7	61558	Energized Hillscourge Demolisher	energized-hillscourge-demolisher-15
+1188	0/7	61518	Energized Hillscourge Glutton	energized-hillscourge-glutton-15
+1188	0/7	33083	Energized Hillscourge Rumbler	energized-hillscourge-rumbler-15
+1188	0/7	33082	Energized Hillscourge Scratcher	energized-hillscourge-scratcher-15
+1188	0/7	24230	Hillscourge Biter	hillscourge-biter-15
+1188	0/7	61557	Hillscourge Demolisher	hillscourge-demolisher-15
+1188	0/7	61557	Hillscourge Demolisher	hillscourge-demolisher-375
+1188	0/7	61510	Hillscourge Glutton	hillscourge-glutton-15
+1188	0/7	25075	Hillscourge Hatchling	hillscourge-hatchling-15
+1188	0/7	24232,46202	Hillscourge Pest	hillscourge-pest-15
+1188	0/7	11161	Hillscourge Plaguebug	hillscourge-plaguebug-15
+1188	0/7	11164	Hillscourge Protector	hillscourge-protector-15
+1188	0/7	24229,36702	Hillscourge Rumbler	hillscourge-rumbler-15
+1188	0/7	24857	Hillscourge Scratcher	hillscourge-scratcher-15
+1188	0/7	25320	SWAT: Field Zapper 2000	swat-field-zapper-2000-15
+1188	0/7	50861	Terminus Rex	terminus-rex-15
+1189	3/13	25363	Surveyor Pluvera	surveyor-pluvera-15
+1251	2/14	19638,24924,30182,33902,35123,51324	Eldan Fuel Rod	eldan-fuel-rod-16
+1261	0/0	26129	HOLDOUT: Fray in the Fog	holdout-fray-in-the-fog-22
+1262	2/2	26209,68378	Gloomshroud	gloomshroud-22
+1284	0/4	26411	ASSASSINATION: Mor'ghin the Red	assassination-morghin-the-red-15
+1284	0/4	26410	Mor'ghin the Red	morghin-the-red-15
+1286	0/0	26416	HOLDOUT: Mine, Freebot, Mine!	holdout-mine-freebot-mine-6
+1288	3/17	26421,35817,42510	Surveillance Camera Station	surveillance-camera-station-15
+1290	0/7	26432	SWAT: Eldan EMP	swat-eldan-emp-15
+1290	0/7	26197,26446,26808	Skeledroid Ambusher	skeledroid-ambusher-15
+1290	0/7	26201,26327,26785,26809,38465	Skeledroid Ravager	skeledroid-ravager-15
+1290	0/7	26202,26326,26806,38464	Skeledroid Scrapper	skeledroid-scrapper-15
+1290	0/7	26630,26807	Skeledroid Slicer	skeledroid-slicer-15
+1290	0/7	26805	Skeledroid Stalker	skeledroid-stalker-15
+1290	0/7	61593	Skeledroid Terrorizer	skeledroid-terrorizer-15
+1292	0/6	26449	Distressed Freebot Miner	distressed-freebot-miner-6
+1292	0/6	26451	RESCUE OP: Cornered Freebots	rescue-op-cornered-freebots-6
+1293	2/2	26005	Harbringer Sveltla	harbringer-sveltla-2
+1293	2/2	61939	Soulcore Defender	soulcore-defender-2
+1293	2/2	26001	Soulcore Disciple	soulcore-disciple-2
+1293	2/2	25999	Soulcore Evocator	soulcore-evocator-2
+1293	2/2	61942	Soulcore Fanatic	soulcore-fanatic-2
+1293	2/2	25998	Soulcore Vindicator	soulcore-vindicator-2
+1293	2/2	26002	Soulcore Zealot	soulcore-zealot-2
+1294	2/2	25994	Modified X426 Probe	modified-x426-probe-2
+1294	2/2	61944	X426 Augmentor Apex	x426-augmentor-apex-2
+1295	0/5	26483,26484	DEMOLITION: Ascendancy Prison Breaks	demolition-ascendancy-prison-breaks-2
+1295	0/5	26171,26477,50151,56803	Eldan Force Field	eldan-force-field-2
+1298	2/14	26865	Amethyst Razorbush	amethyst-razorbush-15
+1298	2/14	26460	Giant Papyrus	giant-papyrus-15
+1298	2/14	26461	Giant Pricklepaw	giant-pricklepaw-15
+1301	0/4	26473,26478	ASSASSINATION: The Pell Interrogator	assassination-the-pell-interrogator-2
+1301	0/4	26471	Interrogator Khamph	interrogator-khamph-2
+1302	2/14	26472	Ikthian Data Terminal	ikthian-data-terminal-2
+1303	2/14	26472	Ikthian Data Terminal	ikthian-data-terminal-2
+1305	2/2	26039	Silverscale Hydrocrawler	silverscale-hydrocrawler-2
+1306	0/7	26155	Honeyhive Guardian	honeyhive-guardian-6
+1306	0/7	26746,26757	Honeyhive Ransacker	honeyhive-ransacker-6
+1306	0/7	26154	Honeyhive Sentinel	honeyhive-sentinel-6
+1306	0/7	62026	Honeyhive Warden	honeyhive-warden-6
+1306	0/7	26793	Honeywing	honeywing-6
+1306	0/7	26474	SWAT: Fire Mission	swat-fire-mission-6
+1307	2/2	26039	Silverscale Hydrocrawler	silverscale-hydrocrawler-2
+1308	0/4	26473,26478	ASSASSINATION: The Pell Interrogator	assassination-the-pell-interrogator-2
+1308	0/4	26471	Interrogator Khamph	interrogator-khamph-2
+1309	3/13	26481	Digit	digit-6
+1313	0/0	26511,26523	HOLDOUT: Defend the Village	holdout-defend-the-village-2
+1318	0/0	26511,26523	HOLDOUT: Defend the Village	holdout-defend-the-village-2
+1319	0/6	26522	Ikthian Holding Tank	ikthian-holding-tank-2
+1319	0/6	26547,26548	RESCUE OP: Needles, Pins, and Ikthian Fins	rescue-op-needles-pins-and-ikthian-fins-2
+1322	2/2	26189	Biting Boulder	biting-boulder-6
+1325	3/13	26552,26831	Calmwater Jar	calmwater-jar-2
+1325	3/13	26539	Calmwater Tome-Binder	calmwater-tome-binder-2
+1327	0/4	26553	ASSASSINATION: Daggerbeak	assassination-daggerbeak-6
+1327	0/4	26551,29758	Daggerbeak	daggerbeak-6
+1328	0/0	24428	HOLDOUT: Armed Combat	holdout-armed-combat-12
+1331	2/14	26587	Calmwater Tide-Bringer	calmwater-tide-bringer-2
+1331	2/14		Calmwater Tidebringer	calmwater-tidebringer-2
+1333	0/7		Devolved Silverscale Behemoth	devolved-silverscale-behemoth-2
+1333	0/7		Devolved Silverscale Leviathan	devolved-silverscale-leviathan-2
+1333	0/7	26592,26593	SWAT: Deep Water Devolver	swat-deep-water-devolver-2
+1333	0/7	26040	Silverscale Behemoth	silverscale-behemoth-2
+1333	0/7	61979	Silverscale Cetacean	silverscale-cetacean-2
+1333	0/7	26041,26392	Silverscale Leviathan	silverscale-leviathan-2
+1334	2/14	26587	Calmwater Tide-Bringer	calmwater-tide-bringer-2
+1336	0/0	26607	HOLDOUT: Stray Swine Situation	holdout-stray-swine-situation-6
+1338	3/13	26625	Protostar Purification Lead	protostar-purification-lead-6
+1345	2/2	61545	Decrepit Mauler	decrepit-mauler-15
+1345	2/2	61546	Grawl the Destroyer	grawl-the-destroyer-15
+1345	2/2	26444	High Clanlord Zhur the Risen	high-clanlord-zhur-the-risen-15
+1345	2/2	26444	High Clanlord Zhur the Risen	high-clanlord-zhur-the-risen-379
+1345	2/2	26159	Newly Risen Draken	newly-risen-draken-15
+1345	2/2	26159	Newly Risen Draken	newly-risen-draken-379
+1345	2/2	26160	Risen Draken Huntress	risen-draken-huntress-15
+1345	2/2	12042,12211,12507	Risen Draken Warrior	risen-draken-warrior-15
+1345	2/2		Risen Girrok	risen-girrok-15
+1345	2/2		Risen Girrok	risen-girrok-385
+1345	2/2	61594	Risen Girrok Skullchewer	risen-girrok-skullchewer-15
+1345	2/2	61594	Risen Girrok Skullchewer	risen-girrok-skullchewer-379
+1345	2/2	61594	Risen Girrok Skullchewer	risen-girrok-skullchewer-385
+1345	2/2	61595	Vengeful Risen Draken	vengeful-risen-draken-15
+1345	2/2	26182	Witchwake Risen	witchwake-risen-15
+1354	0/4	26701	ASSASSINATION: Moruk the Wormeaten	assassination-moruk-the-wormeaten-15
+1354	0/4	26700	Moruk the Wormeaten	moruk-the-wormeaten-15
+1356	0/0	26695	HOLDOUT: Unruly Sentries	holdout-unruly-sentries-58
+1357	3/17	26702	Advertising Emitter	advertising-emitter-364
+1357	3/17	26702	Advertising Emitter	advertising-emitter-6
+1361	0/0	26715	HOLDOUT: Fire in the Sky	holdout-fire-in-the-sky-22
+1362	2/2	26510	Terrenite	terrenite-6
+1365	2/14	26756	Eldan Signal Relay	eldan-signal-relay-22
+1365	2/14	26756	Eldan Signal Relay	eldan-signal-relay-57
+1365	2/14	26756	Eldan Signal Relay	eldan-signal-relay-58
+1365	2/14	26756	Eldan Signal Relay	eldan-signal-relay-59
+1366	2/2	12347,26784	Oozing Sludgeon	oozing-sludgeon-15
+1366	2/2	61542	Putrid Oozing Sludgeon	putrid-oozing-sludgeon-15
+1366	2/2	61591	Viscous Oozing Sludgeon	viscous-oozing-sludgeon-15
+1367	0/0	26771	HOLDOUT: Skele-tar	holdout-skele-tar-15
+1369	0/7	26194,26325,26436	A37 Augmentor	a37-augmentor-15
+1369	0/7	11117	Boneclaw Rotbeak	boneclaw-rotbeak-15
+1369	0/7	26159	Newly Risen Draken	newly-risen-draken-15
+1369	0/7	12347,26784	Oozing Sludgeon	oozing-sludgeon-15
+1369	0/7	61542	Putrid Oozing Sludgeon	putrid-oozing-sludgeon-15
+1369	0/7	26828	SWAT: Flamin' Tarnation	swat-flamin-tarnation-15
+1369	0/7	26197,26446,26808	Skeledroid Ambusher	skeledroid-ambusher-15
+1369	0/7	26193,26775	Skeledroid Defiler	skeledroid-defiler-15
+1369	0/7	61592	Skeledroid Horror	skeledroid-horror-15
+1369	0/7	26201,26327,26785,26809,38465	Skeledroid Ravager	skeledroid-ravager-15
+1369	0/7	26202,26326,26806,38464	Skeledroid Scrapper	skeledroid-scrapper-15
+1369	0/7	61591	Viscous Oozing Sludgeon	viscous-oozing-sludgeon-15
+1370	2/2		Hacked Exile Turret	hacked-exile-turret-22
+1370	2/2	18857,18858,18859,26788	Inactive Exile Turret	inactive-exile-turret-22
+1370	2/2	18857,18858,18859,26788	Inactive Exile Turret	inactive-exile-turret-334
+1385	3/13	26873	Archaeologist Walther	archaeologist-walther-15
+1418	0/4	27190	ASSASSINATION: Hivestrike Protector	assassination-hivestrike-protector-6
+1418	0/4	26374	Hivestrike Protector	hivestrike-protector-6
+1483	3/13	28194	Bingberry Sapling	bingberry-sapling-6
+1483	3/13	28100	Old Farmer Kestus	old-farmer-kestus-6
+1512	3/17	28274,36152,56995	Marked Location	marked-location-6
+1513	0/0	28298	HOLDOUT: Thrashing Wilds	holdout-thrashing-wilds-27
+1514	0/0	28300	HOLDOUT: Barkblight Swarms	holdout-barkblight-swarms-27
+1514	0/0		HOLDOUT: Terminite Swarms	holdout-terminite-swarms-27
+1515	0/0	28315	HOLDOUT: Rodent Removal	holdout-rodent-removal-27
+1516	2/2	28318,30675	Thrasher Fern	thrasher-fern-27
+1517	2/2	28317,28876	Barkblight Egg	barkblight-egg-27
+1517	2/2	28317,28876	Barkblight Egg	barkblight-egg-396
+1518	2/2		Active Firestorm Fuel Canister	active-firestorm-fuel-canister-27
+1518	2/2	28320	Firestorm Fuel	firestorm-fuel-27
+1521	0/7	28038	Blackheart Creep	blackheart-creep-6
+1521	0/7	27456,28170,28343,29751	Blackheart Detonator	blackheart-detonator-6
+1521	0/7	27669	Blackheart Enchanter	blackheart-enchanter-6
+1521	0/7	27461	Blackheart Invader	blackheart-invader-6
+1521	0/7		Blackheart Matria	blackheart-matria-6
+1521	0/7	27443,27775	Blackheart Rusher	blackheart-rusher-6
+1521	0/7	62072	Blackheart Scrapper	blackheart-scrapper-6
+1521	0/7	27507	Blackheart Spellbinder	blackheart-spellbinder-6
+1521	0/7	27465	Blackheart Summoner	blackheart-summoner-6
+1521	0/7	14575	SWAT: Easily Distracted	swat-easily-distracted-6
+1529	0/4	14576	ASSASSINATION: Terminate the Taskmaster	assassination-terminate-the-taskmaster-6
+1529	0/4	28532	Taskmaster Timgaar	taskmaster-timgaar-6
+1533	0/5	28740,29122	DEMOLITION: Meteor Demolisher	demolition-meteor-demolisher-28
+1533	0/5	28729,43912	Meteor Masher	meteor-masher-28
+1534	2/2	62095	Craterclaw Devourer	craterclaw-devourer-28
+1534	2/2	61837	Craterclaw Ripper	craterclaw-ripper-28
+1534	2/2	28943	Craterclaw Slasher	craterclaw-slasher-28
+1534	2/2		Farside Hookfoot	farside-hookfoot-28
+1535	2/14	28759	Unusual Asteroid	unusual-asteroid-28
+1536	0/0	28819,29128	HOLDOUT: Ikthian Infestation	holdout-ikthian-infestation-28
+1557	3/17	28824	Ikthian Starchart	ikthian-starchart-28
+1558	2/2		Derelict Maintenance Construct	derelict-maintenance-construct-46
+1558	2/2	27773	Derelict Silo Maintenance Construct	derelict-silo-maintenance-construct-46
+1559	2/2	27375	Ravenous Frizlet	ravenous-frizlet-28
+1560	2/2		Derelict Silo Squirg	derelict-silo-squirg-28
+1560	2/2		Derelict Silo Squirg	derelict-silo-squirg-46
+1560	2/2	44766	Derelict Silo Squirg Overseer	derelict-silo-squirg-overseer-46
+1560	2/2		Derelict Squirg	derelict-squirg-28
+1560	2/2		Derelict Squirg	derelict-squirg-46
+1560	2/2		Derelict Squirg Overseer	derelict-squirg-overseer-28
+1560	2/2		Derelict Squirg Overseer	derelict-squirg-overseer-46
+1561	2/2	28893	Darktide Abductor	darktide-abductor-28
+1561	2/2	61847	Darktide Aquareaver	darktide-aquareaver-28
+1561	2/2	28508	Darktide Bodyguard	darktide-bodyguard-28
+1561	2/2	61848	Darktide Cortech	darktide-cortech-28
+1561	2/2	53758	Darktide Enforcer	darktide-enforcer-28
+1561	2/2	27769	Darktide Engulfer	darktide-engulfer-28
+1561	2/2	62073	Darktide Hydrolancer	darktide-hydrolancer-28
+1561	2/2	61845	Darktide Hydroprober	darktide-hydroprober-28
+1561	2/2	62075	Darktide Leviathan	darktide-leviathan-28
+1561	2/2	27770	Darktide Obstructer	darktide-obstructer-28
+1561	2/2	27765	Darktide Physicist	darktide-physicist-28
+1561	2/2	45274	Darktide Piercer	darktide-piercer-28
+1561	2/2	45273	Darktide Rifler	darktide-rifler-28
+1561	2/2	27771	Darktide Stifler	darktide-stifler-28
+1561	2/2	50578	Kryne the Tidebreaker	kryne-the-tidebreaker-28
+1562	2/14	28517	Plasmic Equalizer	plasmic-equalizer-28
+1563	0/6	28868	Dustrunner Transit Cage	dustrunner-transit-cage-28
+1563	0/6	28870,29824	RESCUE OP: Exotic Extraterrestrials	rescue-op-exotic-extraterrestrials-28
+1564	0/0	28867,28952	SECURITY: Thieving Little Monkeys	security-thieving-little-monkeys-26
+1565	0/0	28882,29138	HOLDOUT: Alien Ambush	holdout-alien-ambush-28
+1567	2/2		Wilderrun Splorg	wilderrun-splorg-26
+1570	0/0	28903,28904	FIRST STRIKE: Burrowed Menace	first-strike-burrowed-menace-46
+1572	0/0	28903,28904	FIRST STRIKE: Burrowed Menace	first-strike-burrowed-menace-46
+1573	0/4	28905,28906	ASSASSINATION: Silo Exterminator	assassination-silo-exterminator-28
+1573	0/4	44544	Silo Exterminator	silo-exterminator-46
+1574	0/4	28907,28908	ASSASSINATION: IBMS	assassination-ibms-28
+1574	0/4	56363	Ikthian Behavior Modification Specialist	ikthian-behavior-modification-specialist-28
+1575	0/7	61844	Darktide Cryomancer	darktide-cryomancer-28
+1575	0/7	28398	Darktide Destructor	darktide-destructor-28
+1575	0/7	45275	Darktide Razorfin	darktide-razorfin-28
+1575	0/7	61846	Darktide Sicklegill	darktide-sicklegill-28
+1575	0/7	28909,28910	SWAT: Darktide Destructors	swat-darktide-destructors-28
+1576	2/14	25040,28914,40876,74929	Eldan Information Construct	eldan-information-construct-26
+1576	2/14	25040,28914,40876,74929	Eldan Information Construct	eldan-information-construct-313
+1577	0/0	28867,28952	SECURITY: Thieving Little Monkeys	security-thieving-little-monkeys-26
+1582	0/5	14577	DEMOLITION: Blowing Up Smoke	demolition-blowing-up-smoke-6
+1582	0/5	28966	Toxic Vent	toxic-vent-6
+1583	3/13	29022	Explorer Livos	explorer-livos-28
+1585	2/2	29030	Medusa Eggs	medusa-eggs-28
+1586	2/14	29040	Glowing Foxfire	glowing-foxfire-28
+1603	0/5	28740,29122	DEMOLITION: Meteor Demolisher	demolition-meteor-demolisher-28
+1603	0/5	28729,43912	Meteor Masher	meteor-masher-28
+1604	0/0	28819,29128	HOLDOUT: Ikthian Infestation	holdout-ikthian-infestation-28
+1606	0/0	14578	HOLDOUT: Eldan Defenses	holdout-eldan-defenses-6
+1607	0/0	28882,29138	HOLDOUT: Alien Ambush	holdout-alien-ambush-28
+1610	3/12	49557	Navigational Data	navigational-data-26
+1610	3/12	49557	Navigational Data	navigational-data-315
+1612	2/2	27860,28642,29200	XT-9 Servitor	xt-9-servitor-370
+1612	2/2	27860,28642,29200	XT-9 Servitor	xt-9-servitor-6
+1615	2/2	27410,43318	Fetid Devourer	fetid-devourer-6
+1615	2/2	27412	Noxious Tyrant	noxious-tyrant-6
+1615	2/2	27411	Putrid Devourer	putrid-devourer-6
+1615	2/2	62058	Putrid Drub	putrid-drub-6
+1615	2/2	62054	Putrid Ravager	putrid-ravager-6
+1616	2/2	27669	Blackheart Enchanter	blackheart-enchanter-367
+1616	2/2	27669	Blackheart Enchanter	blackheart-enchanter-6
+1616	2/2	27507	Blackheart Spellbinder	blackheart-spellbinder-367
+1616	2/2	27507	Blackheart Spellbinder	blackheart-spellbinder-6
+1616	2/2	27465	Blackheart Summoner	blackheart-summoner-6
+1623	0/0	14579	HOLDOUT: Training Exercise	holdout-training-exercise-6
+1626	0/7	29783	Feralclaw Devourer	feralclaw-devourer-26
+1626	0/7	27534	Feralclaw Flanker	feralclaw-flanker-26
+1626	0/7	61900	Feralclaw Gasher	feralclaw-gasher-26
+1626	0/7	61933	Feralclaw Shredder	feralclaw-shredder-26
+1626	0/7	27464	Grizzlepaw Feralstalker	grizzlepaw-feralstalker-26
+1626	0/7	61887	Grizzlepaw Forager	grizzlepaw-forager-26
+1626	0/7	61890	Grizzlepaw Scarhide	grizzlepaw-scarhide-26
+1626	0/7	27673	Mosswood Lurker	mosswood-lurker-26
+1626	0/7	61899	Mosswood Rotspewer	mosswood-rotspewer-26
+1626	0/7	28333	Mosswood Slimer	mosswood-slimer-26
+1626	0/7	29430,29431	SWAT: Dominator 9001	swat-dominator-9001-26
+1626	0/7	29768	Tanglecrash Curltail	tanglecrash-curltail-26
+1626	0/7	27590	Tentacular Aberration	tentacular-aberration-26
+1626	0/7	61946	Torine Keenclaw	torine-keenclaw-26
+1626	0/7	27487,49489	Undergrove Grimspore	undergrove-grimspore-26
+1626	0/7	27489	Undergrove Spore Herder	undergrove-spore-herder-26
+1626	0/7	27488,49094	Undergrove Sporeling	undergrove-sporeling-26
+1626	0/7	61892	Warpwood Oakwraith	warpwood-oakwraith-26
+1626	0/7	27506	Warpwood Splintertooth	warpwood-splintertooth-26
+1626	0/7	61891	Warpwood Splitbark	warpwood-splitbark-26
+1626	0/7	62292	Warpwood Strangleroot	warpwood-strangleroot-26
+1626	0/7	27674	Wildbranch Clipclaw	wildbranch-clipclaw-26
+1626	0/7		Wildbranch Hurler	wildbranch-hurler-26
+1626	0/7		Wildbranch Quickclaw	wildbranch-quickclaw-26
+1626	0/7	27466	Wildbranch Rageclaw	wildbranch-rageclaw-26
+1626	0/7	47629	Wildriver Snapper	wildriver-snapper-26
+1626	0/7	27493	Wildstrike Raptor	wildstrike-raptor-26
+1626	0/7	61911	Wildstrike Razorbeak	wildstrike-razorbeak-26
+1626	0/7	61910	Wildstrike Talonripper	wildstrike-talonripper-26
+1628	2/14	27603,29364	Water Sample	water-sample-26
+1632	2/2	61886	Undergrove Direspore	undergrove-direspore-26
+1632	2/2	27487,49489	Undergrove Grimspore	undergrove-grimspore-26
+1632	2/2	27489	Undergrove Spore Herder	undergrove-spore-herder-26
+1634	0/0	29558,29673	HOLDOUT: Aberrant Life	holdout-aberrant-life-26
+1635	0/0	29597,29599	HOLDOUT: No Disturbances	holdout-no-disturbances-26
+1638	0/0	29597,29599	HOLDOUT: No Disturbances	holdout-no-disturbances-26
+1645	0/4	29619,49210	ASSASSINATION: Witch Hunt	assassination-witch-hunt-26
+1645	0/4	29618	Hecate the Witch	hecate-the-witch-26
+1648	0/6	29628,29629,29630,29631	Injured Exile Explorer	injured-exile-explorer-26
+1648	0/6	29640,29641	RESCUE OP: Explorers Gone Missing	rescue-op-explorers-gone-missing-26
+1650	3/12	46043	Spigo's Datachron	spigos-datachron-28
+1650	3/12	46043	Spigo's Datachron	spigos-datachron-311
+1651	0/6	29632,29633,29634,29635	Injured Dominion Explorer	injured-dominion-explorer-26
+1651	0/6	29640,29641	RESCUE OP: Explorers Gone Missing	rescue-op-explorers-gone-missing-26
+1655	3/12	46043	Spigo's Datachron	spigos-datachron-28
+1661	0/4	29674,29675	ASSASSINATION: Face the Swordmaidens	assassination-face-the-swordmaidens-26
+1661	0/4	27679,30060,34470,40976,47698,58611,58850,73085	Torine Swordmaiden	torine-swordmaiden-26
+1663	2/14	29691	Ruined Osun Banner	ruined-osun-banner-26
+1665	2/14	49830	Pell Controls	pell-controls-26
+1665	2/14	49829,49832,75706	Pell Drum	pell-drum-26
+1666	2/2	29690,29712	Aerophyll Bulb	aerophyll-bulb-26
+1666	2/2	44599,49194	Aerophyll Drifter	aerophyll-drifter-26
+1669	0/7	29783	Feralclaw Devourer	feralclaw-devourer-26
+1669	0/7	27534	Feralclaw Flanker	feralclaw-flanker-26
+1669	0/7	61900	Feralclaw Gasher	feralclaw-gasher-26
+1669	0/7	61890	Grizzlepaw Scarhide	grizzlepaw-scarhide-26
+1669	0/7	29430,29431	SWAT: Dominator 9001	swat-dominator-9001-26
+1669	0/7	27590	Tentacular Aberration	tentacular-aberration-26
+1669	0/7	61946	Torine Keenclaw	torine-keenclaw-26
+1669	0/7	61886	Undergrove Direspore	undergrove-direspore-26
+1669	0/7	27487,49489	Undergrove Grimspore	undergrove-grimspore-26
+1669	0/7	27489	Undergrove Spore Herder	undergrove-spore-herder-26
+1669	0/7	27488,49094	Undergrove Sporeling	undergrove-sporeling-26
+1669	0/7	61892	Warpwood Oakwraith	warpwood-oakwraith-26
+1669	0/7	27505	Warpwood Rootgrabber	warpwood-rootgrabber-26
+1669	0/7	27506	Warpwood Splintertooth	warpwood-splintertooth-26
+1669	0/7	61891	Warpwood Splitbark	warpwood-splitbark-26
+1669	0/7	62292	Warpwood Strangleroot	warpwood-strangleroot-26
+1669	0/7	27674	Wildbranch Clipclaw	wildbranch-clipclaw-26
+1669	0/7		Wildbranch Hurler	wildbranch-hurler-26
+1669	0/7		Wildbranch Quickclaw	wildbranch-quickclaw-26
+1669	0/7	61911	Wildstrike Razorbeak	wildstrike-razorbeak-26
+1675	2/20	62104	Cerebros	cerebros-28
+1675	2/20	29821	Hibernating Orbitog	hibernating-orbitog-28
+1675	2/20	29823	Lovestruck Orbitog	lovestruck-orbitog-28
+1675	2/20	44377	Moonstone Goliath	moonstone-goliath-28
+1675	2/20	62099	Moonstone Juggernaut	moonstone-juggernaut-28
+1675	2/20	61839	Moonstone Mammoth	moonstone-mammoth-28
+1676	0/6	28868	Dustrunner Transit Cage	dustrunner-transit-cage-28
+1676	0/6	28870,29824	RESCUE OP: Exotic Extraterrestrials	rescue-op-exotic-extraterrestrials-28
+1679	3/17	29852	Blackbox	blackbox-26
+1679	3/17	29852	Blackbox	blackbox-315
+1679	3/17	29849	Broken Sword	broken-sword-26
+1679	3/17	29849	Broken Sword	broken-sword-315
+1679	3/17	29854	Picture of Tresayne's Mother	picture-of-tresaynes-mother-26
+1679	3/17	29854	Picture of Tresayne's Mother	picture-of-tresaynes-mother-315
+1679	3/17	29851,42133	Worn Datapad	worn-datapad-26
+1679	3/17	29851,42133	Worn Datapad	worn-datapad-315
+1686	2/20	26188	Calmwater Lightning-Bringer	calmwater-lightning-bringer-2
+1686	2/20		Calmwater Lightningbringer	calmwater-lightningbringer-2
+1686	2/20	26187,26748,27303	Calmwater Rain-Warrior	calmwater-rain-warrior-2
+1686	2/20	26187,26748,27303	Calmwater Rain-Warrior	calmwater-rain-warrior-2-veteran
+1686	2/20		Calmwater Rainwarrior	calmwater-rainwarrior-2
+1686	2/20	26587	Calmwater Tide-Bringer	calmwater-tide-bringer-2
+1686	2/20	26587	Calmwater Tide-Bringer	calmwater-tide-bringer-2-veteran
+1686	2/20		Calmwater Tidebringer	calmwater-tidebringer-2
+1686	2/20	27141	Calmwater Villager	calmwater-villager-2
+1686	2/20	26091	Doomtide Arcanist	doomtide-arcanist-2
+1686	2/20	26453	Doomtide Corruptordrone	doomtide-corruptordrone-2
+1686	2/20	26088,26512,39724	Doomtide Storm-Striker	doomtide-storm-striker-2
+1686	2/20		Doomtide Stormstriker	doomtide-stormstriker-2
+1689	3/13	30697	Treasure Hunter Figli	treasure-hunter-figli-7
+1689	3/13	47079,47080	Tree Root	tree-root-7
+1692	2/2	18749,20564,21164,32718	Ravenok Nest	ravenok-nest-7
+1693	2/2	31371	Rusty Frame	rusty-frame-7
+1693	2/2	31370	Rusty Valve	rusty-valve-7
+1694	2/2	61599	Grudrock	grudrock-7
+1694	2/2	30267	Stoneridge Boulder	stoneridge-boulder-7
+1694	2/2	61535	Stoneridge Cragfist	stoneridge-cragfist-7
+1694	2/2	61598	Stoneridge Smasher	stoneridge-smasher-7
+1695	2/2	30615	Highland Aloe	highland-aloe-7
+1696	0/0	30234	HOLDOUT: Raging Dagun	holdout-raging-dagun-7
+1697	0/5	30235	DEMOLITION: Clearing the Air	demolition-clearing-the-air-7
+1697	0/5	30308,30529	Poisoned Supplies	poisoned-supplies-7
+1698	0/4	30236	ASSASSINATION: Stormseeker Ice-Heart	assassination-stormseeker-ice-heart-7
+1698	0/4	30479	Stormseeker Ice-Heart	stormseeker-ice-heart-7
+1699	0/6	30237	RESCUE OP: All Tangled Up	rescue-op-all-tangled-up-7
+1699	0/6	30881	Suspicious Cocoon	suspicious-cocoon-7
+1701	3/13	30901	Kel Voreth Monument	kel-voreth-monument-6
+1701	3/13	30645	Recovery Specialist Pytos	recovery-specialist-pytos-6
+1702	2/14	30653	Fine Leather Couch	fine-leather-couch-7
+1702	2/14	30658,30659	Forgotten Jar	forgotten-jar-7
+1702	2/14	30663	Forgotten Shrine	forgotten-shrine-7
+1702	2/14	30661	Forgotten Sigil	forgotten-sigil-7
+1702	2/14	30657	Icon of Virtue	icon-of-virtue-7
+1702	2/14	30656	Lightreach Well	lightreach-well-7
+1702	2/14	30655	Vigilant Seal	vigilant-seal-7
+1703	3/17	30698,30763,30764,30765	Exile Transmitter	exile-transmitter-6
+1704	0/5	31053	DEMOLITION: Taste of Their Own Medicine	demolition-taste-of-their-own-medicine-7
+1704	0/5	30696,31045	Poison Canisters	poison-canisters-7
+1707	2/2	30784	Copperworth Sprinkler	copperworth-sprinkler-7
+1709	3/17	30938,33809	Steam Valve	steam-valve-6
+1711	0/7	30416	Frenzied Ashthorn	frenzied-ashthorn-5
+1711	0/7	31049	SWAT: Emberwood Extinguisher	swat-emberwood-extinguisher-5
+1711	0/7	30417	Scorched Ashthorn	scorched-ashthorn-5
+1711	0/7	30437	Scorched Tangleroot	scorched-tangleroot-5
+1712	0/5	31050	DEMOLITION: Fuel for the Fire	demolition-fuel-for-the-fire-5
+1712	0/5	16908,17861,19243,21653,21746,30805,31125	Fuel Tank	fuel-tank-5
+1714	2/2	31073	Hoogle Guardian Totem	hoogle-guardian-totem-5
+1716	3/13	31080	Leona Kaspikan	leona-kaspikan-5
+1716	3/13	31119	Leona's Research	leonas-research-5
+1717	0/4	31195	ASSASSINATION: Finish the Firebinder	assassination-finish-the-firebinder-6
+1717	0/4	31116	Zutara the Firebinder	zutara-the-firebinder-6
+1718	0/4	31121	ASSASSINATION: Duskfang	assassination-duskfang-5
+1718	0/4	31120	Duskfang	duskfang-5
+1719	2/2	31124	Draken Backscratcher	draken-backscratcher-5
+1719	2/2	31448	Draken Chamberpot	draken-chamberpot-5
+1719	2/2	31463	Draken Garden Gnome	draken-garden-gnome-5
+1720	0/7	61634	DK5 Destroyer	dk5-destroyer-7
+1720	0/7	31173	Roboticist Anglefin	roboticist-anglefin-339
+1720	0/7	31157	SWAT: Chain Lightning	swat-chain-lightning-7
+1720	0/7	30999	Scaleborn Leviathan	scaleborn-leviathan-339
+1720	0/7	32096	Shaleshell Spineclaw	shaleshell-spineclaw-339
+1720	0/7	32096	Shaleshell Spineclaw	shaleshell-spineclaw-7
+1720	0/7	30490	Slenderskin Abductor	slenderskin-abductor-7
+1720	0/7	31190	Slenderskin Artificer	slenderskin-artificer-7
+1720	0/7	30541	Slenderskin Crawler	slenderskin-crawler-7
+1720	0/7	36950,61635	Slenderskin Crusher	slenderskin-crusher-7
+1720	0/7	30538	Slenderskin Implementer	slenderskin-implementer-339
+1720	0/7	30538	Slenderskin Implementer	slenderskin-implementer-7
+1720	0/7	61499	Slenderskin Shredder	slenderskin-shredder-7
+1720	0/7	30553,31911	Slenderskin Slicer	slenderskin-slicer-339
+1720	0/7	30553,31911	Slenderskin Slicer	slenderskin-slicer-7
+1720	0/7	31909,46891,46892	Slenderskin Swarmer	slenderskin-swarmer-7
+1721	0/0	31134	HOLDOUT: The Hunted	holdout-the-hunted-5
+1722	0/4	31149	ASSASSINATION: Umballah of the Darkloam	assassination-umballah-of-the-darkloam-5
+1722	0/4	31144	Chief Umballah	chief-umballah-5
+1723	0/7	30600	Bonerazer Ambusher	bonerazer-ambusher-5
+1723	0/7	30333,52935	Bonerazer Bloodmauler	bonerazer-bloodmauler-5
+1723	0/7	30332	Bonerazer Bloodspiller	bonerazer-bloodspiller-5
+1723	0/7	61418	Bonerazer Firewalker	bonerazer-firewalker-5
+1723	0/7	30643,31137	Bonerazer Helmstriker	bonerazer-helmstriker-5
+1723	0/7	31135	Bonerazer Hunter	bonerazer-hunter-5
+1723	0/7	30642,31136	Bonerazer Huntress	bonerazer-huntress-5
+1723	0/7	30334	Bonerazer Huntstalker	bonerazer-huntstalker-5
+1723	0/7	30641	Bonerazer Invader	bonerazer-invader-5
+1723	0/7	31820	Bonerazer Snaptooth	bonerazer-snaptooth-5
+1723	0/7	61453	Bonerazer Vanquisher	bonerazer-vanquisher-5
+1723	0/7	31422	Elder Dakkar	elder-dakkar-5
+1723	0/7	31421	Elder Marok	elder-marok-5
+1723	0/7	61419	Grulp the Gluttonous	grulp-the-gluttonous-5
+1723	0/7	31151	SWAT: Lightning Strike	swat-lightning-strike-5
+1724	2/14	31153,31776,52990	Weave Portal	weave-portal-439
+1724	2/14	31153,31776,52990	Weave Portal	weave-portal-440
+1724	2/14	31153,31776,52990	Weave Portal	weave-portal-441
+1724	2/14	31153,31776,52990	Weave Portal	weave-portal-5
+1725	2/2	31161	Moodie Mojo	moodie-mojo-443
+1725	2/2	31161	Moodie Mojo	moodie-mojo-5
+1727	0/0	31189	SECURITY: Securing the Eldan Artifact	security-securing-the-eldan-artifact-7
+1729	3/17	31177,45548,45549	Shrine Candle	shrine-candle-439
+1729	3/17	31177,45548,45549	Shrine Candle	shrine-candle-5
+1731	0/6	42310	Domesticated Roan	domesticated-roan-7
+1731	0/6	31194	RESCUE OP: Alien Abduction!	rescue-op-alien-abduction-7
+1731	0/6	31193,31211	Sterling Farmer	sterling-farmer-7
+1732	0/4	31369	ASSASSINATION: The Roboticist	assassination-the-roboticist-339
+1732	0/4	31369	ASSASSINATION: The Roboticist	assassination-the-roboticist-7
+1732	0/4	31173	Roboticist Anglefin	roboticist-anglefin-339
+1732	0/4	31173	Roboticist Anglefin	roboticist-anglefin-7
+1734	0/5	31242	DEMOLITION: Mineral Mayhem	demolition-mineral-mayhem-6
+1734	0/5	31218	Load of Ore	load-of-ore-6
+1736	0/0	31374	FIRST STRIKE: Starving the Flame	first-strike-starving-the-flame-6
+1738	2/14	33895	Ikthian Scanning Device	ikthian-scanning-device-339
+1738	2/14	33895	Ikthian Scanning Device	ikthian-scanning-device-7
+1742	0/7	61977	Lancer Elite	lancer-elite-6
+1742	0/7	61974	Lancer Enforcer	lancer-enforcer-6
+1742	0/7	31879	Lancer Infiltrator	lancer-infiltrator-6
+1742	0/7	30513	Lancer Ranger	lancer-ranger-6
+1742	0/7	30514	Lancer Tempest	lancer-tempest-6
+1742	0/7	31452	SWAT: Down to Size	swat-down-to-size-6
+1743	0/0	31459	HOLDOUT: Suspect Security Scheme	holdout-suspect-security-scheme-6
+1745	2/14	31514	Shrine to Kozek the Strong	shrine-to-kozek-the-strong-6
+1745	2/14	31513	Shrine to Morgra the Subjugator	shrine-to-morgra-the-subjugator-6
+1745	2/14	31516	Shrine to Torug the Bladeforger	shrine-to-torug-the-bladeforger-6
+1745	2/14	31497	Shrine to Ugreth Foe-Breaker	shrine-to-ugreth-foe-breaker-6
+1745	2/14	31515	Shrine to Vrogh the Hound-Striker	shrine-to-vrogh-the-hound-striker-6
+1746	3/13	31537	Malverine Leftovers	malverine-leftovers-7
+1746	3/13	31156	Science Officer Wingo	science-officer-wingo-7
+1748	2/2	61475	Darkfang Alpha	darkfang-alpha-7
+1748	2/2	30270,31691	Darkfang Hunter	darkfang-hunter-7
+1748	2/2	61631	Darkfang Predator	darkfang-predator-7
+1748	2/2	30266,31690	Darkfang Prowler	darkfang-prowler-7
+1748	2/2	31533	Darkspire Hoarder Slank	darkspire-hoarder-slank-7
+1748	2/2	30285	Ferocious Darkspire Slank	ferocious-darkspire-slank-7
+1748	2/2	30282,54551	Frenzyclaw Malverine	frenzyclaw-malverine-7
+1748	2/2	61460	Furyclaw Malverine	furyclaw-malverine-7
+1748	2/2	61627	Rageclaw Malverine	rageclaw-malverine-7
+1750	2/2	30339,32064	Forge Thrall	forge-thrall-372
+1750	2/2	30339,32064	Forge Thrall	forge-thrall-6
+1750	2/2	22362,31566	Soulrot Elixir	soulrot-elixir-6
+1750	2/2	30596	Soulrotted Dark Mender	soulrotted-dark-mender-6
+1750	2/2	30471	Soulrotted Digger	soulrotted-digger-6
+1750	2/2	30445	Soulrotted Minion	soulrotted-minion-6
+1750	2/2	30618	Voreth Thrall	voreth-thrall-6
+1751	2/14	31240,31606	Lancer Drop Pod	lancer-drop-pod-356
+1751	2/14	31240,31606	Lancer Drop Pod	lancer-drop-pod-6
+1752	2/2	31627	Voreth Bone Totem	voreth-bone-totem-6
+1755	2/2	37591	Deathcaw	deathcaw-6
+1755	2/2	41273	Fringe Pack Alpha	fringe-pack-alpha-367
+1755	2/2	41273	Fringe Pack Alpha	fringe-pack-alpha-6
+1755	2/2	61983	Fringe Pack Hunter	fringe-pack-hunter-367
+1755	2/2	61983	Fringe Pack Hunter	fringe-pack-hunter-6
+1755	2/2	30481	Fringe Pack Rover	fringe-pack-rover-367
+1755	2/2	30481	Fringe Pack Rover	fringe-pack-rover-6
+1755	2/2	61981	Fringe Pack Stalker	fringe-pack-stalker-6
+1755	2/2	30634	Fringe Scavenger	fringe-scavenger-6
+1755	2/2	51001	Rotfang	rotfang-6
+1755	2/2	30482,30649	Sky Cutter	sky-cutter-6
+1755	2/2	41207	Young Fringe Scavenger	young-fringe-scavenger-6
+1766	0/0	13112,13791,17299,17824,20798,25736,32070,32822,37101,50241,50242,50243,50465,50466,54510,56287,56288,56289,56368,58548	Dominion Scientist	dominion-scientist-12
+1766	0/0	32063	HOLDOUT: Blimp Defense	holdout-blimp-defense-12
+1790	0/4	32800	ASSASSINATION: MAU 9000	assassination-mau-9000-341
+1790	0/4	32800	ASSASSINATION: MAU 9000	assassination-mau-9000-7
+1790	0/4	32807	MAU 9000	mau-9000-341
+1790	0/4	32807	MAU 9000	mau-9000-7
+1791	0/0	32802	HOLDOUT: Combat Training	holdout-combat-training-7
+1791	0/0	32839,34495,34496,34497,34498,34499	Vigilant Recruit	vigilant-recruit-7
+1792	0/7	32521	AH47 Augmentor	ah47-augmentor-342
+1792	0/7	32521	AH47 Augmentor	ah47-augmentor-7
+1792	0/7	32807	MAU 9000	mau-9000-7
+1792	0/7	32803	SWAT: Trouble Shooting	swat-trouble-shooting-342
+1792	0/7	32803	SWAT: Trouble Shooting	swat-trouble-shooting-7
+1805	0/0	32801	FIRST STRIKE: Shaky Ground	first-strike-shaky-ground-7
+1806	2/2	33037	Weeping Bluepine	weeping-bluepine-338
+1806	2/2	33037	Weeping Bluepine	weeping-bluepine-7
+1807	2/2	32521	AH47 Augmentor	ah47-augmentor-341
+1807	2/2	32521	AH47 Augmentor	ah47-augmentor-342
+1807	2/2	32521	AH47 Augmentor	ah47-augmentor-7
+1811	3/17	33113,33121,33122,33123	Logic Console	logic-console-7
+1828	2/2	32792	Augmented Archaeologist Clone	augmented-archaeologist-clone-5
+1828	2/2	33785	Augmented Ashella Clone	augmented-ashella-clone-5
+1828	2/2	32789	Augmented Explorer Clone	augmented-explorer-clone-5
+1828	2/2	32790	Augmented Researcher Clone	augmented-researcher-clone-5
+1828	2/2	32791	Augmented Scientist Clone	augmented-scientist-clone-5
+1828	2/2	33786	Augmented Tomas Clone	augmented-tomas-clone-5
+1829	0/5	33396	DEMOLITION: Nanite Pylons	demolition-nanite-pylons-5
+1829	0/5	33397	Nanite Pylon	nanite-pylon-5
+1830	2/14	33411	Amorous Rowsdower	amorous-rowsdower-5
+1830	2/14	45892	Lost Rowsdower	lost-rowsdower-5
+1830	2/14	33412	Rowsdower in Love	rowsdower-in-love-5
+1831	0/0	33414	FIRST STRIKE: Eldan Constructs	first-strike-eldan-constructs-5
+1832	0/5	33419	DEMOLITION: Rockhorde Eradication	demolition-rockhorde-eradication-7
+1832	0/5	33418	Rockhorde Burrow	rockhorde-burrow-7
+1833	0/4	33423	ASSASSINATION: Blacktalon	assassination-blacktalon-7
+1833	0/4	33422	Blacktalon	blacktalon-7
+1836	0/4	33438	ASSASSINATION: ICI Equalizer Cyboc	assassination-ici-equalizer-cyboc-5
+1836	0/4	33437	Equalizer Cyboc	equalizer-cyboc-446
+1836	0/4	33437	Equalizer Cyboc	equalizer-cyboc-5
+1837	0/4	33440	ASSASSINATION: The Munchking	assassination-the-munchking-5
+1837	0/4	33439	The Munchking	the-munchking-444
+1837	0/4	33439	The Munchking	the-munchking-5
+1838	3/17	33444	Vitaran Blade	vitaran-blade-5
+1839	3/12	45823	Eldan Data Archive	eldan-data-archive-5
+1840	2/2	32508	Infused Lifesplinter	infused-lifesplinter-5
+1840	2/2	61454	Infused Lifewood	infused-lifewood-5
+1840	2/2	32479	Mossy Vinecreeper	mossy-vinecreeper-5
+1840	2/2	32477	Steelscale Gnasher	steelscale-gnasher-5
+1840	2/2	32553,33926	Treebound Protector	treebound-protector-5
+1840	2/2	32478,33923	Vicious Manstalker	vicious-manstalker-5
+1840	2/2	61449	Vicious Matriarch	vicious-matriarch-5
+1841	2/2	33464	Grimhold Tripod	grimhold-tripod-5
+1841	2/2		Medic Station	medic-station-5
+1841	2/2	15178,16579,17687,17848,28554,33515,33859,39099,45547,45800,47449	Medical Station	medical-station-5
+1841	2/2	33493	Sonic Horns	sonic-horns-5
+1843	3/13	32976	Far-Trader Miki	far-trader-miki-5
+1844	0/6	33488,33489	Captured Operative	captured-operative-446
+1844	0/6	33488,33489	Captured Operative	captured-operative-5
+1844	0/6	33481	RESCUE OP: Black Hood Operatives	rescue-op-black-hood-operatives-5
+1845	2/14		Water of Life	water-of-life-5
+1847	2/2	32689	Drugaur the Rotted	drugaur-the-rotted-5
+1847	2/2	45603	Mikolai the Malevolent	mikolai-the-malevolent-5
+1847	2/2	61456	Ravenous Abomination	ravenous-abomination-5
+1847	2/2	33234	Ravenous Arnost Vosmara	ravenous-arnost-vosmara-5
+1847	2/2	33233	Ravenous Erzebet Vosmara	ravenous-erzebet-vosmara-5
+1847	2/2	32500,34397,34398,41752	Ravenous Fiend	ravenous-fiend-5
+1847	2/2	15736,33571,33741,41734,53177	Ravenous Ghoul	ravenous-ghoul-5
+1847	2/2	33157,41732,53179	Ravenous Horror	ravenous-horror-5
+1847	2/2	33367,33743	Ravenous Malignant	ravenous-malignant-5
+1847	2/2	33059	Ravenous Otokar Vosmara	ravenous-otokar-vosmara-5
+1847	2/2	32502	Ravenous Reaver	ravenous-reaver-5
+1847	2/2	32497,33572	Ravenous Ripper	ravenous-ripper-5
+1848	3/12	46378	Petrich's Research Notes	petrichs-research-notes-453
+1848	3/12	46378	Petrich's Research Notes	petrichs-research-notes-5
+1849	0/5	33544	DEMOLITION: The Bombs We Forge	demolition-the-bombs-we-forge-5
+1849	0/5	33541	Swordmaiden Forge	swordmaiden-forge-5
+1850	0/0	33575	HOLDOUT: They're Dead! They're All Dead!	holdout-theyre-dead-theyre-all-dead-5
+1851	3/17	34284	Photo Album	photo-album-5
+1851	3/17	34287	Science Trophy	science-trophy-5
+1851	3/17	34286	Stuffed Yeti	stuffed-yeti-5
+1852	0/0	33605	HOLDOUT: The Constant Gardener	holdout-the-constant-gardener-5
+1853	3/13	33651	Slain Explorer	slain-explorer-5
+1854	2/14	33653	Eldan Communicator Beacon	eldan-communicator-beacon-450
+1854	2/14	33653	Eldan Communicator Beacon	eldan-communicator-beacon-5
+1854	2/14	33654	Eldan Communicator Station	eldan-communicator-station-450
+1854	2/14	33654	Eldan Communicator Station	eldan-communicator-station-5
+1859	2/14	18148,27587,33823,48275,56120,56304,59684,67441,67690,70951,71581	Shield Generator	shield-generator-446
+1859	2/14	18148,27587,33823,48275,56120,56304,59684,67441,67690,70951,71581	Shield Generator	shield-generator-5
+1863	0/4	33877	ASSASSINATION: Vitara's Rose	assassination-vitaras-rose-5
+1863	0/4	33876	Vitara's Rose	vitaras-rose-5
+1864	0/6	33885	Darkwhisper Jabbit	darkwhisper-jabbit-5
+1864	0/6	33886	RESCUE OP: Savin' Jabbits	rescue-op-savin-jabbits-5
+1885	0/0	35004,35005	HOLDOUT: Wave Fight!	holdout-wave-fight-42
+1886	0/4	35010,35012	ASSASSINATION: Spiritual Showdown	assassination-spiritual-showdown-42
+1886	0/4	35027	Macs Manning	macs-manning-42
+1887	2/2	23974,31171	Bloodtalon Windweaver	bloodtalon-windweaver-15
+1888	0/4	35006,35007	ASSASSINATION: Dust Storm Approaching	assassination-dust-storm-approaching-42
+1888	0/4	35030	Storm-Bringer the Crazed	storm-bringer-the-crazed-42
+1889	0/7	35008,35009	SWAT: Use of Poisons Authorized!	swat-use-of-poisons-authorized-42
+1889	0/7	34869,57038	Witherdust Burrower	witherdust-burrower-42
+1889	0/7	61808	Witherdust Crusher	witherdust-crusher-42
+1889	0/7	61785	Witherdust Tunneler	witherdust-tunneler-42
+1889	0/7	34868,57036	Witherdust Yearling	witherdust-yearling-42
+1890	0/0	35013,35014	HOLDOUT: Ghost Cattle Rustlin'	holdout-ghost-cattle-rustlin-42
+1891	0/5	35015,35016	DEMOLITION: Mining Made Easy	demolition-mining-made-easy-42
+1891	0/5	35044	Rich Lodestone	rich-lodestone-42
+1895	0/0	35017,35018	HOLDOUT: The Perfect Trap	holdout-the-perfect-trap-42
+1898	0/4		ASSASSINATE: Whacking the Boss	assassinate-whacking-the-boss-42
+1898	0/4	35019,35020	ASSASSINATION: Whacking the Boss	assassination-whacking-the-boss-42
+1898	0/4	35078	Boss Munik	boss-munik-42
+1903	0/5	35021,35022	DEMOLITION: Worst Maintenance Ever	demolition-worst-maintenance-ever-42
+1903	0/5	35125	Starship	starship-42
+1937	2/2	34735,41889	Preacherbot v.6.6.6	preacherbot-v666-325
+1937	2/2	34735,41889	Preacherbot v.6.6.6	preacherbot-v666-42
+1937	2/2	34871	Robo-Cultist Acolyte	robo-cultist-acolyte-325
+1937	2/2	34871	Robo-Cultist Acolyte	robo-cultist-acolyte-42
+1937	2/2	61814	Robo-Cultist Crusader	robo-cultist-crusader-325
+1937	2/2	61814	Robo-Cultist Crusader	robo-cultist-crusader-42
+1937	2/2	61815	Robo-Cultist Fanatic	robo-cultist-fanatic-325
+1937	2/2	61815	Robo-Cultist Fanatic	robo-cultist-fanatic-42
+1937	2/2	34732	Robo-Cultist Initiate	robo-cultist-initiate-325
+1937	2/2	34732	Robo-Cultist Initiate	robo-cultist-initiate-42
+1938	3/17	41850	Camera Location	camera-location-42
+1941	2/14	42441	Bone Remnants	bone-remnants-42
+1941	2/14	42438	Dreg Forge Oven	dreg-forge-oven-42
+1941	2/14	42435	Dreg Hovercraft	dreg-hovercraft-42
+1941	2/14	42442	Dreg Pits	dreg-pits-42
+1941	2/14	42436	Dreg Water Well	dreg-water-well-42
+1942	2/14	35261	Massive Skull	massive-skull-325
+1942	2/14	35261	Massive Skull	massive-skull-42
+1946	2/2	34840	Hard-Drinkin' Eberhart	hard-drinkin-eberhart-42
+1946	2/2	61776	Spectral Bandit	spectral-bandit-42
+1946	2/2	34835	Spectral Brigand	spectral-brigand-42
+1946	2/2	61777	Spectral Crackshot	spectral-crackshot-42
+1946	2/2	34836	Spectral Gunslinger	spectral-gunslinger-42
+1946	2/2	61796	Spectral Outlaw	spectral-outlaw-42
+1946	2/2	34833	Spectral Pillager	spectral-pillager-42
+1946	2/2	34894,46950	Spectral Raider	spectral-raider-42
+1947	2/2	35270	Blooming Hellrose	blooming-hellrose-325
+1947	2/2	35270	Blooming Hellrose	blooming-hellrose-42
+1949	3/13	43740	Shiny Eldan Artifact	shiny-eldan-artifact-42
+1949	3/13	35302	Treasure Hunter Ponpon	treasure-hunter-ponpon-42
+1950	2/2	34739	Eldan Defense Construct	eldan-defense-construct-326
+1950	2/2	34739	Eldan Defense Construct	eldan-defense-construct-42
+1950	2/2	34742	Eldan Executioner	eldan-executioner-326
+1950	2/2	34742	Eldan Executioner	eldan-executioner-42
+1950	2/2	34937	Eldan Exterminator	eldan-exterminator-326
+1950	2/2	34937	Eldan Exterminator	eldan-exterminator-42
+1950	2/2	34741	Eldan Interrogator	eldan-interrogator-326
+1950	2/2	34741	Eldan Interrogator	eldan-interrogator-42
+1950	2/2	14766,25986,27177,27399,34938,46434,47430	Eldan Security Construct	eldan-security-construct-326
+1950	2/2	14766,25986,27177,27399,34938,46434,47430	Eldan Security Construct	eldan-security-construct-42
+1950	2/2		Facility X1-BB Administrator	facility-x1-bb-administrator-42
+1950	2/2	34806	Facility X1BB Administrator	facility-x1bb-administrator-326
+1950	2/2	34806	Facility X1BB Administrator	facility-x1bb-administrator-42
+1952	2/2	16813,21736,21913,34807,39145,48993,60189,65565	Land Mine	land-mine-42
+1953	2/2	35308,52741	Disabled Probe	disabled-probe-325
+1953	2/2	35308,52741	Disabled Probe	disabled-probe-42
+1953	2/2		Repaired Probebot	repaired-probebot-42
+1954	3/13	13474,13475,13476,13477,13834,13835,35790,53484,53504,53505,53506,58666,58667,58668,58669,58670,58671,58672,58673,69008,69009,69010,69011	Dead Explorer	dead-explorer-42
+1954	3/13	35311	Treasure Hunter Tahiri	treasure-hunter-tahiri-42
+1955	3/12	42168	Plastic Explosive Crate	plastic-explosive-crate-324
+1955	3/12	42168	Plastic Explosive Crate	plastic-explosive-crate-42
+1956	3/13	35337	Treasure Hunter Miki	treasure-hunter-miki-42
+1958	2/23	24036	Squirg Erupter	squirg-erupter-2
+1958	2/23	24035,30646,39646	Squirg Smasher	squirg-smasher-2
+1958	2/23	24037	Squirg Spewer	squirg-spewer-2
+1958	2/23	24038	Squirg Stalker	squirg-stalker-2
+1965	0/4		ASSASSINATION: Spikehorde Menace	assassination-spikehorde-menace-42
+1965	0/4	35434,35435	ASSASSINATION: The Spikehorde Menace	assassination-the-spikehorde-menace-42
+1965	0/4	34809	Pelagic the Tidebreaker	pelagic-the-tidebreaker-42
+1965	0/4	34808	Shinysand Burrower	shinysand-burrower-42
+1965	0/4	34900	Shinysand Creeper	shinysand-creeper-42
+1965	0/4	34897	Shinysand Digger	shinysand-digger-42
+1965	0/4	62078	Shinysand Tunneler	shinysand-tunneler-42
+1978	2/2	21558,21559,21560,21608,22291,23993,23994,37640,37641,37642	Augmented XAS Scientist	augmented-xas-scientist-17
+1994	0/4	36160	ASSASSINATION: Deathcap	assassination-deathcap-7
+1994	0/4	36129	Deathcap	deathcap-7
+2007	2/14	31382	Energy Switch	energy-switch-7
+2042	0/0	36745,36746	HOLDOUT: Protecting Sunsetter Junction	holdout-protecting-sunsetter-junction-42
+2044	2/2	35919	Augmented Sandwisp Crawler	augmented-sandwisp-crawler-42
+2044	2/2	35970	Dreadfang	dreadfang-42
+2044	2/2	35961	Skittering Flayer	skittering-flayer-42
+2044	2/2	35962	Skittering Fury	skittering-fury-42
+2044	2/2	62106	Skittering Slayer	skittering-slayer-42
+2044	2/2	62088	Skittering Spinner	skittering-spinner-42
+2044	2/2	35964	Skittering Venomfang	skittering-venomfang-42
+2053	0/4		ASSASSINATE: Drop in the Bucket	assassinate-drop-in-the-bucket-42
+2053	0/4	36736,36737	ASSASSINATION: Drop in the Bucket	assassination-drop-in-the-bucket-42
+2053	0/4	36798	Fellspring	fellspring-42
+2059	0/4		ASSASSINATE: He's Full of Hot Air	assassinate-hes-full-of-hot-air-42
+2059	0/4	36730,36731	ASSASSINATION: He's Full of Hot Air	assassination-hes-full-of-hot-air-42
+2059	0/4	36810	Vortan	vortan-42
+2060	2/2	36824,36931,36932,36936	Hidden Disturbance	hidden-disturbance-42
+2065	2/2	62101	Augmented Sandswarm Impaler	augmented-sandswarm-impaler-42
+2065	2/2	35920	Augmented Sandswarm Stalker	augmented-sandswarm-stalker-42
+2065	2/2	35982	Sandswarm Doomsting	sandswarm-doomsting-42
+2065	2/2	62112	Sandswarm Hive Lord	sandswarm-hive-lord-42
+2065	2/2	62097	Sandswarm Impaler	sandswarm-impaler-42
+2065	2/2	35980	Sandswarm Stalker	sandswarm-stalker-42
+2065	2/2	36008	Swiftstrike	swiftstrike-42
+2066	0/4	36732,36733	ASSASSINATION: Older Than Dirt	assassination-older-than-dirt-42
+2066	0/4	36839	Dustclaw	dustclaw-42
+2067	2/14	38409,38411,54559,61726	Datacube Fragment	datacube-fragment-42
+2067	2/14	46910,61722	Deactivated Eldan Probe	deactivated-eldan-probe-42
+2067	2/14	39691,46909,61723	Deactivated Eldan Protector	deactivated-eldan-protector-42
+2067	2/14	14130,26257,27093,30843,30897,31180,32856,33092,33390,33722,34737,35703,35706,35707,35708,35709,35710,42218,46620,46954,50266,50796,52309,52310,52311,54495,56451,58733,58768,61725,63238,63395,63422	Eldan Artifact	eldan-artifact-42
+2067	2/14	61729	Eldan Wire	eldan-wire-42
+2068	2/2	36817	Loose Loftite Deposit	loose-loftite-deposit-42
+2069	0/4	36734,36735	ASSASSINATION: The Fire-Singer	assassination-the-fire-singer-42
+2069	0/4	36843	Flamedancer Fire-Singer	flamedancer-fire-singer-42
+2072	0/7	36739,36740	SWAT: Arachnapocalypse	swat-arachnapocalypse-42
+2072	0/7	35961	Skittering Flayer	skittering-flayer-42
+2072	0/7	35962	Skittering Fury	skittering-fury-42
+2072	0/7	62106	Skittering Slayer	skittering-slayer-42
+2072	0/7	62088	Skittering Spinner	skittering-spinner-42
+2072	0/7	35964	Skittering Venomfang	skittering-venomfang-42
+2076	0/7	36741,36742	SWAT: Weaponized Loftite	swat-weaponized-loftite-42
+2076	0/7	62105	Sandthorne Earthcaller	sandthorne-earthcaller-42
+2076	0/7	35943	Sandthorne Leafblade	sandthorne-leafblade-42
+2076	0/7	35947	Sandthorne Malverine	sandthorne-malverine-42
+2076	0/7	35942	Sandthorne Pistolier	sandthorne-pistolier-42
+2076	0/7	35944	Sandthorne Razorvine	sandthorne-razorvine-42
+2076	0/7	62087	Sandthorne Reaper	sandthorne-reaper-42
+2076	0/7	36006,36007	Sandthorne Sandshifter	sandthorne-sandshifter-42
+2076	0/7	35946	Sandthorne Thornpoint	sandthorne-thornpoint-42
+2077	0/7	36743,36744	SWAT: They Get in Your Hair	swat-they-get-in-your-hair-42
+2077	0/7	35895,58758	Scourwind Challenger	scourwind-challenger-42
+2077	0/7	62093	Scourwind Champion	scourwind-champion-42
+2077	0/7	35893	Scourwind Headthumper	scourwind-headthumper-42
+2077	0/7	62090	Scourwind Herald	scourwind-herald-42
+2077	0/7	35889,36112	Scourwind Mudrunner	scourwind-mudrunner-42
+2077	0/7	35890	Scourwind Render	scourwind-render-42
+2077	0/7	62089	Scourwind Shambler	scourwind-shambler-42
+2077	0/7	62110	Skawren the Gale Witch	skawren-the-gale-witch-42
+2078	0/0	36747,36748	FIRST STRIKE: Stemming the Tide... of Stemdragons	first-strike-stemming-the-tide-of-stemdragons-42
+2079	0/0	36749,36750	SECURITY: Honey Hunters	security-honey-hunters-42
+2082	3/13	34781,58706	Chompacabra Mound	chompacabra-mound-42
+2082	3/13	36886	Prospector Pete Bonsall	prospector-pete-bonsall-42
+2085	2/23	37057	Ancient Megadroid	ancient-megadroid-42
+2085	2/23	50742	Basher Grogek	basher-grogek-42
+2085	2/23	35921	Broodlord Morkhel	broodlord-morkhel-42
+2085	2/23	35914	Flamedancer Acolyte	flamedancer-acolyte-42
+2085	2/23	37369	Flamedancer Guardian	flamedancer-guardian-42
+2085	2/23	62098	Flamedancer War-Blazer	flamedancer-war-blazer-42
+2085	2/23	35916	Flamedancer Zealot	flamedancer-zealot-42
+2085	2/23	35895,58758	Scourwind Challenger	scourwind-challenger-42
+2085	2/23	62093	Scourwind Champion	scourwind-champion-42
+2085	2/23	35893	Scourwind Headthumper	scourwind-headthumper-42
+2085	2/23	62090	Scourwind Herald	scourwind-herald-42
+2085	2/23	62107	Scourwind Hulk	scourwind-hulk-42
+2085	2/23	35889,36112	Scourwind Mudrunner	scourwind-mudrunner-42
+2085	2/23	36115	Scourwind Perchmaster	scourwind-perchmaster-42
+2085	2/23		Scourwind Priestess	scourwind-priestess-42
+2085	2/23	36114	Scourwind Raider	scourwind-raider-42
+2085	2/23	35890	Scourwind Render	scourwind-render-42
+2085	2/23	62089	Scourwind Shambler	scourwind-shambler-42
+2085	2/23	36113	Scourwind Skullthumper	scourwind-skullthumper-42
+2085	2/23	35983	Scourwind Stormspeaker	scourwind-stormspeaker-42
+2085	2/23	62110	Skawren the Gale Witch	skawren-the-gale-witch-42
+2085	2/23	37056	Statue of Osiric	statue-of-osiric-42
+2085	2/23	62116	Sun-Holder	sun-holder-42
+2085	2/23	36923	Voice of Osiric	voice-of-osiric-42
+2087	2/2	36894	Protostar Secure-A-Lock 3000	protostar-secure-a-lock-3000-329
+2087	2/2	36894	Protostar Secure-A-Lock 3000	protostar-secure-a-lock-3000-42
+2088	2/2	16790,19597,32859,35343,35355,36765,40800,46601,47361,48236,53088,57004,58626,71825	Dust Devil	dust-devil-42
+2088	2/2	36581	Tanglewind Dust Devil	tanglewind-dust-devil-42
+2091	3/17	36910	Protostar Asset Protections Beacon	protostar-asset-protections-beacon-42
+2094	3/13	46543	Heckrose	heckrose-42
+2094	3/13	36940	Treasure Hunter Roni	treasure-hunter-roni-42
+2132	2/14	37471,37473	DREDplex Data Terminal	dredplex-data-terminal-17
+2132	2/14	37471,37473	DREDplex Data Terminal	dredplex-data-terminal-423
+2133	2/14	37505	Brightland's Datachron	brightlands-datachron-17
+2133	2/14	37504	Deadstar Data Terminal	deadstar-data-terminal-17
+2133	2/14	37503	Holostation Terminal	holostation-terminal-17
+2133	2/14		Recorded Holostation Terminal	recorded-holostation-terminal-17
+2138	2/23	21004	Augmented Rockhound Burrower	augmented-rockhound-burrower-17
+2138	2/23	35251	Augmented Rockhound Guardian	augmented-rockhound-guardian-17
+2138	2/23	21003	Augmented Rockhound Slasher	augmented-rockhound-slasher-17
+2138	2/23	21955	Augmented Slateform Charger	augmented-slateform-charger-17
+2138	2/23	61579	Augmented Slateform Demolisher	augmented-slateform-demolisher-17
+2138	2/23	21001	Augmented Slateform Slammer	augmented-slateform-slammer-17
+2138	2/23	21558,21559,21560,21608,22291,23993,23994,37640,37641,37642	Augmented XAS Scientist	augmented-xas-scientist-17
+2138	2/23	19377	Stonemore	stonemore-17
+2139	2/2	20996,21534	Site 14 Augmentor	site-14-augmentor-17
+2139	2/2	20996,21534	Site 14 Augmentor	site-14-augmentor-435
+2139	2/2	61508	Site 14 Defender	site-14-defender-17
+2139	2/2	61578	Site 14 Devastator	site-14-devastator-17
+2139	2/2	20995,37649	Site 14 Mender	site-14-mender-17
+2139	2/2	35216,37648	Site 14 Probe	site-14-probe-17
+2139	2/2	20997,37643	Site 14 Protector	site-14-protector-17
+2204	3/13	39071	Roland Caris	roland-caris-53
+2204	3/13	37981,40210,49700,52659,53960	Ship Debris	ship-debris-53
+2211	2/2	53089	Abyss	abyss-53
+2211	2/2	48149	Balehoof Charger	balehoof-charger-53
+2211	2/2	48151	Balehoof Grazer	balehoof-grazer-53
+2211	2/2	62190	Balehoof Trampler	balehoof-trampler-53
+2211	2/2	37964	Barbed Blightwing	barbed-blightwing-53
+2211	2/2		Biophage Illusion	biophage-illusion-53
+2211	2/2	48477	Blightclaw Brawler	blightclaw-brawler-53
+2211	2/2	38092	Blighted Mauler	blighted-mauler-53
+2211	2/2	58541	Blightwing Boomer	blightwing-boomer-53
+2211	2/2	47661	Blightwing Swarmer	blightwing-swarmer-53
+2211	2/2	53114	Blinky	blinky-53
+2211	2/2	39644	Bulgoth the Wallbreaker	bulgoth-the-wallbreaker-53
+2211	2/2	46411	Cinderskin Crawler	cinderskin-crawler-53
+2211	2/2	58493	Cinderskin Crawler Corpse	cinderskin-crawler-corpse-53
+2211	2/2	62126	Cinderskin Lurker	cinderskin-lurker-53
+2211	2/2	37963,38297	Cinderskin Slitherer	cinderskin-slitherer-53
+2211	2/2	38074	Corrupted Augmentor	corrupted-augmentor-53
+2211	2/2	62131	Corrupted Cankerqueen	corrupted-cankerqueen-53
+2211	2/2	37965,39225	Corrupted Cankertail	corrupted-cankertail-53
+2211	2/2	38214	Corrupted Command Construct	corrupted-command-construct-53
+2211	2/2	48154	Corrupted Commander	corrupted-commander-53
+2211	2/2		Corrupted Goliath	corrupted-goliath-53
+2211	2/2	48157	Corrupted Handler	corrupted-handler-53
+2211	2/2	38582	Corrupted Probe	corrupted-probe-53
+2211	2/2	38579	Corrupted Protector	corrupted-protector-53
+2211	2/2	62207	Corrupted Punisher	corrupted-punisher-53
+2211	2/2	48158	Corrupted Ripjaw	corrupted-ripjaw-53
+2211	2/2	48127	Corrupted Rockpaw	corrupted-rockpaw-53
+2211	2/2	48155	Corrupted Specialist	corrupted-specialist-53
+2211	2/2	49543	Corrupted Stemdragon	corrupted-stemdragon-53
+2211	2/2	62206	Corrupted Watcher	corrupted-watcher-53
+2211	2/2	48189,71466,71471	Crazed Medic	crazed-medic-53
+2211	2/2	48187	Crazed Researcher	crazed-researcher-53
+2211	2/2	48186	Crazed Scout	crazed-scout-53
+2211	2/2	62200	Crazed Sharpshooter	crazed-sharpshooter-275
+2211	2/2	62200	Crazed Sharpshooter	crazed-sharpshooter-53
+2211	2/2	48188	Crazed Sniper	crazed-sniper-275
+2211	2/2	48188	Crazed Sniper	crazed-sniper-53
+2211	2/2	62201	Crazed Warrior	crazed-warrior-275
+2211	2/2	62201	Crazed Warrior	crazed-warrior-53
+2211	2/2	38987,42624,46330	Creeping Crawler	creeping-crawler-275
+2211	2/2	38987,42624,46330	Creeping Crawler	creeping-crawler-53
+2211	2/2	38056,38057,38058,56801,58879,68350	Creeping Eyestalk	creeping-eyestalk-53
+2211	2/2	38054,58674	Creeping Spawner	creeping-spawner-275
+2211	2/2	38054,58674	Creeping Spawner	creeping-spawner-53
+2211	2/2	50502	Cryobolli	cryobolli-53
+2211	2/2	50501	Cryobolli Ephyra	cryobolli-ephyra-53
+2211	2/2	54601	Darkstone Watcher	darkstone-watcher-71
+2211	2/2	58557	Deadly Desolate Peep	deadly-desolate-peep-53
+2211	2/2	53090	Deadpaws	deadpaws-53
+2211	2/2	53105	Deathgrazer	deathgrazer-53
+2211	2/2	63197	Deathpaw Reaver	deathpaw-reaver-71
+2211	2/2	53297	Deathpaw Stalker	deathpaw-stalker-71
+2211	2/2	54697	Desolate Leacher	desolate-leacher-53
+2211	2/2	52005	Ebony Grazer	ebony-grazer-71
+2211	2/2	50558	Energy Worm	energy-worm-53
+2211	2/2	62130	Enraged Cankertail	enraged-cankertail-53
+2211	2/2	62183	Enraged Mauler	enraged-mauler-53
+2211	2/2	48478	Fetid Glider	fetid-glider-53
+2211	2/2	48152	Fetid Scavenger	fetid-scavenger-53
+2211	2/2	48153	Fetid Screecher	fetid-screecher-53
+2211	2/2	62199	Filthclaw Alpha	filthclaw-alpha-53
+2211	2/2	38071	Filthclaw Fiend	filthclaw-fiend-53
+2211	2/2	49369	Filthclaw Freak	filthclaw-freak-53
+2211	2/2	62197	Filthclaw Stalker	filthclaw-stalker-53
+2211	2/2	58620	Golboth the Gatecrusher	golboth-the-gatecrusher-53
+2211	2/2	38086	Gorgegut the Necrotic	gorgegut-the-necrotic-53
+2211	2/2	62192	Grimhide Prime	grimhide-prime-53
+2211	2/2	49372	Grimhide Prowler	grimhide-prowler-53
+2211	2/2	49374	Grimhide Stalker	grimhide-stalker-53
+2211	2/2	48479	Grimtongue Scrambler	grimtongue-scrambler-53
+2211	2/2	51995	Harrowing Sludge	harrowing-sludge-71
+2211	2/2	48398	Hungry Cinderskin Slitherer	hungry-cinderskin-slitherer-53
+2211	2/2	51988	Ingress Nibbler	ingress-nibbler-71
+2211	2/2	52781	Kesselbug Burrower	kesselbug-burrower-53
+2211	2/2	52782	Kesselbug Larva	kesselbug-larva-53
+2211	2/2	62221	Kesselbug Tunneler	kesselbug-tunneler-53
+2211	2/2	48892	Monolith Mauler	monolith-mauler-53
+2211	2/2	38073	Necrotic Horror	necrotic-horror-53
+2211	2/2	62214	Necrotic Terror	necrotic-terror-53
+2211	2/2	48126	Oozing Horror	oozing-horror-53
+2211	2/2	49493	Oozing Sludge	oozing-sludge-53
+2211	2/2	51994	Poxpollen Buzzer	poxpollen-buzzer-71
+2211	2/2	51993	Poxpollen Stinger	poxpollen-stinger-71
+2211	2/2	37962,38295	Rancid Peep	rancid-peep-53
+2211	2/2	56490	Ridgepaw Hunter	ridgepaw-hunter-53
+2211	2/2	56489	Ridgepaw Sniffer	ridgepaw-sniffer-53
+2211	2/2	63161,63743,63744	Ripe Strain Sac	ripe-strain-sac-53
+2211	2/2	48145	Rotwind Creeper	rotwind-creeper-53
+2211	2/2	48144	Rotwind Skitter	rotwind-skitter-53
+2211	2/2		Skeletal Girrok	skeletal-girrok-53
+2211	2/2	38087	Skeletal Gorganoth	skeletal-gorganoth-53
+2211	2/2	58542	Sourgut the Necrotic	sourgut-the-necrotic-53
+2211	2/2	38079	Spineridge Agent	spineridge-agent-53
+2211	2/2	62213	Spineridge Champion	spineridge-champion-53
+2211	2/2	38059	Spineridge Commander	spineridge-commander-53
+2211	2/2	38083	Spineridge Operative	spineridge-operative-53
+2211	2/2	56501	Spineridge Stinger	spineridge-stinger-53
+2211	2/2	62212	Spineridge Warrior	spineridge-warrior-53
+2211	2/2	38082	Spineridge Watcher	spineridge-watcher-53
+2211	2/2	37969,53164	Strain Mauler	strain-mauler-53
+2211	2/2	53103	Strainblade	strainblade-53
+2211	2/2	49642	The Lobotomizer	the-lobotomizer-53
+2211	2/2	53113	The Queen	the-queen-53
+2211	2/2	53104	The Vultch	the-vultch-53
+2211	2/2	39407	Trilius Pates	trilius-pates-53
+2211	2/2	58254,58278,58709	Ultraform Charger	ultraform-charger-53
+2211	2/2	58256,58282,58710	Ultraform Juggernaut	ultraform-juggernaut-53
+2211	2/2	58259,58279,58708	Ultraform Lasher	ultraform-lasher-53
+2211	2/2	58265,58281	Ultraform Reaper	ultraform-reaper-53
+2211	2/2	58261,58280	Ultraform Titan	ultraform-titan-53
+2211	2/2	48147	Vilelimb Agitator	vilelimb-agitator-53
+2211	2/2	48146	Vilelimb Crawler	vilelimb-crawler-53
+2211	2/2	48148	Warptooth Corruptor	warptooth-corruptor-53
+2211	2/2	49387	Warptooth Defiler	warptooth-defiler-53
+2211	2/2	62193	Warptooth Infector	warptooth-infector-53
+2211	2/2		Warptooth Lord	warptooth-lord-53
+2211	2/2	62194	Warptooth Tainter	warptooth-tainter-53
+2212	2/2	54388,54389	Frozen Corpse	frozen-corpse-70
+2212	2/2	49867	Mk. III Cryo Pod	mk-iii-cryo-pod-70
+2215	2/2	48126	Oozing Horror	oozing-horror-53
+2215	2/2	49493	Oozing Sludge	oozing-sludge-53
+2216	2/2	39200	Farside Fiera Flower	farside-fiera-flower-74
+2217	0/7	62005	Maw the Junglestalker	maw-the-junglestalker-74
+2217	0/7	39201,39202	SWAT: Weaponized Mutagen	swat-weaponized-mutagen-74
+2217	0/7	38127	Savage Bloodtail	savage-bloodtail-74
+2217	0/7	38136	Savage Grimtail	savage-grimtail-74
+2217	0/7	62024	Tanglevine Menace	tanglevine-menace-74
+2217	0/7	61778	Tanglevine Pouncer	tanglevine-pouncer-74
+2217	0/7	61972	Timber Gladestrider	timber-gladestrider-74
+2217	0/7	38112	Timber Raven	timber-raven-74
+2217	0/7	61767	Timber Rook	timber-rook-74
+2217	0/7	38115	Wildwood Entangler	wildwood-entangler-74
+2217	0/7	62002	Woodland Direpaw	woodland-direpaw-74
+2217	0/7	61766	Woodland Saberclaw	woodland-saberclaw-74
+2217	0/7	38110	Woodland Wildcat	woodland-wildcat-74
+2218	2/23	49731	Aspect of Earth	aspect-of-earth-74
+2218	2/23		Aspect of Water	aspect-of-water-74
+2218	2/23	38104,45806	Embodiment of Purity	embodiment-of-purity-74
+2218	2/23	38246,45807	Embodiment of Strength	embodiment-of-strength-74
+2218	2/23	38258,45808	Embodiment of Vitality	embodiment-of-vitality-74
+2218	2/23	38109	Essence of Earth	essence-of-earth-74
+2218	2/23	38257,49896,63547	Essence of Life	essence-of-life-74
+2218	2/23	38113	Essence of Water	essence-of-water-74
+2219	2/23	38104,45806	Embodiment of Purity	embodiment-of-purity-74
+2219	2/23	38246,45807	Embodiment of Strength	embodiment-of-strength-74
+2219	2/23	38258,45808	Embodiment of Vitality	embodiment-of-vitality-74
+2219	2/23	38109	Essence of Earth	essence-of-earth-74
+2219	2/23	38257,49896,63547	Essence of Life	essence-of-life-74
+2219	2/23	38113	Essence of Water	essence-of-water-74
+2222	2/2	39217	Tanglevine Toys	tanglevine-toys-74
+2223	0/0	39270,39271	HOLDOUT: Grimtail Ambush	holdout-grimtail-ambush-74
+2226	2/2	38112	Timber Raven	timber-raven-74
+2237	0/4	39276	ASSASSINATION: Scuttling Death	assassination-scuttling-death-53
+2237	0/4	39275,46965,46966,46967	Scuttling Death	scuttling-death-273
+2237	0/4	39275,46965,46966,46967	Scuttling Death	scuttling-death-53
+2238	0/4	39330	ASSASSINATION: Painmonger	assassination-painmonger-70
+2238	0/4	50505	The Painmonger	the-painmonger-70
+2239	0/4	39674,40831	ASSASSINATION: Foulwatch Sentry	assassination-foulwatch-sentry-305
+2239	0/4	39674,40831	ASSASSINATION: Foulwatch Sentry	assassination-foulwatch-sentry-70
+2239	0/4		Foulwatch Sentry	foulwatch-sentry-305
+2239	0/4		Foulwatch Sentry	foulwatch-sentry-70
+2240	0/5	41712	DEMOLITION: Transistor Tampering	demolition-transistor-tampering-53
+2242	0/4	39315,39316	ASSASSINATION: Augmentor Annihilation	assassination-augmentor-annihilation-74
+2242	0/4	39302	Beryl Augmentor X12	beryl-augmentor-x12-74
+2245	3/17	39325	Tanglevine Totem	tanglevine-totem-74
+2246	2/2	39326	Aggressive Agave	aggressive-agave-75
+2247	2/2	62057	Greater Strain Corruptor	greater-strain-corruptor-26
+2247	2/2	62006	Malfeast the Unclean	malfeast-the-unclean-26
+2247	2/2	39209	Puslek the Corruptor	puslek-the-corruptor-26
+2247	2/2	37966,39203,53168,53172,59190	Strain Corruptor	strain-corruptor-26
+2248	0/0	39338,39339	DEFEND: Skeech Security	defend-skeech-security-74
+2248	0/0		SECURITY: Skeech Security	security-skeech-security-74
+2249	2/2	38537	Corrupted Bloom	corrupted-bloom-26
+2249	2/2	40168,60326	Corrupted Buck	corrupted-buck-26
+2249	2/2	38290	Corrupted Crusher	corrupted-crusher-26
+2249	2/2	62056	Corrupted Deathblossom	corrupted-deathblossom-26
+2249	2/2	61997	Corrupted Deathvine	corrupted-deathvine-26
+2249	2/2	62051	Corrupted Doomroot	corrupted-doomroot-26
+2249	2/2	62009	Corrupted Fleshripper	corrupted-fleshripper-26
+2249	2/2	38312	Corrupted Howler	corrupted-howler-26
+2249	2/2	38311	Corrupted Leaper	corrupted-leaper-26
+2249	2/2	39210	Corrupted Life	corrupted-life-26
+2249	2/2	38299	Corrupted Mauler	corrupted-mauler-26
+2249	2/2	38231	Corrupted Padfoot	corrupted-padfoot-26
+2249	2/2	62012	Corrupted Pouncer	corrupted-pouncer-26
+2249	2/2	38291,61991	Corrupted Prowler	corrupted-prowler-26
+2249	2/2	38320	Corrupted Ripper	corrupted-ripper-26
+2249	2/2	38318	Corrupted Scavenger	corrupted-scavenger-26
+2249	2/2	38308	Corrupted Scrambler	corrupted-scrambler-26
+2249	2/2	38232	Corrupted Slasher	corrupted-slasher-26
+2249	2/2	38319	Corrupted Snapper	corrupted-snapper-26
+2249	2/2	38207,39648	Corrupted Sporeling	corrupted-sporeling-26
+2249	2/2	38292	Corrupted Stalker	corrupted-stalker-26
+2249	2/2	38414,39650	Corrupted Taproot	corrupted-taproot-26
+2249	2/2	48749	Guardian Zelkix	guardian-zelkix-26
+2249	2/2	39642	Swipe	swipe-26
+2249	2/2	39067	Tainted Splintertooth	tainted-splintertooth-26
+2249	2/2	38346	Twilight Prowler	twilight-prowler-26
+2249	2/2	61999	Vileblossom the Putrid	vileblossom-the-putrid-26
+2254	2/2	39363	Primal Vent	primal-vent-75
+2255	2/2	39363	Primal Vent	primal-vent-75
+2261	0/6	39371	Incubation Sack	incubation-sack-53
+2261	0/6	39379,40873	RESCUE OP: Incubation Period	rescue-op-incubation-period-53
+2262	2/2	39380	Flamewalker Drum	flamewalker-drum-75
+2273	3/17	39408	Primal Stabilizer	primal-stabilizer-75
+2274	3/13	39411	Primalogist Broadwell	primalogist-broadwell-74
+2277	0/6	39437	Lopp Dirt Mound	lopp-dirt-mound-75
+2277	0/6	39439,39440	RESCUE OP: Buried Up To Their Ears	rescue-op-buried-up-to-their-ears-75
+2278	0/4	39456,39457	ASSASSINATION: Cutting Crystal	assassination-cutting-crystal-75
+2278	0/4	39455	Lucidious	lucidious-75
+2279	0/0	39465,39466	FIRSTSTRIKE: Desert Egg Crackin'	firststrike-desert-egg-crackin-75
+2288	3/12	39504	Malfunctioning Generator	malfunctioning-generator-75
+2289	2/14	39578	Megadroid Arm Circuitry	megadroid-arm-circuitry-26
+2289	2/14	39633	Megadroid Chest Circuitry	megadroid-chest-circuitry-26
+2289	2/14	39586	Megadroid Hand Circuitry	megadroid-hand-circuitry-26
+2289	2/14	39568,60120	Megadroid Head	megadroid-head-26
+2289	2/14	39571	Megadroid Leg Circuitry	megadroid-leg-circuitry-26
+2289	2/14	39571	Megadroid Leg Circuitry	megadroid-leg-circuitry-317
+2292	2/2	62029	Greva the Bone Collector	greva-the-bone-collector-74
+2292	2/2	50629	Meldrid the Decrepit	meldrid-the-decrepit-74
+2292	2/2	62027	Tanglevine Banshee	tanglevine-banshee-74
+2292	2/2	38105	Tanglevine Brawler	tanglevine-brawler-74
+2292	2/2	38100	Tanglevine Bruiser	tanglevine-bruiser-74
+2292	2/2	43923	Tanglevine Matriarch	tanglevine-matriarch-74
+2292	2/2	61780	Tanglevine Pummeler	tanglevine-pummeler-74
+2292	2/2	38096	Tanglevine Shaman	tanglevine-shaman-74
+2293	0/4	39661,39662	ASSASSINATION: Taming the Beastcaller	assassination-taming-the-beastcaller-26
+2293	0/4	39573	Beastcaller Hestara	beastcaller-hestara-26
+2294	0/4	39663,39664	ASSASSINATION: The Breaker	assassination-the-breaker-26
+2294	0/4	39579	Ragla the Breaker	ragla-the-breaker-26
+2296	0/4	39665,39666	ASSASSINATION: The Mighty Malaki	assassination-the-mighty-malaki-26
+2296	0/4	39592	Malaki	malaki-26
+2297	0/0	39667,39668	HOLDOUT : Ravenous Roots	holdout-ravenous-roots-26
+2298	0/5	39595,39596	DEMOLITION: Banner Burning	demolition-banner-burning-75
+2298	0/5	39581	Flamewalker Banner	flamewalker-banner-75
+2300	0/0	39669,39670	HOLDOUT : Altered Beasts	holdout-altered-beasts-26
+2302	0/0	39671,39672	HOLDOUT : Cage Match	holdout-cage-match-26
+2303	0/6	39625,67769	Lopp Burrow	lopp-burrow-26
+2303	0/6	39625,67769	Lopp Burrow	lopp-burrow-319
+2303	0/6	39496,39497	RESCUE OP: Buried Treasure Seekers	rescue-op-buried-treasure-seekers-26
+2305	0/7	40168,60326	Corrupted Buck	corrupted-buck-26
+2305	0/7	38290	Corrupted Crusher	corrupted-crusher-26
+2305	0/7	62009	Corrupted Fleshripper	corrupted-fleshripper-26
+2305	0/7	38312	Corrupted Howler	corrupted-howler-26
+2305	0/7	38299	Corrupted Mauler	corrupted-mauler-26
+2305	0/7	62012	Corrupted Pouncer	corrupted-pouncer-26
+2305	0/7	38291,61991	Corrupted Prowler	corrupted-prowler-26
+2305	0/7	38320	Corrupted Ripper	corrupted-ripper-26
+2305	0/7	38318	Corrupted Scavenger	corrupted-scavenger-26
+2305	0/7	38308	Corrupted Scrambler	corrupted-scrambler-26
+2305	0/7	38319	Corrupted Snapper	corrupted-snapper-26
+2305	0/7	38292	Corrupted Stalker	corrupted-stalker-26
+2305	0/7	39490,39491	SWAT: Fire in the Swamp	swat-fire-in-the-swamp-26
+2305	0/7	38998,40245,50907,53160	Strain Crawler	strain-crawler-26
+2306	0/7	38405	Kinesis Exterminator	kinesis-exterminator-26
+2306	0/7	38405	Kinesis Exterminator	kinesis-exterminator-318
+2306	0/7	62046	Kinesis Overseer	kinesis-overseer-26
+2306	0/7	62046	Kinesis Overseer	kinesis-overseer-318
+2306	0/7	61973	Kinesis Slayer	kinesis-slayer-26
+2306	0/7	61973	Kinesis Slayer	kinesis-slayer-318
+2306	0/7	39492,39493	SWAT: Denial of Service	swat-denial-of-service-26
+2306	0/7	61985	The Primal Destroyer	the-primal-destroyer-26
+2308	0/7	38537	Corrupted Bloom	corrupted-bloom-26
+2308	0/7	62056	Corrupted Deathblossom	corrupted-deathblossom-26
+2308	0/7	61997	Corrupted Deathvine	corrupted-deathvine-26
+2308	0/7	62051	Corrupted Doomroot	corrupted-doomroot-26
+2308	0/7	38207,39648	Corrupted Sporeling	corrupted-sporeling-26
+2308	0/7	38414,39650	Corrupted Taproot	corrupted-taproot-26
+2308	0/7	39494,39495	SWAT: Weed Killer	swat-weed-killer-26
+2309	0/4	39628,39629	ASSASSINATION: Cutting Down a Giant	assassination-cutting-down-a-giant-74
+2309	0/4	38121	Tanglevine Giant	tanglevine-giant-74
+2310	3/13	39634	Abandoned Datachron	abandoned-datachron-75
+2310	3/13	39632	Abandoned Supplies	abandoned-supplies-75
+2311	3/13	39637	Ancient War Drum	ancient-war-drum-26
+2311	3/13	39635	Treasure Hunter Moka	treasure-hunter-moka-26
+2320	0/7	38676	Acolyte Ember-Walker	acolyte-ember-walker-75
+2320	0/7	38677	Acolyte Flame-Binder	acolyte-flame-binder-75
+2320	0/7	38675	Acolyte Smoke-Seeker	acolyte-smoke-seeker-75
+2320	0/7	61797	Flamewalker Arcanist	flamewalker-arcanist-75
+2320	0/7	38153	Flamewalker Fire-Brand	flamewalker-fire-brand-75
+2320	0/7	38148	Flamewalker Inciter	flamewalker-inciter-75
+2320	0/7	62060	Flamewalker Magma-Striker	flamewalker-magma-striker-75
+2320	0/7	38252	Flamewalker Purger	flamewalker-purger-75
+2320	0/7	38251	Flamewalker Pyro	flamewalker-pyro-75
+2320	0/7	61795	Flamewalker Scorch-Blade	flamewalker-scorch-blade-75
+2320	0/7	62063	Pharos the Immolator	pharos-the-immolator-75
+2320	0/7	39687,39688	SWAT: Mask of Confusion	swat-mask-of-confusion-75
+2329	2/2	38061	Kel Ulgar Forge	kel-ulgar-forge-26
+2329	2/2	38051	Kel Ulgar Weapon Rack	kel-ulgar-weapon-rack-26
+2335	3/13	14130,26257,27093,30843,30897,31180,32856,33092,33390,33722,34737,35703,35706,35707,35708,35709,35710,42218,46620,46954,50266,50796,52309,52310,52311,54495,56451,58733,58768,61725,63238,63395,63422	Eldan Artifact	eldan-artifact-26
+2335	3/13	39699	Shiny Artist Pecasi	shiny-artist-pecasi-26
+2335	3/13	49437,50268	Torine Sword	torine-sword-26
+2340	2/2	61969	Backwash the Brackish	backwash-the-brackish-26
+2340	2/2	62036	Crushstone Behemoth	crushstone-behemoth-26
+2340	2/2	62036	Crushstone Behemoth	crushstone-behemoth-319
+2340	2/2	61963	Crushstone Colossus	crushstone-colossus-26
+2340	2/2	61963	Crushstone Colossus	crushstone-colossus-319
+2340	2/2	40474	Crushstone Titan	crushstone-titan-26
+2340	2/2	40474	Crushstone Titan	crushstone-titan-319
+2340	2/2	38387	Pyrolos the Inferno	pyrolos-the-inferno-26
+2340	2/2	38381	Raging Tide	raging-tide-26
+2340	2/2	61965	Raging Undertow	raging-undertow-26
+2340	2/2	62041	Raging Wavebreaker	raging-wavebreaker-26
+2340	2/2		Restless Echo	restless-echo-26
+2340	2/2	61958	Restless Gale	restless-gale-26
+2340	2/2	62028	Restless Tempest	restless-tempest-26
+2340	2/2	62031	Spirevale Firenova	spirevale-firenova-26
+2340	2/2	61959	Spirevale Furnace	spirevale-furnace-26
+2340	2/2	62033	Spirevale Inferno	spirevale-inferno-26
+2340	2/2	38386	Spirevale Scorcher	spirevale-scorcher-26
+2340	2/2	38384	Stonelord Sklor	stonelord-sklor-26
+2340	2/2	38384	Stonelord Sklor	stonelord-sklor-319
+2341	2/23	55083	Blademother's Shrine	blademothers-shrine-26
+2341	2/23	37924	Deathbringer Ehel	deathbringer-ehel-26
+2341	2/23	28167	Deathbringer Kala	deathbringer-kala-26
+2341	2/23	28379	Hella the Deathbringer	hella-the-deathbringer-26
+2341	2/23	39796	Idol of the Foe	idol-of-the-foe-26
+2341	2/23	39795	Pumera Training Pen	pumera-training-pen-26
+2341	2/23	50189	Sacred Sword Shrine	sacred-sword-shrine-26
+2341	2/23	39172	Shrine of Vengeance	shrine-of-vengeance-26
+2341	2/23	39174	Shrine of the Accord	shrine-of-the-accord-26
+2341	2/23	39168	Shrine of the Huntress	shrine-of-the-huntress-26
+2341	2/23	39173	Shrine of the Sacred Sword	shrine-of-the-sacred-sword-26
+2341	2/23	27678,32523,58421	Torine Battlemaiden	torine-battlemaiden-26
+2341	2/23	39794	Torine Great Forge	torine-great-forge-26
+2341	2/23	39708,39797	Torine Greatsword	torine-greatsword-26
+2341	2/23	39693,50188	Torine Statue	torine-statue-26
+2347	3/17	39876,53771	Stealthed Base Station	stealthed-base-station-26
+2349	0/0	39338,39339	DEFEND: Skeech Security	defend-skeech-security-74
+2349	0/0		SECURITY: Skeech Security	security-skeech-security-74
+2350	2/14	39891	Ancient Monitors	ancient-monitors-26
+2352	3/12	39504	Malfunctioning Generator	malfunctioning-generator-75
+2354	3/17	39906	Primal Dampener	primal-dampener-75
+2356	3/13	39943	Geologist Lucianos	geologist-lucianos-74
+2362	2/20	38299	Corrupted Mauler	corrupted-mauler-26
+2362	2/20	38231	Corrupted Padfoot	corrupted-padfoot-26
+2362	2/20	38291,61991	Corrupted Prowler	corrupted-prowler-26
+2362	2/20	38232	Corrupted Slasher	corrupted-slasher-26
+2362	2/20	38292	Corrupted Stalker	corrupted-stalker-26
+2362	2/20	29783	Feralclaw Devourer	feralclaw-devourer-26
+2362	2/20	61900	Feralclaw Gasher	feralclaw-gasher-26
+2362	2/20	61933	Feralclaw Shredder	feralclaw-shredder-26
+2362	2/20	27527	Torine Fastpaw	torine-fastpaw-26
+2362	2/20	38348	Twilight Mauler	twilight-mauler-26
+2362	2/20	38346	Twilight Prowler	twilight-prowler-26
+2362	2/20	38346	Twilight Prowler	twilight-prowler-26-veteran
+2362	2/20	62025	Twilight Shredder	twilight-shredder-26
+2362	2/20	38347	Twilight Stalker	twilight-stalker-26
+2373	2/14	40598,40642	Exanite Ore	exanite-ore-78
+2373	2/14	40597,40641	Helm of Azrion	helm-of-azrion-78
+2373	2/14	40580,40639	Indominar	indominar-78
+2373	2/14	40596,40640	Mechari Head	mechari-head-78
+2373	2/14	40601,40643	The Cozmotron	the-cozmotron-78
+2373	2/14	40606,40646	The God-Bone	the-god-bone-78
+2373	2/14	40603,40644	The Illium Scroll	the-illium-scroll-78
+2373	2/14	40604,40645	The Nomad Beacon	the-nomad-beacon-78
+2382	3/13	40733	Emma Touchstone	emma-touchstone-53
+2382	3/13	37981,40210,49700,52659,53960	Ship Debris	ship-debris-53
+2391	2/2	48149	Balehoof Charger	balehoof-charger-53
+2391	2/2	48151	Balehoof Grazer	balehoof-grazer-53
+2391	2/2	62190	Balehoof Trampler	balehoof-trampler-53
+2391	2/2	37964	Barbed Blightwing	barbed-blightwing-53
+2391	2/2	53106	Beelzebug	beelzebug-53
+2391	2/2	39516	Bio-Phage Illusion	bio-phage-illusion-53
+2391	2/2		Biophage Illusion	biophage-illusion-53
+2391	2/2	48477	Blightclaw Brawler	blightclaw-brawler-53
+2391	2/2	38092	Blighted Mauler	blighted-mauler-53
+2391	2/2	58541	Blightwing Boomer	blightwing-boomer-53
+2391	2/2	47661	Blightwing Swarmer	blightwing-swarmer-53
+2391	2/2	53114	Blinky	blinky-53
+2391	2/2	39644	Bulgoth the Wallbreaker	bulgoth-the-wallbreaker-53
+2391	2/2	46411	Cinderskin Crawler	cinderskin-crawler-53
+2391	2/2	58493	Cinderskin Crawler Corpse	cinderskin-crawler-corpse-53
+2391	2/2	37963,38297	Cinderskin Slitherer	cinderskin-slitherer-53
+2391	2/2	38074	Corrupted Augmentor	corrupted-augmentor-53
+2391	2/2	62131	Corrupted Cankerqueen	corrupted-cankerqueen-53
+2391	2/2	37965,39225	Corrupted Cankertail	corrupted-cankertail-53
+2391	2/2	38214	Corrupted Command Construct	corrupted-command-construct-53
+2391	2/2	48154	Corrupted Commander	corrupted-commander-53
+2391	2/2	48157	Corrupted Handler	corrupted-handler-53
+2391	2/2	38582	Corrupted Probe	corrupted-probe-53
+2391	2/2	38579	Corrupted Protector	corrupted-protector-53
+2391	2/2	62207	Corrupted Punisher	corrupted-punisher-53
+2391	2/2	48159	Corrupted Ripfang	corrupted-ripfang-53
+2391	2/2	48158	Corrupted Ripjaw	corrupted-ripjaw-53
+2391	2/2	48127	Corrupted Rockpaw	corrupted-rockpaw-53
+2391	2/2	48160	Corrupted Sergeant	corrupted-sergeant-53
+2391	2/2	48155	Corrupted Specialist	corrupted-specialist-53
+2391	2/2	49543	Corrupted Stemdragon	corrupted-stemdragon-53
+2391	2/2	48161	Corrupted Trooper	corrupted-trooper-53
+2391	2/2	62206	Corrupted Watcher	corrupted-watcher-53
+2391	2/2	48163	Corrupted Wrangler	corrupted-wrangler-53
+2391	2/2		Crazed Champion	crazed-champion-53
+2391	2/2	48189,71466,71471	Crazed Medic	crazed-medic-275
+2391	2/2	48189,71466,71471	Crazed Medic	crazed-medic-53
+2391	2/2	48187	Crazed Researcher	crazed-researcher-53
+2391	2/2	48186	Crazed Scout	crazed-scout-275
+2391	2/2	48186	Crazed Scout	crazed-scout-53
+2391	2/2	62200	Crazed Sharpshooter	crazed-sharpshooter-53
+2391	2/2	48188	Crazed Sniper	crazed-sniper-53
+2391	2/2	62201	Crazed Warrior	crazed-warrior-53
+2391	2/2	38987,42624,46330	Creeping Crawler	creeping-crawler-53
+2391	2/2	38056,38057,38058,56801,58879,68350	Creeping Eyestalk	creeping-eyestalk-53
+2391	2/2	38054,58674	Creeping Spawner	creeping-spawner-53
+2391	2/2	50502	Cryobolli	cryobolli-53
+2391	2/2	50501	Cryobolli Ephyra	cryobolli-ephyra-53
+2391	2/2	58557	Deadly Desolate Peep	deadly-desolate-peep-53
+2391	2/2	54697	Desolate Leacher	desolate-leacher-53
+2391	2/2	62130	Enraged Cankertail	enraged-cankertail-53
+2391	2/2	62183	Enraged Mauler	enraged-mauler-53
+2391	2/2	46576	Eyeblight Corruptor	eyeblight-corruptor-53
+2391	2/2	48478	Fetid Glider	fetid-glider-53
+2391	2/2	48152	Fetid Scavenger	fetid-scavenger-53
+2391	2/2	48153	Fetid Screecher	fetid-screecher-53
+2391	2/2	62199	Filthclaw Alpha	filthclaw-alpha-53
+2391	2/2	38071	Filthclaw Fiend	filthclaw-fiend-53
+2391	2/2	49369	Filthclaw Freak	filthclaw-freak-53
+2391	2/2	62197	Filthclaw Stalker	filthclaw-stalker-53
+2391	2/2	58620	Golboth the Gatecrusher	golboth-the-gatecrusher-53
+2391	2/2	38086	Gorgegut the Necrotic	gorgegut-the-necrotic-53
+2391	2/2	62192	Grimhide Prime	grimhide-prime-53
+2391	2/2	49372	Grimhide Prowler	grimhide-prowler-53
+2391	2/2	49374	Grimhide Stalker	grimhide-stalker-53
+2391	2/2	48479	Grimtongue Scrambler	grimtongue-scrambler-53
+2391	2/2	48398	Hungry Cinderskin Slitherer	hungry-cinderskin-slitherer-53
+2391	2/2	62203	Insane Warrior	insane-warrior-53
+2391	2/2	52781	Kesselbug Burrower	kesselbug-burrower-53
+2391	2/2	52781	Kesselbug Burrower	kesselbug-burrower-70
+2391	2/2	52782	Kesselbug Larva	kesselbug-larva-53
+2391	2/2	52782	Kesselbug Larva	kesselbug-larva-70
+2391	2/2	62221	Kesselbug Tunneler	kesselbug-tunneler-53
+2391	2/2	48892	Monolith Mauler	monolith-mauler-53
+2391	2/2	49825	Moris Dustland	moris-dustland-274
+2391	2/2	49825	Moris Dustland	moris-dustland-53
+2391	2/2	38073	Necrotic Horror	necrotic-horror-53
+2391	2/2	62214	Necrotic Terror	necrotic-terror-53
+2391	2/2	48126	Oozing Horror	oozing-horror-53
+2391	2/2	49493	Oozing Sludge	oozing-sludge-53
+2391	2/2	37962,38295	Rancid Peep	rancid-peep-53
+2391	2/2	56490	Ridgepaw Hunter	ridgepaw-hunter-53
+2391	2/2	56489	Ridgepaw Sniffer	ridgepaw-sniffer-53
+2391	2/2	63161,63743,63744	Ripe Strain Sac	ripe-strain-sac-53
+2391	2/2	48145	Rotwind Creeper	rotwind-creeper-53
+2391	2/2	48144	Rotwind Skitter	rotwind-skitter-53
+2391	2/2		Skeletal Girrok	skeletal-girrok-53
+2391	2/2	38087	Skeletal Gorganoth	skeletal-gorganoth-53
+2391	2/2	58542	Sourgut the Necrotic	sourgut-the-necrotic-53
+2391	2/2	38079	Spineridge Agent	spineridge-agent-53
+2391	2/2	62213	Spineridge Champion	spineridge-champion-53
+2391	2/2	38059	Spineridge Commander	spineridge-commander-53
+2391	2/2	38083	Spineridge Operative	spineridge-operative-53
+2391	2/2	56501	Spineridge Stinger	spineridge-stinger-53
+2391	2/2	62212	Spineridge Warrior	spineridge-warrior-53
+2391	2/2	38082	Spineridge Watcher	spineridge-watcher-53
+2391	2/2	37969,53164	Strain Mauler	strain-mauler-53
+2391	2/2	49642	The Lobotomizer	the-lobotomizer-53
+2391	2/2	53104	The Vultch	the-vultch-53
+2391	2/2	58254,58278,58709	Ultraform Charger	ultraform-charger-53
+2391	2/2	58256,58282,58710	Ultraform Juggernaut	ultraform-juggernaut-53
+2391	2/2	58259,58279,58708	Ultraform Lasher	ultraform-lasher-53
+2391	2/2	58265,58281	Ultraform Reaper	ultraform-reaper-53
+2391	2/2	58265,58281	Ultraform Reaper	ultraform-reaper-70
+2391	2/2	58261,58280	Ultraform Titan	ultraform-titan-53
+2391	2/2	48147	Vilelimb Agitator	vilelimb-agitator-53
+2391	2/2	48146	Vilelimb Crawler	vilelimb-crawler-53
+2391	2/2	48148	Warptooth Corruptor	warptooth-corruptor-53
+2391	2/2	49387	Warptooth Defiler	warptooth-defiler-53
+2391	2/2	62193	Warptooth Infector	warptooth-infector-53
+2391	2/2		Warptooth Lord	warptooth-lord-53
+2391	2/2	62194	Warptooth Tainter	warptooth-tainter-53
+2392	2/2	48126	Oozing Horror	oozing-horror-53
+2392	2/2	49493	Oozing Sludge	oozing-sludge-53
+2395	0/4	40829	ASSASSINATION: Scuttling Horror	assassination-scuttling-horror-53
+2395	0/4	40833,47886,47887,47888	Scuttling Horror	scuttling-horror-274
+2395	0/4	40833,47886,47887,47888	Scuttling Horror	scuttling-horror-53
+2396	0/4		ASSASSINATION: Fearmonger	assassination-fearmonger-70
+2396	0/4	40830	ASSASSINATION: The Fearmonger	assassination-the-fearmonger-70
+2396	0/4	40834,51149	The Fearmonger	the-fearmonger-70
+2397	0/4	39674,40831	ASSASSINATION: Foulwatch Sentry	assassination-foulwatch-sentry-305
+2397	0/4	39674,40831	ASSASSINATION: Foulwatch Sentry	assassination-foulwatch-sentry-70
+2397	0/4		Foulwatch Sentry	foulwatch-sentry-305
+2397	0/4		Foulwatch Sentry	foulwatch-sentry-70
+2401	0/6	39371	Incubation Sack	incubation-sack-53
+2401	0/6	39379,40873	RESCUE OP: Incubation Period	rescue-op-incubation-period-53
+2404	2/2	54388,54389	Frozen Corpse	frozen-corpse-70
+2404	2/2	49875	Jenner-Type Cryo Pod	jenner-type-cryo-pod-70
+2424	0/7	41146	Discontented Soldier	discontented-soldier-78
+2424	0/7		SWAT: Ears Everywhere	swat-ears-everywhere-78
+2424	0/7	41143	SWAT: Eyes and Ears Everywhere	swat-eyes-and-ears-everywhere-78
+2428	0/5	41170	DEMOLITION: Tankbuster	demolition-tankbuster-78
+2428	0/5	61370	Tankbuster	tankbuster-78
+2450	0/5	41759	DEMOLITION: Transistor Tamperin'	demolition-transistor-tamperin-53
+2456	2/20	39066	Battalion Sniper	battalion-sniper-53
+2456	2/20	48154	Corrupted Commander	corrupted-commander-53
+2456	2/20	48157	Corrupted Handler	corrupted-handler-53
+2456	2/20	48158	Corrupted Ripjaw	corrupted-ripjaw-53
+2456	2/20	48155	Corrupted Specialist	corrupted-specialist-53
+2456	2/20	8929,10650,12783,13028,24334,34566,34567,38538,58892,60029	Dominion Guard	dominion-guard-53
+2456	2/20	8474,8475,8476,8477,8478,12945,12948,13080,13930,14422,14424,16973,17857,23834,25287,25289,25329,25345,25675,25762,25976,26844,30136,30639,32780,32781,33404,38973,38974,38975,38976,38977,38978,38981,39305,39510,43657,44365,44371,46155,47687,47688,47754,47755,49229,50167,51142,51870,53630,56320,56321,56322,70559,75092,75093	Dominion Soldier	dominion-soldier-53
+2457	2/20	48159	Corrupted Ripfang	corrupted-ripfang-53
+2457	2/20	48160	Corrupted Sergeant	corrupted-sergeant-53
+2457	2/20	48161	Corrupted Trooper	corrupted-trooper-53
+2457	2/20	48163	Corrupted Wrangler	corrupted-wrangler-53
+2457	2/20	8880,8998,8999,16931,16932,17565,19756,20234,20936,21991,26716,30463,40097,40098,40102,40103,40104,40106,40110,40111,46157,46522,47971,49936,63658	Exile Soldier	exile-soldier-53
+2457	2/20	38642,50562,58921	Wayward Bladeweaver	wayward-bladeweaver-53
+2457	2/20	38641,50560,58920	Wayward Guardian	wayward-guardian-53
+2466	2/2	42026	Exanite Coated Plant	exanite-coated-plant-53
+2468	2/2	42026	Exanite Coated Plant	exanite-coated-plant-53
+2503	0/4	42543,42544	ASSASSINATION: Ghostwing	assassination-ghostwing-53
+2503	0/4	42546	Ghostwing	ghostwing-53
+2504	0/4	42543,42544	ASSASSINATION: Ghostwing	assassination-ghostwing-53
+2504	0/4	42546	Ghostwing	ghostwing-53
+2512	0/0	42621	HOLDOUT: Disturbed Wildlife	holdout-disturbed-wildlife-53
+2513	0/0	42622	HOLDOUT: Distressed Wildlife	holdout-distressed-wildlife-53
+2536	3/13	42820,50618	Cardboard Box	cardboard-box-70
+2536	3/13	54737	Consumable Freezer	consumable-freezer-70
+2536	3/13	42816,54746	Quintia Velius	quintia-velius-70
+2590	2/2	50558	Energy Worm	energy-worm-70
+2590	2/2	50512,73064	Logic Elemental	logic-elemental-70
+2590	2/2	50557	Twitchy Surgeling	twitchy-surgeling-70
+2959	3/13	44668	Explorer Levi	explorer-levi-28
+3047	0/4	46438,46439	ASSASSINATION: Dishonorable Discharge	assassination-dishonorable-discharge-2
+3047	0/4	46220	Corsaut Globule	corsaut-globule-2
+3047	0/4	46270	Corsaut Globulette	corsaut-globulette-2
+3047	0/4	46141	Sergeant Corsaut	sergeant-corsaut-2
+3048	0/4	46438,46439	ASSASSINATION: Dishonorable Discharge	assassination-dishonorable-discharge-2
+3048	0/4	46220	Corsaut Globule	corsaut-globule-2
+3048	0/4	46270	Corsaut Globulette	corsaut-globulette-2
+3048	0/4	46141	Sergeant Corsaut	sergeant-corsaut-2
+3058	2/2	46098	Terros Medusa	terros-medusa-2
+3059	3/13	47308	Malfunctioning Scanbot	malfunctioning-scanbot-26
+3059	3/13	47346	Scientist Datachron	scientist-datachron-26
+3059	3/13	47346	Scientist Datachron	scientist-datachron-312
+3059	3/13	49648	Scientist Skeleton	scientist-skeleton-26
+3059	3/13	49648	Scientist Skeleton	scientist-skeleton-312
+3060	2/2	61945	Kalsha the Life-Sworn	kalsha-the-life-sworn-26
+3060	2/2	27684,28156,30125,49441,49442,49516,49517	Wildfall Cleric	wildfall-cleric-26
+3060	2/2	61941	Wildfall Life-Seeker	wildfall-life-seeker-26
+3060	2/2	27526,28155,30124,49514,49515	Wildfall Scavenger	wildfall-scavenger-26
+3060	2/2	27542,27685,30123,49512,49513	Wildfall Shaman	wildfall-shaman-26
+3060	2/2		Wildfall Swordsman	wildfall-swordsman-26
+3060	2/2	61943	Wildfall Terra-Binder	wildfall-terra-binder-26
+3060	2/2	27700	Wildfall Warrior	wildfall-warrior-26
+3062	3/13	47484	Ekose's Journal	ekoses-journal-26
+3062	3/13	49653	Rubble Pile	rubble-pile-26
+3062	3/13	47492	Torine Reliquary	torine-reliquary-26
+3067	2/14	49468	Old Datachron	old-datachron-26
+3071	2/23	47898	Hanging Cocoon	hanging-cocoon-338
+3071	2/23	47898	Hanging Cocoon	hanging-cocoon-7
+3071	2/23	32847,39835,42678,47656	Spider Egg	spider-egg-7
+3071	2/23	47935	Spider Web	spider-web-338
+3071	2/23	47935	Spider Web	spider-web-7
+3071	2/23	32512	Webwood Cocoon	webwood-cocoon-7
+3071	2/23	32491	Webwood Queen	webwood-queen-338
+3071	2/23	32491	Webwood Queen	webwood-queen-7
+3071	2/23	32492,34385,56348	Webwood Spitter	webwood-spitter-338
+3071	2/23	32492,34385,56348	Webwood Spitter	webwood-spitter-7
+3077	0/0	49447,49448	HOLDOUT: Torine Pride	holdout-torine-pride-26
+3082	0/5	49571,49572	DEMOLITION: Weaponized Splorg	demolition-weaponized-splorg-26
+3082	0/5		Scampering Splorg	scampering-splorg-26
+3085	0/7	61936	Dara the Bladekeeper	dara-the-bladekeeper-26
+3085	0/7	61913	Ersa the Soulrender	ersa-the-soulrender-26
+3085	0/7	49604,49605	SWAT: Shield Testing	swat-shield-testing-26
+3085	0/7	27678,32523,58421	Torine Battlemaiden	torine-battlemaiden-26
+3085	0/7	30059,40965,58612,61895	Torine Deathbringer	torine-deathbringer-26
+3085	0/7	34578,44794	Torine Lifebringer	torine-lifebringer-26
+3085	0/7	27681,30061,34474,40964,50513,59088	Torine Lifecaller	torine-lifecaller-26
+3085	0/7	61897	Torine Lifecleaver	torine-lifecleaver-26
+3085	0/7	44793	Torine Lifesealer	torine-lifesealer-26
+3085	0/7	27683	Torine Longclaw	torine-longclaw-26
+3085	0/7	44792	Torine Purger	torine-purger-26
+3085	0/7	27682,27919,29863,29908,49847,50109,50275,50510	Torine Sister	torine-sister-26
+3090	3/13	50055,50173,50235,50236,50237,50238,50239,50240,50259,50277	Wandering Corruptling	wandering-corruptling-53
+3094	3/13	50055,50173,50235,50236,50237,50238,50239,50240,50259,50277	Wandering Corruptling	wandering-corruptling-53
+3108	0/5	50587	DEMOLITION: Destructive Interference	demolition-destructive-interference-70
+3108	0/5	50585,59687,59698,59699,59700	Eldan Antenna	eldan-antenna-70
+3109	0/7	50663	SWAT: Repulsive Behavior	swat-repulsive-behavior-291
+3109	0/7	50663	SWAT: Repulsive Behavior	swat-repulsive-behavior-70
+3109	0/7	62237,62240	Writhing Champion	writhing-champion-291
+3109	0/7	50496,58792	Writhing Crewman	writhing-crewman-291
+3109	0/7		Writhing Juggernaut	writhing-juggernaut-70
+3109	0/7	50495,58791	Writhing Medic	writhing-medic-291
+3109	0/7	50497,58794	Writhing Officer	writhing-officer-291
+3109	0/7	50494,58790	Writhing Soldier	writhing-soldier-291
+3109	0/7	62236,62239	Writhing Warrior	writhing-warrior-291
+3110	0/6	50700	Eldan Defense Probe	eldan-defense-probe-296
+3110	0/6	50700	Eldan Defense Probe	eldan-defense-probe-70
+3110	0/6	50693,51177	RESCUE OP: Strained Defenses	rescue-op-strained-defenses-296
+3110	0/6	50693,51177	RESCUE OP: Strained Defenses	rescue-op-strained-defenses-70
+3113	3/17	25233,37219,50791,58459,58505,73642	Eldan Statue	eldan-statue-70
+3118	2/23	50498	Corrupted Giant Cryoglider	corrupted-giant-cryoglider-291
+3118	2/23	50498	Corrupted Giant Cryoglider	corrupted-giant-cryoglider-70
+3118	2/23	50667	Corrupted Ship Waste	corrupted-ship-waste-291
+3118	2/23	50667	Corrupted Ship Waste	corrupted-ship-waste-70
+3118	2/23	46506	Mutated Cryomite	mutated-cryomite-70
+3118	2/23	40897	Project: Broon	project-broon-70
+3118	2/23	39413,46444	Starblight Corruptor	starblight-corruptor-291
+3118	2/23	39413,46444	Starblight Corruptor	starblight-corruptor-70
+3119	2/23	50498	Corrupted Giant Cryoglider	corrupted-giant-cryoglider-292
+3119	2/23	50498	Corrupted Giant Cryoglider	corrupted-giant-cryoglider-70
+3119	2/23	50667	Corrupted Ship Waste	corrupted-ship-waste-292
+3119	2/23	50667	Corrupted Ship Waste	corrupted-ship-waste-70
+3119	2/23	46506	Mutated Cryomite	mutated-cryomite-70
+3119	2/23	47597	Project: Mutt	project-mutt-70
+3119	2/23	39413,46444	Starblight Corruptor	starblight-corruptor-292
+3119	2/23	39413,46444	Starblight Corruptor	starblight-corruptor-70
+3122	2/14	12402,18161,18185,18186,18382,18383,19368,19663,20610,21602,21603,21761,21769,23441,23464,25454,25506,26173,29816,34771,43503,43980,43982,49585,50790,51051,51052,51053,51054,51057,51107,51108,51109,51123,51444,51450,51776,56641,56642,56643,56895,59436,63643,65772,67796	Eldan Control Panel	eldan-control-panel-296
+3122	2/14	12402,18161,18185,18186,18382,18383,19368,19663,20610,21602,21603,21761,21769,23441,23464,25454,25506,26173,29816,34771,43503,43980,43982,49585,50790,51051,51052,51053,51054,51057,51107,51108,51109,51123,51444,51450,51776,56641,56642,56643,56895,59436,63643,65772,67796	Eldan Control Panel	eldan-control-panel-70
+3125	0/5	51173	DEMOLITION: Constructive Interference	demolition-constructive-interference-70
+3125	0/5	50585,59687,59698,59699,59700	Eldan Antenna	eldan-antenna-70
+3126	0/7	51175	SWAT: Repulsive Conduct	swat-repulsive-conduct-292
+3126	0/7	51175	SWAT: Repulsive Conduct	swat-repulsive-conduct-70
+3126	0/7	62237,62240	Writhing Champion	writhing-champion-292
+3126	0/7	50496,58792	Writhing Crewman	writhing-crewman-292
+3126	0/7	50496,58792	Writhing Crewman	writhing-crewman-70
+3126	0/7	50495,58791	Writhing Medic	writhing-medic-292
+3126	0/7	50495,58791	Writhing Medic	writhing-medic-70
+3126	0/7	50497,58794	Writhing Officer	writhing-officer-292
+3126	0/7	50497,58794	Writhing Officer	writhing-officer-70
+3126	0/7	50494,58790	Writhing Soldier	writhing-soldier-292
+3126	0/7	50494,58790	Writhing Soldier	writhing-soldier-70
+3126	0/7	62236,62239	Writhing Warrior	writhing-warrior-292
+3126	0/7	62236,62239	Writhing Warrior	writhing-warrior-70
+3127	0/6	50700	Eldan Defense Probe	eldan-defense-probe-296
+3127	0/6	50700	Eldan Defense Probe	eldan-defense-probe-70
+3127	0/6	50693,51177	RESCUE OP: Strained Defenses	rescue-op-strained-defenses-296
+3127	0/6	50693,51177	RESCUE OP: Strained Defenses	rescue-op-strained-defenses-70
+3135	3/13	51701,54768	Abigail Brightfield	abigail-brightfield-70
+3135	3/13	42820,50618	Cardboard Box	cardboard-box-292
+3135	3/13	42820,50618	Cardboard Box	cardboard-box-70
+3135	3/13	54737	Consumable Freezer	consumable-freezer-292
+3135	3/13	54737	Consumable Freezer	consumable-freezer-70
+3137	2/2	43249	Cleansed Protector	cleansed-protector-301
+3137	2/2	43249	Cleansed Protector	cleansed-protector-305
+3137	2/2	43249	Cleansed Protector	cleansed-protector-70
+3137	2/2	51743	Defiled Augmentor	defiled-augmentor-301
+3137	2/2	51743	Defiled Augmentor	defiled-augmentor-302
+3137	2/2	51743	Defiled Augmentor	defiled-augmentor-305
+3137	2/2	51743	Defiled Augmentor	defiled-augmentor-70
+3137	2/2	41883,51808,56807	Defiled Probe	defiled-probe-301
+3137	2/2	41883,51808,56807	Defiled Probe	defiled-probe-302
+3137	2/2	41883,51808,56807	Defiled Probe	defiled-probe-305
+3137	2/2	41883,51808,56807	Defiled Probe	defiled-probe-70
+3137	2/2	41884,56806	Defiled Protector	defiled-protector-301
+3137	2/2	41884,56806	Defiled Protector	defiled-protector-302
+3137	2/2	41884,56806	Defiled Protector	defiled-protector-305
+3137	2/2	41884,56806	Defiled Protector	defiled-protector-70
+3146	0/5	52576	DEMOLITION: Warbots Need Gigawatts	demolition-warbots-need-gigawatts-14
+3146	0/5	44877,47613,52579	Thayd Warbot Guard	thayd-warbot-guard-14
+3148	0/7	52638,52653	Mutated Carrot Sprout	mutated-carrot-sprout-14
+3148	0/7	52636,52652	Mutated Celery Sprout	mutated-celery-sprout-14
+3148	0/7	52611,52650	Mutated Radish Sprout	mutated-radish-sprout-14
+3148	0/7	52677	SWAT: Hard to Swallow	swat-hard-to-swallow-14
+3156	2/14	30911,52803,53027,63765	Sparking Wire	sparking-wire-16
+3156	2/14	30911,52803,53027,63765	Sparking Wire	sparking-wire-398
+3157	0/7	62868	Enraged Squallstepper	enraged-squallstepper-71
+3157	0/7	53068,53070	SWAT: Ruffle Some Feathers	swat-ruffle-some-feathers-71
+3157	0/7	52486	Warped Squallstepper	warped-squallstepper-71
+3157	0/7		Warped Vulcarrion	warped-vulcarrion-71
+3157	0/7		Warped Windslicer	warped-windslicer-71
+3158	2/20	53100,60086	Keeper of Air	keeper-of-air-71
+3158	2/20	53098,60089	Keeper of Earth	keeper-of-earth-71
+3158	2/20	53092,60083	Keeper of Fire	keeper-of-fire-71
+3158	2/20	53101,60085	Keeper of Life	keeper-of-life-71
+3158	2/20	53097,60090	Keeper of Water	keeper-of-water-71
+3159	2/2	53082	Osiric Totem	osiric-totem-16
+3160	0/6	53204	Barilla	barilla-71
+3160	0/6	53095,53096	RESCUE OP: Splorg's Best Friend	rescue-op-splorgs-best-friend-71
+3161	0/6	53204	Barilla	barilla-71
+3161	0/6	53095,53096	RESCUE OP: Splorg's Best Friend	rescue-op-splorgs-best-friend-71
+3162	3/17	53122	Ikthian Data Panel	ikthian-data-panel-339
+3162	3/17	53122	Ikthian Data Panel	ikthian-data-panel-7
+3165	3/13	53158	Ancient Thayd Artifact	ancient-thayd-artifact-14
+3165	3/13	53174	Explorer Jogaz	explorer-jogaz-14
+3166	0/4	53145,53176	ASSASSINATION: Fluffy	assassination-fluffy-262
+3166	0/4	53145,53176	ASSASSINATION: Fluffy	assassination-fluffy-71
+3166	0/4	33552,53132,68213	Fluffy	fluffy-262
+3166	0/4	33552,53132,68213	Fluffy	fluffy-71
+3167	0/4	53185,53186	ASSASSINATION: Troublemaker	assassination-troublemaker-71
+3167	0/4	53175,53643	Troublemaker	troublemaker-71
+3168	2/23		Frostburn Gronyx	frostburn-gronyx-267
+3168	2/23		Frostburn Gronyx	frostburn-gronyx-71
+3168	2/23	51966	Galeforce Gribbon	galeforce-gribbon-265
+3168	2/23	51966	Galeforce Gribbon	galeforce-gribbon-71
+3168	2/23		Lavaflow Magma	lavaflow-magma-266
+3168	2/23		Lavaflow Magma	lavaflow-magma-71
+3168	2/23	48059,49180,51974	Primal Blaze	primal-blaze-266
+3168	2/23	48059,49180,51974	Primal Blaze	primal-blaze-71
+3168	2/23	51978,52303,73065	Primal Byte	primal-byte-264
+3168	2/23	51978,52303,73065	Primal Byte	primal-byte-71
+3168	2/23	48086,51976	Primal Geode	primal-geode-268
+3168	2/23	48086,51976	Primal Geode	primal-geode-71
+3168	2/23	51979,52304	Primal Spirit	primal-spirit-269
+3168	2/23	51979,52304	Primal Spirit	primal-spirit-71
+3168	2/23	48071,51975	Primal Torrent	primal-torrent-267
+3168	2/23	48071,51975	Primal Torrent	primal-torrent-71
+3168	2/23	48118,51977	Primal Vortex	primal-vortex-265
+3168	2/23	48118,51977	Primal Vortex	primal-vortex-71
+3168	2/23	51971	Recompiled Skeledroid	recompiled-skeledroid-264
+3168	2/23	51971	Recompiled Skeledroid	recompiled-skeledroid-71
+3168	2/23	51965	Rockslide Boulderback	rockslide-boulderback-268
+3168	2/23	51965	Rockslide Boulderback	rockslide-boulderback-71
+3168	2/23	51969	Spiritbound Rootbrute	spiritbound-rootbrute-269
+3168	2/23	51969	Spiritbound Rootbrute	spiritbound-rootbrute-71
+3169	3/13	53211	Explorer Ambrose Bonsall	explorer-ambrose-bonsall-71
+3170	0/4	53197	ASSASSINATION: Removing a Cartographer	assassination-removing-a-cartographer-17
+3170	0/4	53194	Field Commander Telnetia	field-commander-telnetia-17
+3172	0/5	53241	DEMOLITION: Staving Off Disaster	demolition-staving-off-disaster-17
+3172	0/5	53242	Surveillance Emitter	surveillance-emitter-17
+3174	0/4	53292	ASSASSINATION: Overlooking the Digsite	assassination-overlooking-the-digsite-17
+3174	0/4	53293	Bot Saboteur	bot-saboteur-17
+3176	2/14	53334	Globellum Excreter	globellum-excreter-71
+3177	0/0	53374,54585	HOLDOUT: Terrible Tremors	holdout-terrible-tremors-71
+3178	2/14	53406,53417,56226	Exanite Eruption	exanite-eruption-258
+3178	2/14	53406,53417,56226	Exanite Eruption	exanite-eruption-71
+3180	3/17	13474,13475,13476,13477,13834,13835,35790,53484,53504,53505,53506,58666,58667,58668,58669,58670,58671,58672,58673,69008,69009,69010,69011	Dead Explorer	dead-explorer-17
+3181	0/7	18901,21975	Crimson Spiderbot	crimson-spiderbot-16
+3181	0/7	53559	SWAT: EMP-athizing with Spiderbots	swat-emp-athizing-with-spiderbots-16
+3183	0/4	53578	ASSASSINATION: Reducing a Purveyor	assassination-reducing-a-purveyor-16
+3183	0/4	53577	Darkspur Purveyor	darkspur-purveyor-16
+3184	2/2	54358,54359	Hoogle Statue	hoogle-statue-14
+3186	0/4	53603	ASSASSINATION: Dead in their Tracks	assassination-dead-in-their-tracks-16
+3186	0/4	53605	Vishal Slaver Scout	vishal-slaver-scout-16
+3187	0/7	53623	SWAT: Serum for the Soul	swat-serum-for-the-soul-16
+3187	0/7	22394,22395,22396,22398,22399,22400,58893,58894,58896,58897,58898	Soulrot Slave	soulrot-slave-16
+3188	2/23	38092	Blighted Mauler	blighted-mauler-53
+3188	2/23	46411	Cinderskin Crawler	cinderskin-crawler-53
+3188	2/23	37963,38297	Cinderskin Slitherer	cinderskin-slitherer-53
+3188	2/23	38056,38057,38058,56801,58879,68350	Creeping Eyestalk	creeping-eyestalk-53
+3188	2/23	38054,58674	Creeping Spawner	creeping-spawner-53
+3188	2/23	62183	Enraged Mauler	enraged-mauler-53
+3188	2/23	46576	Eyeblight Corruptor	eyeblight-corruptor-53
+3188	2/23	37962,38295	Rancid Peep	rancid-peep-53
+3188	2/23	48145	Rotwind Creeper	rotwind-creeper-53
+3188	2/23	48144	Rotwind Skitter	rotwind-skitter-53
+3188	2/23	38079	Spineridge Agent	spineridge-agent-53
+3188	2/23	38083	Spineridge Operative	spineridge-operative-53
+3188	2/23	38082	Spineridge Watcher	spineridge-watcher-53
+3188	2/23	37969,53164	Strain Mauler	strain-mauler-53
+3188	2/23	53103	Strainblade	strainblade-53
+3188	2/23	49642	The Lobotomizer	the-lobotomizer-53
+3188	2/23	48147	Vilelimb Agitator	vilelimb-agitator-53
+3188	2/23	48146	Vilelimb Crawler	vilelimb-crawler-53
+3188	2/23	48148	Warptooth Corruptor	warptooth-corruptor-53
+3188	2/23	49387	Warptooth Defiler	warptooth-defiler-53
+3198	2/23	38092	Blighted Mauler	blighted-mauler-53
+3198	2/23	46411	Cinderskin Crawler	cinderskin-crawler-53
+3198	2/23	37963,38297	Cinderskin Slitherer	cinderskin-slitherer-53
+3198	2/23	38056,38057,38058,56801,58879,68350	Creeping Eyestalk	creeping-eyestalk-53
+3198	2/23	38054,58674	Creeping Spawner	creeping-spawner-275
+3198	2/23	38054,58674	Creeping Spawner	creeping-spawner-53
+3198	2/23	62183	Enraged Mauler	enraged-mauler-53
+3198	2/23	37962,38295	Rancid Peep	rancid-peep-53
+3198	2/23	48145	Rotwind Creeper	rotwind-creeper-53
+3198	2/23	48144	Rotwind Skitter	rotwind-skitter-53
+3198	2/23	38079	Spineridge Agent	spineridge-agent-53
+3198	2/23	38083	Spineridge Operative	spineridge-operative-53
+3198	2/23	38082	Spineridge Watcher	spineridge-watcher-53
+3198	2/23	37969,53164	Strain Mauler	strain-mauler-53
+3198	2/23	53103	Strainblade	strainblade-53
+3198	2/23	49642	The Lobotomizer	the-lobotomizer-53
+3198	2/23	48147	Vilelimb Agitator	vilelimb-agitator-53
+3198	2/23	48146	Vilelimb Crawler	vilelimb-crawler-53
+3198	2/23	48148	Warptooth Corruptor	warptooth-corruptor-53
+3198	2/23	49387	Warptooth Defiler	warptooth-defiler-53
+3205	3/17	39876,53771	Stealthed Base Station	stealthed-base-station-16
+3209	3/13	61375	Chua Stink Bomb	chua-stink-bomb-78
+3209	3/13	61378,61386	Explosive Splorg	explosive-splorg-78
+3209	3/13	53889	Guard Gavrus	guard-gavrus-78
+3218	2/14	54492	Broken Door Controls	broken-door-controls-291
+3218	2/14	54492	Broken Door Controls	broken-door-controls-70
+3218	2/14	54491	Cargo Log Terminal	cargo-log-terminal-70
+3218	2/14	14130,26257,27093,30843,30897,31180,32856,33092,33390,33722,34737,35703,35706,35707,35708,35709,35710,42218,46620,46954,50266,50796,52309,52310,52311,54495,56451,58733,58768,61725,63238,63395,63422	Eldan Artifact	eldan-artifact-70
+3218	2/14	54494	Giant Cryo Pod	giant-cryo-pod-291
+3218	2/14	54494	Giant Cryo Pod	giant-cryo-pod-70
+3218	2/14	54497	Medic Scanner	medic-scanner-70
+3224	0/0	53374,54585	HOLDOUT: Terrible Tremors	holdout-terrible-tremors-71
+3225	2/14	54492	Broken Door Controls	broken-door-controls-292
+3225	2/14	54492	Broken Door Controls	broken-door-controls-70
+3225	2/14	54491	Cargo Log Terminal	cargo-log-terminal-292
+3225	2/14	54491	Cargo Log Terminal	cargo-log-terminal-70
+3225	2/14	14130,26257,27093,30843,30897,31180,32856,33092,33390,33722,34737,35703,35706,35707,35708,35709,35710,42218,46620,46954,50266,50796,52309,52310,52311,54495,56451,58733,58768,61725,63238,63395,63422	Eldan Artifact	eldan-artifact-70
+3225	2/14	54494	Giant Cryo Pod	giant-cryo-pod-292
+3225	2/14	54494	Giant Cryo Pod	giant-cryo-pod-70
+3225	2/14	54497	Medic Scanner	medic-scanner-292
+3225	2/14	54497	Medic Scanner	medic-scanner-70
+3227	2/14	53406,53417,56226	Exanite Eruption	exanite-eruption-255
+3227	2/14	53406,53417,56226	Exanite Eruption	exanite-eruption-71
+3234	3/13	23147,56435	Explorer Avicta Agarius	explorer-avicta-agarius-71
+3241	0/0	56532,56533	HOLDOUT: Opposing Sides	holdout-opposing-sides-155
+3242	2/14	56558	Resonator Tower Controller	resonator-tower-controller-155
+3243	0/0	56532,56533	HOLDOUT: Opposing Sides	holdout-opposing-sides-155
+3245	0/5	56610,56611	DEMOLITION: Strained Eggs	demolition-strained-eggs-155
+3245	0/5		Spider Egg Spawner	spider-egg-spawner-155
+3245	0/5	53644,56613	Strain Spawner	strain-spawner-155
+3247	2/23	56645	Greater Primal Air	greater-primal-air-155
+3247	2/23	56644	Greater Primal Earth	greater-primal-earth-155
+3247	2/23	56646	Greater Primal Fire	greater-primal-fire-155
+3247	2/23	56648	Greater Primal Life	greater-primal-life-155
+3247	2/23	56649	Greater Primal Logic	greater-primal-logic-155
+3247	2/23	56647	Greater Primal Water	greater-primal-water-155
+3249	0/4	56661,56662	ASSASSINATION: The Dreadwatcher	assassination-the-dreadwatcher-155
+3249	0/4	55019,57141	Dreadwatcher	dreadwatcher-155
+3250	0/4	56661,56662	ASSASSINATION: The Dreadwatcher	assassination-the-dreadwatcher-155
+3250	0/4	55019,57141	Dreadwatcher	dreadwatcher-155
+3253	0/0	56692,56693	Holdout: Belly of the Beast	holdout-belly-of-the-beast-281
+3254	2/14	53645,56694	Strain Heart	strain-heart-281
+3254	2/14	56705	Strain Maw	strain-maw-155
+3256	0/7	56749,56750	SWAT: Stimulus Pack-Age!	swat-stimulus-pack-age-155
+3269	2/14	56777	Telepathy Communicator	telepathy-communicator-155
+3269	2/14	18409,18410,18411,23479,23577,23579,23584,23585,23593,23797,23819,23820,23821,26054,26056,26058,26059,26060,26071,26203,26204,26205,32378,34722,36157,36583,36877,36897,37208,37916,37917,38401,38864,41405,41624,42032,42064,42065,42651,42652,42697,42811,45786,45787,45788,45789,46865,47396,47398,47412,49980,50088,50939,51749,51764,53309,53404,53428,53455,54464,54739,56122,56276,56685,56959,57123,58330,58369,58486,58662,58989,59025,59028,59328,59930,60213,62399,62400,62404,62418,63138,63232,63399,63404,64889,65633,66153,66168,66228,66229,66236,68069,68077,70185,70218,70245,70269,70553,70779,71225,72225,73330,75757	The Caretaker	the-caretaker-155
+3269	2/14	63237	Web-Encased Object	web-encased-object-155

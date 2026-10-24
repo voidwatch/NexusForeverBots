@@ -1,0 +1,83 @@
+[
+ {
+  "boss": "Alpha Cassus",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Solar Flare",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Catastrophic Solar Event",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "guess"
+ },
+ {
+  "boss": "Aldinari",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Cassus",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Vulpes Nix",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ }
+]

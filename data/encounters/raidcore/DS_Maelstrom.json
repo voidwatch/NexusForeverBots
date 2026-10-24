@@ -1,0 +1,44 @@
+[
+ {
+  "boss": "Maelstrom Authority",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Activate Weather Cycle",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Ice Breath",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Crystallize",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Typhoon",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "certain"
+ }
+]

@@ -1,0 +1,354 @@
+# remaining gt questcheck gaps (scripts/research/gapreport.py); kind, quest, title, creature/objective, reason
+giver-not-spawned	10484	Snowbound Survivors	creature 73041 Survivor Elby	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	3730	shafner Quest9 Egg Collection	creature 12767 Test Breadcrumb NPC	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	3731	shafner Quest10 Girrok Kill	creature 12767 Test Breadcrumb NPC	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	4198	Equipped Item Removal	creature 14818 Test Quest Giver	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	4578	Population Information	creature 16745 Teague Riverstone	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	4581	Trapped on the Farm	creature 16772 Farmer Nedal	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	4582	Burning Fields	creature 16773 Farmer Anson	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	4605	Bait and Switch	creature 16772 Farmer Nedal	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	4638	Out Of The Pan...	creature 17044 	placeholder NPC without name
+giver-not-spawned	4647	Gone Missing	creature 17035 	placeholder NPC without name
+giver-not-spawned	6050	Gone Fishing	creature 26948 Fisherman Conway	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6558	Torine Battlecall	creature 29929 Torine Battlecall	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6847	Help is needed in Deradune 1!	creature 32363 Deradune Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6848	Help is needed in Deradune 2!	creature 32366 Deradune Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6849	Help is needed in Deradune 3!	creature 32367 Deradune Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6850	Help is needed in Auroria 1!	creature 32371 Auroria Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6851	Help is needed in Auroria 2!	creature 32372 Auroria Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6852	Help is needed in Auroria 3!	creature 32374 Auroria Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6853	Help is needed in Auroria 4!	creature 32375 Auroria Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6861	Help is needed in Ellevar 1!	creature 32457 Ellevar Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6862	Help is needed in Ellevar 2!	creature 32458 Ellevar Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6863	Help is needed in Ellevar 3!	creature 32459 Ellevar Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6864	Help is needed in Whitevale 1!	creature 32460 Whitevale Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6865	Help is needed in Whitevale 2!	creature 32461 Whitevale Captain	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6866	Help is needed in Whitevale 3!	creature 32462 Shinykeeper Whitevale	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6867	Help is needed in Whitevale 4!	creature 32463 Requisition Officer	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6868	Help is needed in Algoroc 1!	creature 32464 Algoroc I	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6869	Help is needed in Algoroc 2!	creature 32465 Algoroc II	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6870	Help is needed in Algoroc 3!	creature 32466 Algoroc III	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6871	Help is needed in Celestion 1!	creature 32467 Celestion I	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6872	Help is needed in Celestion 2!	creature 32468 Celestion II	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6873	Help is needed in Celestion 3!	creature 32469 Celestion III	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6874	Help is needed in Galeras 1!	creature 32470 Galeras I	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6875	Help is needed in Galeras 2!	creature 32471 Galeras II	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6876	Help is needed in Galeras 3!	creature 32472 Captain Galeras	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6877	Help is needed in Galeras 4!	creature 32473 Captain Galeras	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	6992	Rise and Shine	creature 49941 Axis Pheydra	archive page ambiguous (several same-name creatures, no zone/level match)
+giver-not-spawned	6993	Dominion Devotion	creature 32857 Emperor Myrcalus	archive page without usable zone/coordinates
+giver-not-spawned	7008	The Imperial Museum	creature 32857 Emperor Myrcalus	archive page without usable zone/coordinates
+giver-not-spawned	7010	Purity Shall Prevail	creature 32857 Emperor Myrcalus	archive page without usable zone/coordinates
+giver-not-spawned	7232	Items and Levels for Skullcano!	creature 35112 Chief Kaskalak - Skullcano Set-up	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	7581	Teach a Man to Fish...	creature 36799 Fisher Piscis	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	7728	Power Denied	creature 37897 Researcher Shanov	archive page without usable zone/coordinates
+giver-not-spawned	7730	The Skeech Code	creature 37897 Researcher Shanov	archive page without usable zone/coordinates
+giver-not-spawned	8759	Crowning Ceremony	creature 45267 Consort Yaenna	archive page ambiguous (several same-name creatures, no zone/level match)
+giver-not-spawned	8820	This Quest Has What Raiders Crave	creature 46780 Beekeeper Zeeblebop - Raiding Protocol	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	8887	Have a Drink on Me	creature 51549 Deadeye Brightland	archive page without usable zone/coordinates
+giver-not-spawned	9516	Bobbing for Bob	creature 60237 Bob	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	9757	Many Happy Returns	creature 67510 Gift Recoverbot	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	9811	Proving Your Worth	creature 68884 Nomad First Officer	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	9818	Use the Component Machine	creature 68527 Protostar Component Vending Machine	no archived Jabbithole page (name not among 24,000 NPC pages)
+giver-not-spawned	9970	The Scattered Pyre	creature 67347 Flaming Gourd	no archived Jabbithole page (name not among 24,000 NPC pages)
+no-giver	10032	MC22 - Capture Script - Nexus Arrival - Planet		no archived quest page; no giver/receiver in the tables
+no-giver	10036	MC22 - Capture Script - Caretaker		no archived quest page; no giver/receiver in the tables
+no-giver	10054	MC22 - Capture Script - Nexus Arrival - Effects		no archived quest page; no giver/receiver in the tables
+no-giver	10081	[DAILY] The Survivalist's Handbook		no archived quest page; no giver/receiver in the tables
+no-giver	10082	[DAILY] The Survivalist's Handbook		no archived quest page; no giver/receiver in the tables
+no-giver	10091	MC22 - Capture Script - Nexus Arrival - Starships		no archived quest page; no giver/receiver in the tables
+no-giver	10110	Expedition: Prime Evil from the Ether!		no archived quest page; no giver/receiver in the tables
+no-giver	10111	Expedition: Prime Evil from the Ether!		no archived quest page; no giver/receiver in the tables
+no-giver	10118	Race Quest 4		no archived quest page; no giver/receiver in the tables
+no-giver	10151	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10157	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10177	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10187	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10197	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10207	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10225	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10235	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10245	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10255	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10265	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10275	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-giver	10289	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-giver	10302	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-giver	10312	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-giver	10322	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-giver	10332	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-giver	10344	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-giver	10354	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-giver	10364	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-giver	10374	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-giver	10384	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-giver	10394	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-giver	10404	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-giver	10513	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-giver	10518	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-giver	10521	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-giver	10524	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-giver	10527	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-giver	10529	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-giver	10532	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-giver	10533	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-giver	2520	Take Me Away!		no archived quest page; no giver/receiver in the tables
+no-giver	2970	A Solemn Duty		no archived quest page; no giver/receiver in the tables
+no-giver	3121	Soldier Background		no archived quest page; no giver/receiver in the tables
+no-giver	3123	Scientist Background		no archived quest page; no giver/receiver in the tables
+no-giver	3124	Explorer Background		no archived quest page; no giver/receiver in the tables
+no-giver	3125	Settler Background		no archived quest page; no giver/receiver in the tables
+no-giver	3131	Coordinated Assault		no archived quest page; no giver/receiver in the tables
+no-giver	3133	Breach the Gate		no archived quest page; no giver/receiver in the tables
+no-giver	3134	Gang Leaders		no archived quest page; no giver/receiver in the tables
+no-giver	3135	Finish the Crowe		no archived quest page; no giver/receiver in the tables
+no-giver	3136	Coordinated Assault		no archived quest page; no giver/receiver in the tables
+no-giver	3137	[GROUP] Covert Ops		no archived quest page; no giver/receiver in the tables
+no-giver	3138	[GROUP] Raining Fire		no archived quest page; no giver/receiver in the tables
+no-giver	3139	[GROUP] Gang Leaders		no archived quest page; no giver/receiver in the tables
+no-giver	3140	[GROUP] Finish the Crowe		no archived quest page; no giver/receiver in the tables
+no-giver	3156	Unlocking Eldan Secrets		no archived quest page; no giver/receiver in the tables
+no-giver	3514	CHALLENGE: Yeti Slayer		no archived quest page; no giver/receiver in the tables
+no-giver	4502	Osun Hunter Evictions		no archived quest page; no giver/receiver in the tables
+no-giver	5083	Reputation is Everything		no archived quest page; no giver/receiver in the tables
+no-giver	5272	Travel to Thayd		archive lists: npc:logistics-officer-17
+no-giver	5433	QTI - Multi-Quest 2		no archived quest page; no giver/receiver in the tables
+no-giver	5441	FX-29349		no archived quest page; no giver/receiver in the tables
+no-giver	5848	Relic Hunting Basics		no archived quest page; no giver/receiver in the tables
+no-giver	5872	Mining Basics		no archived quest page; no giver/receiver in the tables
+no-giver	5873	Farming Basics		no archived quest page; no giver/receiver in the tables
+no-giver	6322	Isigrol Medium		no archived quest page; no giver/receiver in the tables
+no-giver	6323	Isigrol Hard		no archived quest page; no giver/receiver in the tables
+no-giver	6353	Protostar Housing Cinematic (PH)		no archived quest page; no giver/receiver in the tables
+no-giver	6367	Graylight's Golden Rule		no archived quest page; no giver/receiver in the tables
+no-giver	6419	Green Thumb		no archived quest page; no giver/receiver in the tables
+no-giver	6566	Scrap for Finesse		no archived quest page; no giver/receiver in the tables
+no-giver	6567	Scrap for Tech		no archived quest page; no giver/receiver in the tables
+no-giver	6568	Scrap for Moxie		no archived quest page; no giver/receiver in the tables
+no-giver	6596	For Shinies and Glory [GROUP 15+]		no archived quest page; no giver/receiver in the tables
+no-giver	6676	A Failed Experiment		no archived quest page; no giver/receiver in the tables
+no-giver	6800	Expedition: Origin Unknown 		no archived quest page; no giver/receiver in the tables
+no-giver	6802	Expedition: Shade's Secret		no archived quest page; no giver/receiver in the tables
+no-giver	6803	Expedition: Shade's Secret		no archived quest page; no giver/receiver in the tables
+no-giver	6819	Making Amends		no archived quest page; no giver/receiver in the tables
+no-giver	6886	Original Survivor		no archived quest page; no giver/receiver in the tables
+no-giver	7007	Ever Vigilant		archive lists: npc:toric-antevian-184
+no-giver	7012	Advanced Combat Training		archive lists: call
+no-giver	7019	Embarkation		archive lists: npc:axis-pheydra-187
+no-giver	7058	Jagged Cove		archive lists: call
+no-giver	7059	Mondo's Beachhead		archive lists: call
+no-giver	7060	Savage Coast Savagery		archive lists: call
+no-giver	7109	Unburied Remains		no archived quest page; no giver/receiver in the tables
+no-giver	7234	Ready Your Character for the Malgrave Trail		no archived quest page; no giver/receiver in the tables
+no-giver	7543	Delayed Phase Change		no archived quest page; no giver/receiver in the tables
+no-giver	7565	MC04 - Domina Hangar 1		no archived quest page; no giver/receiver in the tables
+no-giver	7566	MC04 - Domina Hangar 2		no archived quest page; no giver/receiver in the tables
+no-giver	8141	Home on the Range		no archived quest page; no giver/receiver in the tables
+no-giver	8142	Home on the Range		no archived quest page; no giver/receiver in the tables
+no-giver	8163	Depraved and Decayed		no archived quest page; no giver/receiver in the tables
+no-giver	8186	New Addition To The Family		no archived quest page; no giver/receiver in the tables
+no-giver	8475	Level 15		no archived quest page; no giver/receiver in the tables
+no-giver	8476	Level 20		no archived quest page; no giver/receiver in the tables
+no-giver	8477	Level 30		no archived quest page; no giver/receiver in the tables
+no-giver	8478	Level 40		no archived quest page; no giver/receiver in the tables
+no-giver	8634	Ready Your Character for Crimelords of Whitevale		no archived quest page; no giver/receiver in the tables
+no-giver	8643	Lay to Rest		no archived quest page; no giver/receiver in the tables
+no-giver	8836	Sim Core: War of the Wilds		no archived quest page; no giver/receiver in the tables
+no-giver	8838	Sim Core: The Siege of Tempest Refuge		no archived quest page; no giver/receiver in the tables
+no-giver	8854	Ready Your Character for The Siege of Tempest Refuge		no archived quest page; no giver/receiver in the tables
+no-giver	8864	Explorers Union		archive lists: call
+no-giver	8865	Exile Academy of Science		no archived quest page; no giver/receiver in the tables
+no-giver	8866	The Pioneering League		archive lists: call
+no-giver	8867	Free Companies of Nexus		archive lists: call
+no-giver	8928	The Dominion Legions		archive lists: call
+no-giver	8929	The Royal Collegium		archive lists: call
+no-giver	8930	The Exploration Society		archive lists: call
+no-giver	8931	The Settlement Authority		archive lists: call
+no-giver	9032	A Captain in Need		no archived quest page; no giver/receiver in the tables
+no-giver	9033	A Captain in Need		no archived quest page; no giver/receiver in the tables
+no-giver	9051	The Emperor		archive lists: call
+no-giver	9167	Level 25		no archived quest page; no giver/receiver in the tables
+no-giver	9168	Level 35		no archived quest page; no giver/receiver in the tables
+no-giver	9169	Level 45		no archived quest page; no giver/receiver in the tables
+no-giver	9170	Touring Bloodfire Village		no archived quest page; no giver/receiver in the tables
+no-giver	9180	Endgame		no archived quest page; no giver/receiver in the tables
+no-giver	9186	Endgame		no archived quest page; no giver/receiver in the tables
+no-giver	9328	Defiant We Stand		no archived quest page; no giver/receiver in the tables
+no-giver	9330	Metal Health		no archived quest page; no giver/receiver in the tables
+no-giver	9495	IMBUEMENT TEST: Do The Stuff 2: Do Harder		archive lists: item:imbuement-test-sword-40489-2g64bl|item:test-imbuement-multiple-objectives-39323-1a1465
+no-giver	9520	QTI: Cluster Dead for Drop		no archived quest page; no giver/receiver in the tables
+no-giver	9556	Mysteries of the Eldan		archive lists: call|npc:axis-pheydra-188
+no-giver	9557	Mysteries of the Eldan		archive lists: call|npc:axis-pheydra-188
+no-giver	9697	IMBUEMENT TEST: Do The Stuff 3: The Undoing		archive lists: item:imbuement-test-sword-40489|item:test-imbuement-multiple-objectives-39323
+no-giver	9752	Jingle Sells		no archived quest page; no giver/receiver in the tables
+no-giver	9753	Jingle Sells		no archived quest page; no giver/receiver in the tables
+no-giver	9754	Limited Time Only		no archived quest page; no giver/receiver in the tables
+no-giver	9755	Limited Time Only		no archived quest page; no giver/receiver in the tables
+no-giver	9756	Many Happy Returns		no archived quest page; no giver/receiver in the tables
+no-giver	9794	Give Batteries		no archived quest page; no giver/receiver in the tables
+no-giver	9828	Use Gift Machine		no archived quest page; no giver/receiver in the tables
+no-giver	9834	Who Needs this Item?		no archived quest page; no giver/receiver in the tables
+no-giver	9932	Combat Rewards Test		no archived quest page; no giver/receiver in the tables
+no-giver	9978	Canvas Ain't Easy		no archived quest page; no giver/receiver in the tables
+no-giver	9979	Catch Me If You Canvas		no archived quest page; no giver/receiver in the tables
+no-giver	9980	Yes, We Canvas		no archived quest page; no giver/receiver in the tables
+no-receiver	10032	MC22 - Capture Script - Nexus Arrival - Planet		no archived quest page; no giver/receiver in the tables
+no-receiver	10036	MC22 - Capture Script - Caretaker		no archived quest page; no giver/receiver in the tables
+no-receiver	10054	MC22 - Capture Script - Nexus Arrival - Effects		no archived quest page; no giver/receiver in the tables
+no-receiver	10091	MC22 - Capture Script - Nexus Arrival - Starships		no archived quest page; no giver/receiver in the tables
+no-receiver	10151	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10157	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10177	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10187	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10197	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10207	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10225	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10235	Work Order: Master Complex Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10245	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10255	Work Order: Master Genetic Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10265	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10275	Work Order: Master Datascape Armor		no archived quest page; no giver/receiver in the tables
+no-receiver	10289	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-receiver	10302	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-receiver	10312	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-receiver	10322	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-receiver	10332	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-receiver	10344	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-receiver	10354	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-receiver	10364	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-receiver	10374	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-receiver	10384	Work Order: Complex Creations		no archived quest page; no giver/receiver in the tables
+no-receiver	10394	Work Order: Genetic Gear		no archived quest page; no giver/receiver in the tables
+no-receiver	10404	Work Order: Datascape Duty		no archived quest page; no giver/receiver in the tables
+no-receiver	10513	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-receiver	10518	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-receiver	10521	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-receiver	10524	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-receiver	10527	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-receiver	10529	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-receiver	10532	Navigating Nexus		no archived quest page; no giver/receiver in the tables
+no-receiver	10533	The Face of the Enemy		no archived quest page; no giver/receiver in the tables
+no-receiver	1177	Home on the Range		archive page lists nothing
+no-receiver	2970	A Solemn Duty		no archived quest page; no giver/receiver in the tables
+no-receiver	3131	Coordinated Assault		no archived quest page; no giver/receiver in the tables
+no-receiver	3133	Breach the Gate		no archived quest page; no giver/receiver in the tables
+no-receiver	3134	Gang Leaders		no archived quest page; no giver/receiver in the tables
+no-receiver	3135	Finish the Crowe		no archived quest page; no giver/receiver in the tables
+no-receiver	3136	Coordinated Assault		no archived quest page; no giver/receiver in the tables
+no-receiver	3137	[GROUP] Covert Ops		no archived quest page; no giver/receiver in the tables
+no-receiver	3138	[GROUP] Raining Fire		no archived quest page; no giver/receiver in the tables
+no-receiver	3139	[GROUP] Gang Leaders		no archived quest page; no giver/receiver in the tables
+no-receiver	3140	[GROUP] Finish the Crowe		no archived quest page; no giver/receiver in the tables
+no-receiver	3142	[Discovery Prototype] Broken Weapon		archive page lists nothing
+no-receiver	3156	Unlocking Eldan Secrets		no archived quest page; no giver/receiver in the tables
+no-receiver	3514	CHALLENGE: Yeti Slayer		no archived quest page; no giver/receiver in the tables
+no-receiver	5083	Reputation is Everything		no archived quest page; no giver/receiver in the tables
+no-receiver	5441	FX-29349		no archived quest page; no giver/receiver in the tables
+no-receiver	5466	Alvin's Item Quest		archive page lists nothing
+no-receiver	5848	Relic Hunting Basics		no archived quest page; no giver/receiver in the tables
+no-receiver	5872	Mining Basics		no archived quest page; no giver/receiver in the tables
+no-receiver	5873	Farming Basics		no archived quest page; no giver/receiver in the tables
+no-receiver	6013	Home on the Range		archive page lists nothing
+no-receiver	6217	The Titanium Special		archive lists: npc:quartermaster-hillary-2
+no-receiver	6322	Isigrol Medium		no archived quest page; no giver/receiver in the tables
+no-receiver	6323	Isigrol Hard		no archived quest page; no giver/receiver in the tables
+no-receiver	6353	Protostar Housing Cinematic (PH)		no archived quest page; no giver/receiver in the tables
+no-receiver	6367	Graylight's Golden Rule		no archived quest page; no giver/receiver in the tables
+no-receiver	6383	Titanium Protoweaving		archive page lists nothing
+no-receiver	6419	Green Thumb		no archived quest page; no giver/receiver in the tables
+no-receiver	6596	For Shinies and Glory [GROUP 15+]		no archived quest page; no giver/receiver in the tables
+no-receiver	6800	Expedition: Origin Unknown 		no archived quest page; no giver/receiver in the tables
+no-receiver	6802	Expedition: Shade's Secret		no archived quest page; no giver/receiver in the tables
+no-receiver	6803	Expedition: Shade's Secret		no archived quest page; no giver/receiver in the tables
+no-receiver	6993	Dominion Devotion		archive lists: npc:mondo-zax-184
+no-receiver	7010	Purity Shall Prevail		archive lists: npc:toric-antevian-184
+no-receiver	7012	Advanced Combat Training		archive lists: npc:kezrek-warbringer-186
+no-receiver	7019	Embarkation		archive lists: npc:axis-pheydra-188
+no-receiver	7109	Unburied Remains		no archived quest page; no giver/receiver in the tables
+no-receiver	7236	Proud Titanium		archive page lists nothing
+no-receiver	7237	A Titanic Sheet		archive page lists nothing
+no-receiver	7238	Titanium of War		archive page lists nothing
+no-receiver	7270	In Titanium We Trust		archive page lists nothing
+no-receiver	7543	Delayed Phase Change		no archived quest page; no giver/receiver in the tables
+no-receiver	7565	MC04 - Domina Hangar 1		no archived quest page; no giver/receiver in the tables
+no-receiver	7566	MC04 - Domina Hangar 2		no archived quest page; no giver/receiver in the tables
+no-receiver	8836	Sim Core: War of the Wilds		no archived quest page; no giver/receiver in the tables
+no-receiver	8838	Sim Core: The Siege of Tempest Refuge		no archived quest page; no giver/receiver in the tables
+no-receiver	9012	Sim Core: Crimelords of Whitevale		no archived quest page; no giver/receiver in the tables
+no-receiver	9051	The Emperor		archive lists: npc:axis-pheydra-187
+no-receiver	9170	Touring Bloodfire Village		no archived quest page; no giver/receiver in the tables
+no-receiver	9180	Endgame		no archived quest page; no giver/receiver in the tables
+no-receiver	9186	Endgame		no archived quest page; no giver/receiver in the tables
+no-receiver	9328	Defiant We Stand		no archived quest page; no giver/receiver in the tables
+no-receiver	9330	Metal Health		no archived quest page; no giver/receiver in the tables
+no-receiver	9495	IMBUEMENT TEST: Do The Stuff 2: Do Harder		archive page lists nothing
+no-receiver	9520	QTI: Cluster Dead for Drop		no archived quest page; no giver/receiver in the tables
+no-receiver	9697	IMBUEMENT TEST: Do The Stuff 3: The Undoing		archive page lists nothing
+no-receiver	9752	Jingle Sells		no archived quest page; no giver/receiver in the tables
+no-receiver	9753	Jingle Sells		no archived quest page; no giver/receiver in the tables
+no-receiver	9754	Limited Time Only		no archived quest page; no giver/receiver in the tables
+no-receiver	9755	Limited Time Only		no archived quest page; no giver/receiver in the tables
+no-receiver	9756	Many Happy Returns		no archived quest page; no giver/receiver in the tables
+no-receiver	9834	Who Needs this Item?		no archived quest page; no giver/receiver in the tables
+no-receiver	9932	Combat Rewards Test		no archived quest page; no giver/receiver in the tables
+objective-not-spawned	10094	Dungeon: Prime Protogames Academy	objective 19309 KillCreature data 71226 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10095	Dungeon: Prime Protogames Academy	objective 19310 KillCreature data 71226 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10435	The Iceblood Barrow	objective 21121 SucceedCSI data 72485 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10435	The Iceblood Barrow	objective 21175 VirtualCollect data 1215 (2 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10435	The Iceblood Barrow	objective 21179 SucceedCSI data 72817 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10435	The Iceblood Barrow	objective 21181 SucceedCSI data 72825 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10442	The Iceblood Barrow	objective 21129 SucceedCSI data 72485 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10442	The Iceblood Barrow	objective 21176 VirtualCollect data 1215 (2 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10442	The Iceblood Barrow	objective 21184 SucceedCSI data 72825 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10442	The Iceblood Barrow	objective 21185 SucceedCSI data 72817 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10459	Commercial Caroling	objective 21151 ActivateTargetGroupChecklist data 14236 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10460	Commercial Caroling	objective 21152 ActivateTargetGroupChecklist data 14236 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10466	Strained Effort	objective 21171 SucceedCSI data 72635 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10468	Blame the Controller	objective 21173 SucceedCSI data 72636 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10484	Snowbound Survivors	objective 21194 VirtualCollect data 1218 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10530	Bon Voyage	objective 21351 ActivateTargetGroupChecklist data 14386 (8 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10588	Walk Like a Pirate Day	objective 21451 TalkTo data 75389 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	10593	Walk Like a Pirate Day	objective 21466 TalkTo data 75389 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	4578	Population Information	objective 6291 TalkTo data 16772 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	4578	Population Information	objective 6293 TalkTo data 16773 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	4578	Population Information	objective 6294 TalkTo data 16774 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	4638	Out Of The Pan...	objective 6362 ActivateEntity data 17061 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	5118	The Cries of the Forest	objective 7341 ActivateTargetGroupChecklist data 5967 (5 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	6881	An Eerie Eldan Glow	objective 12614 KillCreature data 32986 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	8354	Shades of the Entity	objective 14907 VirtualCollect data 572 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	8354	Shades of the Entity	objective 14908 VirtualCollect data 573 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	8354	Shades of the Entity	objective 14909 VirtualCollect data 574 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	8778	Buried Shinies	objective 15735 KillCreature data 45662 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9204	The Gauntlet Project	objective 17831 ActivateEntity data 9296 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9360	Emancipation	objective 17850 KillCreature data 32539 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9362	Tempest Breaker	objective 17852 KillCreature data 32703 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9365	Corrupted Cleaver	objective 17855 KillTargetGroups data 3209 (2 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9366	Moonslayer	objective 17856 KillCreature data 28728 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9379	The Blood of My Enemies	objective 17882 ActivateEntity data 4867 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9501	The Arkship Heist	objective 18144 SucceedCSI data 59720 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9502	The Arkship Heist	objective 18145 SucceedCSI data 59720 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9703	Temporal Trinkets	objective 18620 ActivateTargetGroupChecklist data 12652 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9703	Temporal Trinkets	objective 18973 VirtualCollect data 1195 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9732	Trick or Treat	objective 18639 ActivateTargetGroupChecklist data 11100 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9772	Trick or Treat	objective 18729 ActivateTargetGroupChecklist data 11100 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+objective-not-spawned	9801	They're Gonna Need a Bigger Boat 	objective 18807 KillCreature data 68544 (1 creatures, none spawned)	objective target(s) without archive page or usable indicator
+receiver-not-spawned	10484	Snowbound Survivors	creature 73041 Survivor Elby	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	3730	shafner Quest9 Egg Collection	creature 12767 Test Breadcrumb NPC	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	3731	shafner Quest10 Girrok Kill	creature 12767 Test Breadcrumb NPC	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	4198	Equipped Item Removal	creature 14818 Test Quest Giver	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	4578	Population Information	creature 16745 Teague Riverstone	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	4581	Trapped on the Farm	creature 16772 Farmer Nedal	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	4582	Burning Fields	creature 16773 Farmer Anson	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	4605	Bait and Switch	creature 16772 Farmer Nedal	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	4638	Out Of The Pan...	creature 17044 	placeholder NPC without name; no turn-in location in Quest2
+receiver-not-spawned	4647	Gone Missing	creature 17036 	placeholder NPC without name; no turn-in location in Quest2
+receiver-not-spawned	6050	Gone Fishing	creature 26948 Fisherman Conway	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	7007	Ever Vigilant	creature 32857 Emperor Myrcalus	archive page without usable zone/coordinates; no turn-in location in Quest2
+receiver-not-spawned	7115	Landscaping the Sky	creature 34319 Protostar Housing Specialist	archive page without usable zone/coordinates; no turn-in location in Quest2
+receiver-not-spawned	7581	Teach a Man to Fish...	creature 36799 Fisher Piscis	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	8811	The Squirg and I	creature 46670 Odd Squirg{p:Odd Squirg}	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	8817	The Squirg and I	creature 46670 Odd Squirg{p:Odd Squirg}	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	9191	An Eight-Legged Heel-Turn	creature 56098 Corrigan Doon	archive page ambiguous (several same-name creatures, no zone/level match); no turn-in location in Quest2
+receiver-not-spawned	9516	Bobbing for Bob	creature 60237 Bob	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	9757	Many Happy Returns	creature 67510 Gift Recoverbot	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2
+receiver-not-spawned	9811	Proving Your Worth	creature 68884 Nomad First Officer	no archived Jabbithole page (name not among 24,000 NPC pages); no turn-in location in Quest2

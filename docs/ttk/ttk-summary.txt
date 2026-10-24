@@ -1,0 +1,20 @@
+families 232 (boss ranks 97, elite ranks 135), encounter bosses matched 60 of 59 names; bot stats levels [1, 5, 11]..[37, 48, 50]
+player L10 geared: ehp 10655 AR 1480 mit 0.720 dps 244/333/347; bots(5) ehp 6564 AR 563 mit 0.271 dps 241
+player L15 geared: ehp 19775 AR 2311 mit 0.728 dps 372/537/548; bots(5) ehp 12124 AR 803 mit 0.326 dps 371
+player L25 geared: ehp 40254 AR 4045 mit 0.672 dps 1135/1458/2105; bots(4) ehp 28562 AR 1550 mit 0.377 dps 1004
+player L35 geared: ehp 59387 AR 5817 mit 0.592 dps 1612/2073/2987; bots(7) ehp 43291 AR 2411 mit 0.369 dps 1451
+player L50 geared: ehp 104912 AR 8914 mit 0.506 dps 2395/3443/4420; bots(4) ehp 110867 AR 8316 mit 0.520 dps 3389
+family flags: solo kill <30s (server, spender costs not charged) 2, kills player <5s 5
+boss flags: unspawned 17, kills player <5s 13
+  boss 54629 Kuralak the Defiler L50 Raid Prime (20 Man): solo 5719/7341/10556s, player lasts 34.5s, burst5 54639/104912 unspawned
+  boss 24740 Metal Maw L50 Raid Prime (20 Man): solo 6462/8294/11926s, player lasts 8.1s, burst5 128735/104912 kills player <5s
+  boss 26190 Metal Maw Prime L50 Raid Prime (20 Man): solo 6462/8294/11926s, player lasts 7.3s, burst5 106454/104912 kills player <5s
+  boss 49198 Experiment X-89 L50 Raid Prime (20 Man): solo 7370/9459/13603s, player lasts 11.0s, burst5 108619/104912 kills player <5s; unspawned
+  boss 52970 Golgox the Lifecrusher L50 Raid Prime (20 Man): solo 7370/9459/13603s, player lasts 5.0s, burst5 438155/104912 kills player <5s
+  boss 49395 Dreadphage Ohmna L50 Raid Prime (20 Man): solo 7838/10059/14466s, player lasts 10.5s, burst5 119864/104912 kills player <5s
+  boss 50472 Prime Evolutionary Opera L50 Raid Prime (20 Man): solo 7838/10059/14466s, player lasts 11.3s, burst5 174143/104912 kills player <5s
+  boss 30495 Null System Daemon L50 Raid Prime (20 Man): solo 8805/11300/16250s, player lasts 8.9s, burst5 194720/104912 kills player <5s
+  boss 30496 Binary System Daemon L50 Raid Prime (20 Man): solo 8805/11300/16250s, player lasts 8.9s, burst5 194720/104912 kills player <5s
+  boss 30499 Megalith L50 Raid Prime (20 Man): solo 9306/11944/17175s, player lasts 6.8s, burst5 147139/104912 kills player <5s
+  boss 30500 Hydroflux L50 Raid Prime (20 Man): solo 9306/11944/17175s, player lasts 11.5s, burst5 200865/104912 kills player <5s
+  boss 30502 Aileron L50 Raid Prime (20 Man): solo 9306/11944/17175s, player lasts 9.7s, burst5 108497/104912 kills player <5s

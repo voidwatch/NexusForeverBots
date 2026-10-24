@@ -1,0 +1,88 @@
+[
+ {
+  "boss": "Dreadphage Ohmna",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Erupt",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Genetic Torrent",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 52,
+    "abilities": [
+     {
+      "spell": "Erupt",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Genetic Torrent",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 3",
+    "health": 20,
+    "abilities": [
+     {
+      "spell": "Erupt",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Genetic Torrent",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 4",
+    "health": 17,
+    "abilities": [
+     {
+      "spell": "Erupt",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Genetic Torrent",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Genetic Torrent every": "every: raidcore -, drusera [84.0], lui - -> single source"
+  },
+  "names": "certain"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "boss": "Megalith",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Raw Power",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Fierce Swipe",
+      "first": 14,
+      "every": 16.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Fierce Swipe every": "every: raidcore [16.5], drusera -, lui [16.5] -> single source",
+   "Fierce Swipe first": "first: raidcore [16.0], drusera -, lui [16.0] -> single source"
+  },
+  "names": "certain"
+ },
+ {
+  "boss": "Aileron",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Supercell",
+      "first": 8,
+      "every": 65.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Supercell every": "every: raidcore [80.0], drusera -, lui [80.0] -> single source",
+   "Supercell first": "first: raidcore [65.0], drusera -, lui [65.0] -> single source"
+  },
+  "names": "certain"
+ }
+]

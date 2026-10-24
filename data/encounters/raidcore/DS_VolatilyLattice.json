@@ -1,0 +1,26 @@
+[
+ {
+  "boss": "Avatus",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Null and Void",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "certain"
+ }
+]

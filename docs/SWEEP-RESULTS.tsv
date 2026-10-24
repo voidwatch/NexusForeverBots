@@ -1,0 +1,979 @@
+run	quest	outcome	via	bot	level	seconds	normal_verdict	objectives	detail	credit	heuristic
+r2	2531	completed	prereq-bypass	Ithbel	5	10	prereq-quests			synthetic 0:20,synthetic 1:20,synthetic 2:20,synthetic 3:20,synthetic 4:20,synthetic 5:20	
+r1	2599	completed	chain	Dovzul	15	123	already-in-log-or-done				
+r2	2639	completed	prereq-bypass	Caelyth	38	111	prereq-quests				
+r3	2775	completed	root	Aerara	41	10	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5	
+r2	2801	completed	prereq-bypass	Morzen	37	6	prereq-quests				
+r3	2865	completed	root	Pelwen	42	11	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5	
+r2	2875	completed	prereq-bypass	Ithbel	43	11	prereq-quests			synthetic 0:4	
+r2	2877	completed	prereq-bypass	Morzen	43	10	prereq-quests			synthetic 0:4	
+r3	2965	completed	root	Fenion	18	11	prereq-quests			synthetic 0:5	
+r3	3001	completed	root	Morwyn	34	12	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5,synthetic 3:5	
+r2	3037	completed	prereq-bypass	Morwyn	38	12	prereq-quests			synthetic 0:4	
+r1	3160	completed	chain	Ulmwyn	8	93	already-in-log-or-done			synthetic 4:5,synthetic 5:5	
+r1	3162	completed	chain	Ulmwyn	8	10	already-in-log-or-done				
+r1	3163	completed	chain	Ulmwyn	8	27	already-in-log-or-done				
+r3	3166	completed	root	Morwyn	8	86	candidate				
+r1	3167	completed	root	Ulmwyn	6	289	already-in-log-or-done				
+r1	3170	completed	chain	Ulmwyn	6	116	already-in-log-or-done			synthetic 4:5	
+r2	3183	completed	prereq-bypass	Ithbel	10	10	prereq-quests			synthetic 0:4	
+r2	3188	completed	prereq-bypass	Morzen	10	12	prereq-quests			synthetic 0:5	
+r3	3222	completed	root	Morzen	10	11	prereq-quests			synthetic 0:5,synthetic 1:5	
+r3	3225	completed	root	Zaryth	10	11	prereq-quests			synthetic 0:5	
+r3	3226	completed	root	Faellyn	10	11	prereq-quests			synthetic 0:5	
+r3	3230	completed	root	Quinion	10	11	prereq-quests			synthetic 0:5	
+r2	3242	completed	prereq-bypass	Ithbel	10	15	prereq-quests			synthetic 0:5	
+r2	3247	completed	prereq-bypass	Morzen	10	11	prereq-quests			synthetic 0:5	
+r2	3249	completed	prereq-bypass	Ithbel	10	11	prereq-quests			synthetic 0:4,synthetic 1:4	
+r2	3250	completed	prereq-bypass	Morzen	10	11	prereq-quests			synthetic 0:4,synthetic 1:4	
+r3	3251	completed	root	Faelvek97	10	11	prereq-quests			synthetic 0:5,synthetic 1:4	
+r2	3252	completed	prereq-bypass	Morzen	10	11	prereq-quests			synthetic 0:4,synthetic 1:5	
+r3	3253	completed	root	Dovor	10	10	prereq-quests			synthetic 0:5	
+r2	3265	completed	prereq-bypass	Ithbel	10	15	prereq-quests			synthetic 0:5	
+r3	3266	completed	root	Orlsha	10	11	prereq-quests			synthetic 0:5	
+r2	3269	completed	prereq-bypass	Morzen	10	11	prereq-quests			synthetic 0:4	
+r2	3270	completed	prereq-bypass	Caelyth	10	12	prereq-quests			synthetic 0:5	
+r2	3292	completed	prereq-bypass	Morzen	10	11	prereq-quests			synthetic 0:4	
+r2	3293	completed	prereq-bypass	Ithbel	10	10	prereq-quests			synthetic 0:4	
+r2	3294	completed	prereq-bypass	Caelyth	10	11	prereq-quests			synthetic 0:4	
+r2	3300	completed	prereq-bypass	Sylwen	6	5	prereq-quests				
+r2	3301	completed	prereq-bypass	Moran	6	6	prereq-quests				
+r1	3316	completed	chain	Ulmwyn	7	5	already-in-log-or-done				
+r2	3319	completed	prereq-bypass	Ithbel	10	10	prereq-quests			synthetic 0:5	
+r1	3347	completed	prereq-bypass	Ulmwyn	8	6	prereq-quests				
+r1	3369	completed	prereq-bypass	Ulmwyn	8	6	prereq-quests				
+r1	3370	completed	prereq-bypass	Ulmwyn	8	6	prereq-quests				
+r4	3487	stalled	root	Zaryth	6	479	candidate	0:10:1322:1/4* 1:8:1642:1000/1000 2:2:12526:0/1*	objective 4489 type 10 data 1322 1/4; objective 4825 type 8 data 1642 1000/1000; objective 4535 type 2 data 12526 0/1 | last trace: no creature targets; open objectives: 4489 type 10 data 1322 1/4; 4535 type 2 data 12526 0/1 waits		unknown10
+r1	3507	completed	chain	Ulmwyn	9	5	already-in-log-or-done				
+r2	3552	completed	prereq-bypass	Aerara	9	9	prereq-quests				
+r2	3618	completed	prereq-bypass	Ralric	11	16	prereq-quests			synthetic 0:5	
+r3	3619	completed	root	Quinmar	12	61	prereq-quests			synthetic 0:5,synthetic 2:5,synthetic 3:4,synthetic 4:5	indicator
+r2	3620	completed	prereq-bypass	Yorara	12	410	prereq-quests				
+r3	3623	completed	root	Wyndar	11	17	prereq-quests			synthetic 0:5	
+r2	3624	completed	prereq-bypass	Orlthor	12	79	prereq-quests				
+r2	3626	completed	prereq-bypass	Yorwen	12	12	prereq-quests			synthetic 0:4,synthetic 1:4,synthetic 2:4	
+r2	3644	completed	prereq-bypass	Fenion	11	134	prereq-quests				
+r3	3752	completed	root	Xanus	13	15	prereq-quests				
+r1	3753	completed	chain	Dovzul	14	119	already-in-log-or-done				
+r2	3760	completed	prereq-bypass	Sylwen	15	66	prereq-quests			synthetic 1:4	
+r2	3761	completed	prereq-bypass	Quinmar	15	45	prereq-quests			synthetic 0:4	
+r1	3766	completed	root	Eldmar	8	12	prereq-quests			synthetic 0:5	
+r1	3891	completed	root	Ralric	16	281	already-in-log-or-done			synthetic 5:5	
+r2	3892	completed	prereq-bypass	Moran	15	90	prereq-quests				
+r1	3899	completed	chain	Yorara	16	5	already-in-log-or-done				
+r1	3900	completed	root	Ulmwyn	17	27	prereq-quests				reward-pane
+r3	3901	completed	root	Aerara	16	29	candidate				
+r2	3902	completed	prereq-bypass	Morwyn	16	60	prereq-quests			synthetic 0:17	
+r1	3905	completed	chain	Sylwen	16	32	candidate				
+r1	3914	completed	root	Galsha	9	21	prereq-id			synthetic 1:5	indicator
+r4	3928	completed	root	Eldmar	10	145	candidate			synthetic 0:17,synthetic 2:4	
+r2	3932	completed	prereq-bypass	Aerara	16	123	prereq-quests				
+r2	3963	completed	prereq-bypass	Morzen	5	12	prereq-quests				
+r1	3970	completed	root	Morrin	16	10	prereq-quests				
+r2	3976	completed	prereq-bypass	Quinon	16	35	prereq-quests				
+r2	4061	completed	prereq-bypass	Dovzul	19	11	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5	
+r2	4062	completed	prereq-bypass	Yorwen	19	15	prereq-quests			synthetic 0:5	
+r3	4068	completed	root	Sylwen	18	15	prereq-quests			synthetic 0:5	
+r3	4070	completed	root	Ulmwyn	19	12	prereq-quests			synthetic 0:4	
+r2	4113	completed	prereq-bypass	Caelyth	18	11	prereq-quests			synthetic 0:5	
+r4	4185	completed	root	Aerara	1	22	prereq-quests				unknown10
+r4	4210	stalled	root	Pelmar	18	363	prereq-id row 2965 t52 Equal v0 o0	0:16:1396:0/1000*	objective 5626 type 16 data 1396 0/1000 | last trace: no kill target [13867] within 300 m		
+r2	4225	completed	prereq-bypass	Quinmir	19	12	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5	
+r3	4227	completed	root	Grimus	20	11	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5,synthetic 3:5	
+r2	4239	completed	prereq-bypass	Drakai	19	12	prereq-quests			synthetic 0:5	
+r2	4289	completed	prereq-bypass	Morzen	20	12	prereq-quests			synthetic 0:5	
+r2	4291	completed	prereq-bypass	Pelmar	19	11	prereq-quests			synthetic 0:5	
+r4	4299	stalled	root	Yorwyn	19	533	prereq-quests	0:12:0:1/1 1:4:13567:2/20*	objective 5808 type 12 data 0 1/1; objective 5780 type 4 data 13567 2/20 | last trace: targets kill [51994,52042,52287,53092,54812,59844,46283,46307] activate [] talk [] in world 1061	synthetic 0:12	
+r2	4351	completed	prereq-bypass	Caelyth	34	10	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5,synthetic 3:5,synthetic 4:4	
+r2	4352	completed	prereq-bypass	Morzen	34	10	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:4	
+r2	4357	completed	prereq-bypass	Caelyth	35	10	prereq-quests			synthetic 0:4,synthetic 1:4	
+r2	4361	completed	prereq-bypass	Morzen	35	10	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5,synthetic 3:5,synthetic 4:5,synthetic 5:5	
+r2	4362	completed	prereq-bypass	Morzen	35	14	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5,synthetic 3:5,synthetic 4:5	
+r1	4363	completed	root	Vexmar	35	11	prereq-id			synthetic 0:5	
+r1	4364	completed	root	Galmir	35	15	prereq-id			synthetic 0:4,synthetic 1:4	
+r1	4368	completed	root	Pelion	35	11	prereq-id			synthetic 0:5	
+r2	4371	completed	chain	Caelyth	35	12	already-in-log			synthetic 0:5,synthetic 1:5,synthetic 2:5	
+r2	4373	completed	prereq-bypass	Caelyth	35	14	prereq-quests			synthetic 0:5	
+r2	4460	completed	prereq-bypass	Morzen	35	5	prereq-quests				
+r2	4467	completed	prereq-bypass	Morzen	35	10	prereq-quests			synthetic 0:4	
+r2	4486	completed	prereq-bypass	Caelyth	35	15	prereq-quests			synthetic 0:5	
+r3	4487	completed	root	Xanrin	35	11	prereq-quests			synthetic 0:5,synthetic 1:5	
+r2	4488	completed	prereq-bypass	Morzen	35	155	prereq-quests				
+r2	4489	completed	prereq-bypass	Caelyth	35	11	prereq-quests			synthetic 0:4	
+r3	4490	completed	root	Ulmkai	35	10	prereq-quests			synthetic 0:5	
+r3	4493	completed	root	Hordar	35	11	prereq-quests			synthetic 0:4	
+r2	4512	completed	prereq-bypass	Caelyth	19	70	prereq-quests				unknown10
+r2	4517	completed	prereq-bypass	Galsha	17	11	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:5	
+r2	4522	completed	prereq-bypass	Lyrix	6	58	prereq-quests				
+r1	4528	completed	root	Caeleth	7	37	prereq-quests				
+r1	4530	completed	root	Orldal	7	75	prereq-quests				
+r3	4536	completed	root	Galmir	7	115	already-in-log				
+r2	4540	completed	prereq-bypass	Zaryth	8	6	prereq-quests				
+r2	4545	completed	prereq-bypass	Caelyth	35	14	prereq-quests			synthetic 0:5,synthetic 1:4,synthetic 2:4,synthetic 3:5,synthetic 4:5	
+r2	4557	completed	prereq-bypass	Ithwen	36	11	prereq-quests			synthetic 0:5,synthetic 1:5,synthetic 2:4,synthetic 3:5	
+r2	4561	completed	prereq-bypass	Faelvek97	36	14	prereq-quests			synthetic 0:5,synthetic 1:5	
+r2	4563	completed	prereq-bypass	Dovor	36	11	prereq-quests			synthetic 0:5	
+r2	4564	completed	prereq-bypass	Ithric	36	15	prereq-quests			synthetic 0:4,synthetic 1:5,synthetic 2:5	
+r2	4565	completed	prereq-bypass	Faellyn	36	10	prereq-quests			synthetic 0:12,synthetic 1:12,synthetic 2:12,synthetic 3:12,synthetic 4:12,synthetic 5:5	
+r2	4570	completed	prereq-bypass	Morrin	36	11	prereq-quests			synthetic 0:5,synthetic 1:5	
+r2	4572	completed	prereq-bypass	Grimus	36	12	prereq-quests			synthetic 0:5	
+r2	4573	completed	prereq-bypass	Dovzul	36	11	prereq-quests			synthetic 0:4,synthetic 1:5,synthetic 2:5	
+r2	4574	completed	prereq-bypass	Nyxlas	36	12	prereq-quests			synthetic 0:12,synthetic 1:12,synthetic 2:12,synthetic 3:12,synthetic 4:12,synthetic 5:5	
+r2	4589	completed	prereq-bypass	Xanrin	36	6	prereq-quests				
+r2	4590	completed	prereq-bypass	Quinmir	36	5	prereq-quests				
+r2	4591	completed	prereq-bypass	Caeleth	36	6	prereq-quests				
+r2	4592	completed	prereq-bypass	Yorwen	36	5	prereq-quests				
+r2	4593	completed	prereq-bypass	Orlsha	37	6	prereq-quests				
+r2	4594	completed	prereq-bypass	Pelmar	37	5	prereq-quests				
+r2	4595	completed	prereq-bypass	Zaryth	37	6	prereq-quests				
+r2	4596	completed	prereq-bypass	Drakai	37	5	prereq-quests				
+r2	4603	completed	prereq-bypass	Galsha	37	14	prereq-quests			synthetic 0:5,synthetic 1:5	
+r2	4629	completed	prereq-bypass	Brancor	20	5	prereq-quests				
+r3	4639	completed	root	Fenion	20	15	prereq-quests			synthetic 0:5	
+r2	4640	completed	prereq-bypass	Horan	20	5	prereq-quests				
+r3	4642	completed	root	Grimus	20	15	prereq-quests			synthetic 0:13	
+r2	4645	completed	prereq-bypass	Ithwen	20	11	prereq-quests			synthetic 0:4,synthetic 1:4,synthetic 2:4	
+r2	4647	completed	prereq-bypass	Caeleth	20	5	prereq-quests				
+r2	4648	completed	prereq-bypass	Xanrin	20	11	prereq-quests			synthetic 0:4	
+r2	4651	completed	prereq-bypass	Orlsha	20	6	prereq-quests				
+r2	4652	completed	prereq-bypass	Galmir	20	6	prereq-quests				
+r1	4663	completed	root	Orlvek	20	54	already-in-log-or-done				
+r1	4664	completed	root	Hordar	20	37	prereq-quests				
+r1	4666	completed	root	Pelion	20	97	prereq-quests				indicator
+r1	4667	completed	chain	Pelion	20	61	already-in-log-or-done				
+r3	4674	completed	root	Faelvek97	20	73	prereq-quests				
+r2	4679	completed	prereq-bypass	Faellyn	21	11	prereq-quests				
+r2	4694	completed	prereq-bypass	Eldmar	20	21	prereq-quests			event-gave-up 1:25	
+r2	4703	completed	prereq-bypass	Pelion	9	6	prereq-quests				
+r2	4717	completed	prereq-bypass	Hordar	18	108	prereq-quests				
+r2	4722	completed	prereq-bypass	Orldal	2	6	prereq-quests				
+r2	4726	completed	prereq-bypass	Zaryth	20	6	prereq-quests				
+r2	4733	completed	prereq-bypass	Faelvek97	20	63	prereq-quests				
+r1	4741	completed	root	Faellyn	11	133	prereq-quests				
+r2	4744	completed	prereq-bypass	Ithric	15	6	prereq-quests				
+r1	4753	completed	chain	Ithwen	15	283	already-in-log-or-done			synthetic 2:14	
+r1	4755	completed	chain	Ithwen	15	48	candidate				
+r1	4757	completed	chain	Ithwen	15	33	already-in-log-or-done				indicator
+r2	4759	completed	prereq-bypass	Orlvek	14	136	prereq-quests				
+r1	4761	completed	root	Faellyn	14	24	prereq-id			synthetic 1:5	
+r2	4765	completed	prereq-bypass	Brancor	14	40	prereq-quests				
+r1	4766	completed	chain	Ithwen	14	225	already-in-log-or-done				reward-pane
+r1	4767	completed	prereq-bypass	Ithwen	14	12	prereq-quests				
+r2	4782	completed	prereq-bypass	Horan	2	11	prereq-quests			synthetic 0:4	
+r1	4796	completed	root	Caelyth	16	22	prereq-quests				
+r1	4801	completed	root	Xanrin	16	45	prereq-quests			synthetic 3:5	reward-pane
+r1	4803	completed	root	Zaryth	17	6	already-in-log-or-done				
+r1	4805	completed	chain	Zaryth	17	249	candidate			event-gave-up 5:25	
+r1	4806	completed	chain	Zaryth	17	10	already-in-log-or-done				
+r1	4812	completed	root	Eldmar	16	35	prereq-quests			synthetic 1:10	unknown10
+r1	4825	completed	chain	Ithbel	12	40	already-in-log-or-done				
+r2	4829	completed	prereq-bypass	Ulmkai	13	67	prereq-quests			synthetic 0:5,synthetic 3:5	
+r1	4830	completed	root	Quinion	12	5	prereq-quests				
+r1	4834	completed	root	Ithric	13	5	already-in-log-or-done				
+r2	4841	completed	prereq-bypass	Caeleth	12	28	prereq-quests				
+r1	4853	completed	chain	Ithbel	13	138	already-in-log-or-done			event-gave-up 2:25,event-gave-up 4:25	
+r1	4856	completed	root	Faelvek97	12	288	prereq-quests				
+r1	4899	completed	chain	Ithbel	13	5	already-in-log-or-done				
+r2	4909	completed	prereq-bypass	Orlsha	18	10	prereq-quests			event-gave-up 0:25	
+r1	4925	completed	root	Ithwen	14	11	prereq-quests				
+r1	4926	completed	chain	Ithwen	15	59	already-in-log-or-done				
+r2	4933	completed	prereq-bypass	Galmir	20	12	prereq-quests			synthetic 0:5,synthetic 1:5	
+r1	4937	completed	root	Hortan	21	5	prereq-id				
+r2	4945	completed	prereq-bypass	Pelion	14	15	prereq-quests				
+r2	4950	completed	prereq-bypass	Orldal	14	71	prereq-quests				
+r1	4955	completed	root	Ithbel	14	46	prereq-id			synthetic 3:5,synthetic 4:5	
+r2	4963	completed	chain	Caelyth	20	5	already-done				
+r2	4967	completed	prereq-bypass	Zaryth	14	17	prereq-quests			synthetic 1:5	
+r1	4969	completed	root	Galsha	6	129	prereq-id				
+r3	4986	completed	root	Pelfen	11	16	candidate			synthetic 1:5	
+r1	4987	completed	root	Ithbel	12	143	already-in-log-or-done				
+r1	4989	completed	root	Galmir	12	122	prereq-quests				
+r1	4998	completed	root	Pelfen	14	6	already-in-log-or-done				
+r3	5050	completed	root	Brancor	11	15	prereq-id row 6339 none of t6 v1 o0|t6 v2 o0|t6 v3 o0			synthetic 0:5	
+r1	5052	completed	root	Brancor	11	11	prereq-id			synthetic 0:5	
+r1	5068	completed	root	Hordar	23	150	already-in-log-or-done				
+r1	5078	completed	root	Hortan	23	21	prereq-quests			event-gave-up 1:25	
+r1	5079	completed	chain	Hortan	23	218	already-in-log-or-done			synthetic 4:5	
+r4	5080	completed	root	Faelvek97	23	28	prereq-quests				unknown10
+r1	5106	completed	root	Horan	23	6	prereq-quests				
+r2	5107	completed	prereq-bypass	Galsha	23	92	prereq-quests				
+r2	5108	completed	prereq-bypass	Xanrin	23	23	prereq-quests			synthetic 1:5	indicator
+r2	5109	completed	prereq-bypass	Ithwen	23	85	prereq-quests				
+r2	5110	completed	prereq-bypass	Ithric	23	173	prereq-quests				
+r2	5111	completed	prereq-bypass	Faellyn	23	122	prereq-quests				
+r2	5120	completed	prereq-bypass	Caelyth	23	165	prereq-quests				
+r1	5124	completed	prereq-bypass	Ithwen	15	58	prereq-quests				
+r1	5133	completed	root	Morzen	14	6	prereq-id				
+r1	5162	completed	root	Pelfen	23	66	prereq-quests				
+r1	5257	completed	root	Ulmkai	23	17	prereq-quests				
+r1	5258	completed	root	Horan	23	152	prereq-quests				
+r1	5259	completed	root	Orlsha	15	5	already-in-log-or-done				
+r1	5261	completed	chain	Ithbel	13	12	candidate			synthetic 0:28	
+r1	5267	completed	root	Lyrix	17	16	already-in-log-or-done				
+r2	5270	completed	prereq-bypass	Horan	13	21	prereq-quests			synthetic 0:17	
+r3	5278	completed	root	Xanrin	11	70	prereq-quests				
+r2	5283	completed	prereq-bypass	Eldmar	11	171	prereq-quests				
+r2	5287	completed	prereq-bypass	Galmir	10	18	prereq-quests				
+r4	5297	stalled	root	Vexmar	10	362	prereq-quests	0:4:12542:0/10*	objective 7748 type 4 data 12542 0/10 | last trace: no kill target [2409,14863,16801,16802,17278,17692,17693,17721] within 300 m		
+r2	5305	completed	prereq-bypass	Zaryth	23	5	prereq-quests				
+r2	5306	completed	prereq-bypass	Hortan	14	41	prereq-quests				
+r2	5314	completed	prereq-bypass	Lyrix	23	57	prereq-quests				
+r1	5318	stalled	root	Eldmar	12	436	prereq-quests	0:8:2315:714/1000* 1:8:7795:714/1000*	objective 7799 type 8 data 2315 714/1000; objective 16224 type 8 data 7795 714/1000 | last trace: targets kill [21955,19377,21001,61579,21558,21560,37640,21559] activate [] talk [] in world 51		
+r1	5323	completed	root	Vexmar	20	11	prereq-quests			event-gave-up 0:25	
+r2	5331	completed	prereq-bypass	Xanrin	21	63	prereq-quests				
+r1	5344	completed	root	Orlthor	23	48	already-in-log-or-done				
+r1	5352	completed	root	Yorwyn	23	140	prereq-quests				
+r1	5354	completed	root	Zarlas	23	5	prereq-quests				
+r1	5359	completed	root	Quinmar	23	146	prereq-quests				
+r1	5362	completed	root	Nyxzul	23	21	prereq-quests				
+r1	5363	completed	prereq-bypass	Quinmar	23	11	prereq-quests				
+r3	5368	completed	root	Yorwyn	23	27	prereq-quests				
+r1	5371	completed	chain	Quinmar	23	6	already-in-log-or-done				
+r1	5374	completed	root	Aerara	23	73	prereq-quests			synthetic 2:5	
+r1	5375	completed	root	Vexcor	23	46	prereq-quests				
+r1	5387	completed	root	Morrin	23	52	prereq-quests			event-gave-up 1:25	
+r1	5390	completed	prereq-bypass	Vexcor	23	94	prereq-quests				
+r1	5394	completed	root	Drakai	23	31	already-in-log-or-done				
+r1	5395	completed	root	Grimus	23	36	prereq-quests				
+r4	5397	stalled	root	Morwyn	23	365	prereq-quests	0:8:2362:0/1000*	objective 7941 type 8 data 2362 0/1000 | last trace: no kill target [23051,22890,22807] within 300 m		
+r1	5398	completed	root	Quinmar	23	17	prereq-quests			synthetic 0:17	
+r1	5407	completed	root	Quinion	11	16	prereq-quests				
+r1	5410	completed	root	Hordar	6	5	prereq-id				
+r1	5426	completed	root	Yorara	23	60	prereq-quests				
+r1	5442	completed	root	Vexcor	23	143	prereq-quests				
+r1	5465	completed	root	Ithric	12	49	prereq-quests				
+r1	5469	completed	root	Orlvek	12	96	prereq-quests				
+r1	5477	completed	root	Aerara	8	6	prereq-id				
+r1	5489	completed	chain	Vexcor	23	174	already-in-log-or-done				
+r1	5504	completed	root	Moran	6	5	prereq-id				
+r1	5505	completed	root	Morwyn	6	6	prereq-id				
+r1	5506	completed	root	Zarlas	6	6	already-in-log-or-done				
+r1	5507	completed	root	Yorwen	6	5	prereq-id				
+r1	5514	completed	root	Wyndar	10	34	already-in-log-or-done				
+r1	5515	stalled	chain	Wyndar	10	384	already-in-log-or-done	0:22:2764:1/1 1:22:2765:1/1 2:2:24007:0/1*	objective 8184 type 22 data 2764 1/1; objective 8197 type 22 data 2765 1/1; objective 8198 type 2 data 24007 0/1 | last trace: targets kill [24007] activate [] talk [] in world 22		
+r1	5531	completed	root	Morzen	25	72	already-in-log-or-done				
+r1	5532	completed	root	Ithric	25	89	prereq-quests				indicator
+r1	5535	completed	root	Pelfen	25	219	prereq-quests				reward-pane
+r1	5541	completed	root	Moran	25	89	already-in-log-or-done				
+r1	5542	completed	root	Yorwen	25	10	prereq-quests				
+r4	5546	completed	root	Morrin	25	223	prereq-quests				
+r1	5553	completed	root	Ralric	15	33	prereq-quests				
+r4	5554	stalled	root	Dovzul	15	700	candidate	0:32:266:7/16*	objective 8453 type 32 data 266 7/16 | last trace: targets kill [12804,24257,25374] activate [] talk [] in world 22		
+r1	5555	completed	root	Pelmar	15	11	prereq-quests				
+r1	5573	completed	root	Quinmir	3	79	prereq-quests			synthetic 2:5	
+r1	5574	completed	root	Eskwyn	25	21	prereq-quests				
+r1	5575	completed	root	Quinon	3	38	prereq-quests			synthetic 2:5	
+r1	5576	completed	chain	Eskwyn	25	270	already-in-log-or-done				
+r1	5577	completed	root	Fenion	25	39	prereq-quests				
+r1	5579	completed	root	Nyxlas	25	5	prereq-quests				
+r1	5580	completed	chain	Branmar	5	20	candidate				
+r3	5583	completed	root	Nyxzul	5	112	prereq-quests				
+r1	5596	completed	root	Pelwen	3	33	prereq-quests				
+r1	5597	completed	root	Branmar	4	38	prereq-quests				
+r1	5604	completed	chain	Branmar	4	32	already-in-log-or-done			synthetic 1:5	
+r1	5606	completed	chain	Ulmwyn	8	51	already-in-log-or-done				
+r1	5607	completed	chain	Ulmwyn	8	59	already-in-log-or-done				
+r1	5608	completed	chain	Ulmwyn	9	199	already-in-log-or-done				
+r1	5614	completed	root	Yorara	15	97	prereq-quests				
+r1	5615	completed	chain	Yorara	15	113	already-in-log-or-done				
+r1	5616	completed	chain	Yorara	15	20	already-in-log-or-done				
+r3	5617	completed	root	Nyxlas	14	41	prereq-quests			synthetic 3:5	indicator
+r1	5618	completed	chain	Yorara	15	177	already-in-log-or-done			synthetic 4:10,synthetic 3:5	unknown10
+r1	5619	completed	chain	Yorara	15	44	candidate				
+r1	5620	completed	chain	Yorara	15	12	already-in-log-or-done				
+r1	5621	completed	chain	Yorara	15	16	already-in-log-or-done				
+r1	5623	completed	chain	Branmar	5	5	already-in-log-or-done				
+r1	5626	completed	root	Branmar	9	11	already-in-log-or-done			synthetic 0:11	
+r1	5628	completed	root	Fenion	9	55	prereq-quests				
+r1	5630	completed	root	Dovzul	14	11	prereq-quests			event-gave-up 2:25	
+r2	5634	completed	prereq-bypass	Yorwen	11	139	prereq-quests				
+r1	5640	completed	chain	Dovzul	14	275	already-in-log-or-done				
+r1	5641	completed	chain	Dovzul	14	70	already-in-log-or-done				
+r1	5643	completed	chain	Dovzul	14	67	already-in-log-or-done				
+r1	5646	completed	chain	Dovzul	15	85	candidate				
+r1	5647	completed	chain	Dovzul	15	6	candidate				
+r1	5648	completed	chain	Dovzul	15	112	already-in-log-or-done				
+r2	5649	completed	prereq-bypass	Morrin	15	28	prereq-quests				
+r2	5653	completed	prereq-bypass	Pelmar	15	28	prereq-quests				reward-pane
+r1	5655	completed	chain	Ithric	25	16	already-in-log-or-done			event-gave-up 0:25,event-gave-up 1:25,event-gave-up 2:25	
+r2	5662	completed	prereq-bypass	Grimus	15	74	prereq-quests				
+r1	5689	completed	chain	Ithric	25	106	already-in-log-or-done				
+r1	5696	completed	root	Morrin	9	34	prereq-quests			event-gave-up 1:25	
+r1	5699	completed	chain	Ithric	25	80	already-in-log-or-done				
+r1	5700	completed	chain	Quinmir	25	50	candidate				
+r1	5702	completed	chain	Quinmir	25	99	candidate				
+r1	5707	completed	chain	Ithric	25	153	already-in-log-or-done				indicator
+r1	5718	completed	root	Morwyn	25	67	prereq-quests				
+r1	5719	completed	root	Quinmir	25	106	prereq-quests				indicator
+r1	5722	completed	root	Aerara	25	221	prereq-quests				reward-pane
+r1	5724	completed	chain	Quinmir	25	17	already-in-log-or-done			event-gave-up 0:25,event-gave-up 1:25,event-gave-up 2:25	
+r1	5727	completed	chain	Quinmir	25	72	already-in-log-or-done			synthetic 2:5	
+r1	5765	completed	root	Morwyn	10	11	prereq-id				
+r1	5814	completed	root	Sylwen	3	6	prereq-quests				
+r1	5834	completed	root	Orldal	26	167	prereq-quests				
+r1	5835	completed	chain	Orldal	26	131	already-in-log-or-done				
+r1	5836	completed	chain	Orldal	26	50	already-in-log-or-done				
+r1	5841	completed	chain	Orldal	26	21	already-in-log-or-done				
+r1	5850	completed	root	Xanus	28	36	already-in-log-or-done				
+r1	5851	completed	root	Nyxlas	28	40	prereq-quests				
+r1	5852	completed	chain	Nyxlas	28	87	candidate				
+r1	5853	completed	chain	Nyxlas	28	154	already-in-log-or-done			synthetic 2:5	
+r1	5854	completed	chain	Nyxlas	28	58	already-in-log-or-done				
+r1	5861	completed	chain	Moran	4	6	already-in-log-or-done				
+r1	5864	completed	chain	Moran	6	41	candidate				
+r1	5865	completed	chain	Moran	5	68	already-in-log-or-done				
+r1	5866	completed	prereq-bypass	Moran	5	58	prereq-quests				
+r1	5891	completed	root	Orlsha	27	62	prereq-quests				
+r1	5892	completed	root	Morwyn	27	73	prereq-quests				
+r3	5895	completed	root	Eldmar	27	21	prereq-quests				
+r3	5896	completed	root	Quinon	27	79	prereq-quests				
+r2	5897	completed	prereq-bypass	Caeleth	27	11	prereq-quests				
+r2	5898	completed	prereq-bypass	Dovzul	27	10	prereq-quests				
+r2	5899	completed	prereq-bypass	Zaryth	28	6	prereq-quests				
+r2	5900	completed	prereq-bypass	Drakai	28	6	prereq-quests				
+r1	5905	completed	chain	Morrin	13	16	already-in-log-or-done			event-gave-up 2:25	
+r1	5907	completed	chain	Morrin	13	10	already-in-log-or-done				
+r1	5908	completed	root	Moran	13	48	prereq-quests				
+r1	5911	completed	root	Pelmar	12	11	already-in-log-or-done				
+r1	5914	completed	chain	Pelmar	12	214	already-in-log-or-done				
+r1	5915	completed	chain	Pelmar	12	22	already-in-log-or-done				
+r1	5921	completed	chain	Pelmar	12	87	already-in-log-or-done				
+r1	5922	completed	chain	Pelmar	12	23	already-in-log-or-done				unknown10
+r3	5926	completed	root	Xanus	13	141	candidate				
+r2	5927	completed	prereq-bypass	Nyxlas	13	145	prereq-quests			synthetic 0:17	
+r1	5937	completed	root	Nyxzul	12	15	prereq-id				
+r1	5939	completed	chain	Nyxzul	12	6	candidate				
+r1	5943	completed	prereq-bypass	Ulmwyn	8	5	prereq-quests				
+r2	5944	completed	prereq-bypass	Quinmir	16	6	prereq-quests				
+r1	5945	completed	chain	Orldal	27	6	already-in-log-or-done				
+r2	5946	completed	root	Morrin	27	7	prereq-quests				
+r1	5947	completed	chain	Nyxlas	28	5	already-in-log-or-done				
+r1	5958	completed	root	Morrin	13	13	prereq-quests				
+r1	5959	completed	root	Moran	5	97	prereq-quests				
+r1	5960	completed	root	Yorwyn	5	52	prereq-id				
+r1	5971	completed	root	Quinmar	17	63	prereq-quests			synthetic 0:5	
+r1	5992	completed	chain	Morrin	13	70	candidate			synthetic 2:22	
+r1	5993	completed	chain	Morrin	13	161	already-in-log-or-done			synthetic 3:22	
+r1	6010	completed	root	Yorwyn	17	21	prereq-quests				
+r1	6012	completed	root	Sylwen	16	6	already-in-log-or-done				
+r1	6021	completed	root	Quinmar	17	5	already-in-log-or-done				
+r1	6033	completed	root	Quinmar	13	6	prereq-quests				
+r2	6046	completed	prereq-bypass	Quinon	16	5	prereq-quests				
+r1	6047	completed	chain	Yorwyn	12	70	already-in-log-or-done			synthetic 0:17	
+r1	6051	completed	chain	Yorwyn	17	6	already-in-log-or-done				
+r1	6072	completed	root	Yorwyn	12	30	already-in-log-or-done				
+r1	6147	completed	chain	Ralric	16	214	already-in-log-or-done				
+r1	6153	completed	root	Dovor	33	6	prereq-quests				
+r1	6159	completed	chain	Dovor	33	75	candidate			event-gave-up 1:25	
+r1	6161	completed	root	Lyrix	34	85	prereq-quests				
+r2	6163	completed	prereq-bypass	Pelfen	34	38	prereq-quests				
+r2	6164	completed	prereq-bypass	Horan	34	12	prereq-quests			synthetic 0:25	
+r2	6165	completed	prereq-bypass	Brancor	34	22	prereq-quests				
+r1	6168	completed	root	Caelyth	34	68	already-in-log-or-done				
+r1	6169	completed	root	Morzen	34	52	prereq-quests				
+r2	6170	completed	prereq-bypass	Morzen	34	107	prereq-quests				
+r1	6173	completed	chain	Caelyth	36	101	candidate				
+r1	6174	completed	chain	Caelyth	36	148	already-in-log-or-done			synthetic 2:11,synthetic 4:11	
+r1	6175	completed	chain	Caelyth	36	61	already-in-log-or-done				reward-pane
+r1	6179	completed	root	Ulmkai	32	69	prereq-quests			event-gave-up 3:25	
+r2	6181	completed	prereq-bypass	Galmir	32	59	prereq-quests				
+r2	6182	completed	prereq-bypass	Zaryth	32	40	prereq-quests				
+r4	6184	completed	root	Brancor	32	155	candidate				
+r1	6207	completed	root	Quinmar	19	88	already-in-log-or-done			synthetic 1:5	
+r1	6227	completed	root	Caelyth	35	53	prereq-quests			event-gave-up 0:25,synthetic 4:5,synthetic 3:5	
+r1	6234	completed	root	Sylwen	37	154	already-in-log-or-done				
+r1	6235	completed	chain	Sylwen	37	142	already-in-log-or-done				
+r1	6236	completed	chain	Sylwen	37	68	already-in-log-or-done				
+r1	6237	completed	chain	Sylwen	37	12	already-in-log-or-done				
+r1	6239	completed	root	Pelion	37	25	already-in-log-or-done				
+r1	6241	completed	root	Dovor	37	81	prereq-quests				
+r1	6242	completed	chain	Dovor	37	11	already-in-log-or-done				
+r2	6244	completed	prereq-bypass	Branmar	50	5	prereq-quests				
+r1	6245	completed	chain	Quinmar	19	24	already-in-log-or-done				
+r2	6249	completed	prereq-bypass	Vexcor	50	115	prereq-quests				
+r2	6251	completed	prereq-bypass	Caeleth	50	49	prereq-quests				
+r2	6253	completed	prereq-bypass	Quinmar	50	22	prereq-quests			synthetic 1:25	
+r2	6255	completed	prereq-bypass	Drakai	50	50	prereq-quests				
+r2	6256	completed	prereq-bypass	Quinmir	50	88	prereq-quests				
+r2	6260	completed	prereq-bypass	Quinon	50	84	prereq-quests			synthetic 1:14	
+r1	6265	completed	chain	Quinmar	19	53	already-in-log-or-done				
+r1	6269	completed	root	Eskwyn	35	9	already-in-log-or-done				reward-pane
+r1	6274	completed	root	Aerara	50	48	prereq-quests				
+r1	6275	completed	chain	Aerara	50	77	already-in-log-or-done				
+r1	6280	completed	chain	Aerara	50	44	already-in-log-or-done				
+r1	6281	completed	chain	Aerara	50	29	already-in-log-or-done				
+r1	6295	completed	chain	Quinmar	19	60	already-in-log-or-done				
+r1	6301	completed	root	Quinion	3	59	already-in-log-or-done				
+r1	6302	completed	chain	Quinion	3	33	already-in-log-or-done			synthetic 1:5	
+r1	6303	completed	chain	Quinion	4	114	already-in-log-or-done				
+r1	6304	completed	chain	Quinion	5	59	prereq-id				
+r1	6305	completed	chain	Quinion	4	53	already-in-log-or-done				
+r1	6306	completed	chain	Quinion	4	23	already-in-log-or-done				
+r1	6307	completed	chain	Quinion	4	9	already-in-log-or-done				
+r1	6308	completed	root	Brancor	4	23	prereq-id				
+r1	6315	completed	chain	Quinmar	19	5	already-in-log-or-done				
+r1	6331	completed	root	Nyxlas	19	34	already-in-log-or-done			synthetic 1:25	
+r2	6335	completed	root	Morzen	5	7	prereq-quests				
+r2	6338	completed	prereq-bypass	Wyndar	50	11	prereq-quests			event-gave-up 0:25	
+r2	6347	completed	prereq-bypass	Dovzul	50	6	prereq-quests				
+r1	6369	completed	chain	Sylwen	37	161	candidate			synthetic 2:32	
+r1	6371	completed	prereq-bypass	Sylwen	37	31	prereq-quests			synthetic 1:25	
+r1	6373	completed	root	Yorwyn	36	117	prereq-quests				reward-pane
+r4	6388	stalled	root	Ralric	18	362	already-in-log	0:22:3363:1/1 1:10:3169:0/8*	objective 9821 type 22 data 3363 1/1; objective 9820 type 10 data 3169 0/8 | last trace: no creature targets; open objectives: 9820 type 10 data 3169 0/8		unknown10
+r2	6397	completed	prereq-bypass	Branmar	18	5	prereq-quests				
+r4	6400	stalled	root	Xanus	35	558	candidate	0:24:6339:0/1* 1:24:6340:1/1 2:24:6341:1/1 3:24:6342:1/1 4:24:6343:1/1 5:24:6344:1/1	objective 9837 type 24 data 6339 0/1; objective 14511 type 24 data 6340 1/1; objective 14513 type 24 data 6341 1/1; objective 14514 type 24 data 6342 1/1; objective 14515 type 24 data 6343 1/1; objective 14516 type 24 data 6344 1/1 | last trace: no creature targets; open objectives: 9837 type 24 data 6339 0/1		
+r1	6424	completed	root	Sylwen	36	5	prereq-id				
+r1	6430	completed	root	Lyrix	32	183	already-in-log-or-done				
+r1	6431	completed	chain	Lyrix	32	17	already-in-log-or-done			synthetic 1:11	
+r1	6457	completed	root	Pelwen	33	6	prereq-quests				
+r1	6463	completed	chain	Pelwen	33	11	candidate			event-gave-up 1:25	
+r1	6466	completed	root	Quinon	19	116	prereq-quests				
+r1	6471	completed	root	Xanus	32	75	already-in-log-or-done			event-gave-up 3:25	
+r2	6472	completed	prereq-bypass	Eskwyn	32	67	prereq-quests				
+r2	6478	completed	prereq-bypass	Morwyn	50	16	prereq-quests				
+r2	6481	completed	chain	Horan	34	86	already-in-log				
+r1	6485	completed	root	Drakai	7	39	prereq-id			synthetic 1:17	
+r1	6487	completed	root	Morzen	50	79	prereq-quests				
+r4	6490	stalled	root	Dovor	50	362	prereq-quests	0:32:1178:0/6*	objective 10046 type 32 data 1178 0/6 | last trace: no creature targets; open objectives: 10046 type 32 data 1178 0/6		
+r1	6491	completed	chain	Morzen	50	27	already-in-log-or-done				
+r1	6493	completed	root	Wyndar	34	88	already-in-log-or-done				
+r2	6495	completed	prereq-bypass	Sylwen	34	40	prereq-quests				
+r2	6496	completed	prereq-bypass	Dovzul	34	15	prereq-quests			synthetic 0:25	
+r2	6497	completed	prereq-bypass	Wyndar	34	11	prereq-quests				
+r1	6500	completed	root	Nyxlas	34	88	prereq-quests				
+r1	6501	completed	chain	Wyndar	34	43	already-in-log-or-done				
+r2	6502	completed	prereq-bypass	Pelmar	34	110	prereq-quests				
+r2	6504	completed	prereq-bypass	Nyxzul	34	92	prereq-quests				
+r1	6510	completed	root	Yorwen	50	6	prereq-id				
+r2	6515	completed	prereq-bypass	Morrin	50	213	prereq-quests				
+r2	6518	completed	prereq-bypass	Orlthor	32	52	prereq-quests				
+r2	6520	completed	chain	Branmar	19	6	already-done				
+r1	6521	completed	chain	Quinmar	19	5	candidate				
+r1	6522	completed	chain	Quinon	19	5	already-in-log-or-done				
+r1	6523	completed	root	Galsha	37	61	prereq-id				
+r2	6535	completed	prereq-bypass	Quinmar	50	45	prereq-quests				
+r1	6536	completed	chain	Dovor	34	5	already-in-log-or-done				
+r2	6537	completed	prereq-bypass	Faelvek97	35	32	prereq-quests				
+r1	6538	completed	chain	Pelwen	34	6	already-in-log-or-done				
+r2	6539	completed	prereq-bypass	Branmar	35	34	prereq-quests			synthetic 0:17	
+r4	6545	completed	root	Eskwyn	32	229	candidate				
+r2	6549	completed	prereq-bypass	Wyndar	6	6	prereq-quests				
+r1	6558	completed	chain	Caelyth	36	10	candidate				
+r1	6559	completed	chain	Yorwyn	17	5	candidate				
+r1	6562	completed	chain	Yorwyn	18	11	already-in-log-or-done				
+r2	6575	completed	prereq-bypass	Dovzul	8	84	prereq-quests				
+r2	6576	completed	prereq-bypass	Moran	8	77	prereq-quests				
+r2	6577	completed	prereq-bypass	Ulmwyn	8	76	prereq-quests				
+r2	6578	completed	prereq-bypass	Pelwen	8	17	prereq-quests				
+r2	6579	completed	prereq-bypass	Zarlas	8	34	prereq-quests				
+r2	6580	completed	prereq-bypass	Wyndar	8	84	prereq-quests				
+r1	6587	completed	chain	Quinmir	7	263	already-in-log-or-done				
+r1	6588	stalled	chain	Quinmir	7	362	candidate	0:5:0:0/1* 1:3:31223:0/2147483647* 2:2:31320:0/1*	objective 10421 type 5 data 0 0/1; objective 10584 type 3 data 31223 0/2147483647; objective 13428 type 2 data 31320 0/1 | last trace: targets kill [31320] activate [30507,31223] talk [31223] in world 22		
+r3	6591	completed	root	Yorwen	7	116	prereq-quests				
+r4	6596	stalled	root	Grimus	7	363	candidate	0:2:30921:0/1*	objective 10470 type 2 data 30921 0/1 | last trace: targets kill [30921] activate [] talk [] in world 22		
+r1	6597	completed	chain	Nyxlas	9	61	already-in-log-or-done				
+r1	6605	completed	root	Pelwen	6	58	prereq-quests				
+r1	6606	completed	root	Quinmir	6	27	prereq-id			event-gave-up 1:25	
+r4	6612	stalled	root	Yorwen	12	361	candidate	0:32:183:1/1 1:32:181:0/1* 2:32:182:0/1* 3:12:30265:0/1* 4:12:30260:0/1*	objective 10244 type 32 data 183 1/1; objective 10245 type 32 data 181 0/1; objective 10246 type 32 data 182 0/1; objective 10247 type 12 data 30265 0/1; objective 10248 type 12 data 30260 0/1 | last trace: fighting creature 31335: health 974/974, 0 m (dy 0), faction 170 Friendly, last refused cast none		
+r2	6613	completed	prereq-bypass	Drakai	12	66	prereq-quests				
+r1	6614	completed	chain	Nyxlas	20	5	already-in-log-or-done				
+r2	6615	completed	prereq-bypass	Xanus	12	61	prereq-quests				
+r2	6616	completed	prereq-bypass	Branmar	12	57	prereq-quests				
+r2	6617	completed	prereq-bypass	Grimus	12	54	prereq-quests				
+r1	6622	completed	root	Orlvek	8	11	prereq-quests				
+r1	6627	completed	prereq-bypass	Orlvek	8	5	prereq-quests				
+r2	6632	completed	prereq-bypass	Quinmar	12	5	prereq-quests				
+r2	6634	completed	prereq-bypass	Aerara	12	28	prereq-quests				
+r2	6635	completed	prereq-bypass	Eskwyn	12	85	prereq-quests				
+r2	6636	completed	prereq-bypass	Orlthor	12	135	prereq-quests				
+r2	6637	completed	prereq-bypass	Fenion	13	74	prereq-quests			synthetic 0:17	
+r3	6638	completed	root	Pelmar	13	139	prereq-quests				
+r2	6639	completed	prereq-bypass	Zarlas	13	50	prereq-quests				
+r2	6640	completed	prereq-bypass	Quinmir	13	189	prereq-quests			synthetic 3:22	
+r2	6644	completed	prereq-bypass	Pelwen	12	176	prereq-quests				
+r2	6647	completed	prereq-bypass	Aerara	13	95	prereq-quests			synthetic 0:11	
+r2	6652	completed	prereq-bypass	Vexcor	12	73	prereq-quests				
+r2	6653	completed	prereq-bypass	Nyxzul	12	214	prereq-quests				
+r1	6659	completed	root	Faellyn	8	5	prereq-id				
+r1	6662	completed	root	Horan	8	53	already-in-log-or-done			synthetic 0:17	
+r1	6663	completed	chain	Horan	8	32	already-in-log-or-done				
+r1	6665	completed	root	Faellyn	8	93	prereq-id				
+r1	6669	completed	root	Dovor	8	11	prereq-id				
+r1	6672	completed	root	Hordar	6	10	already-in-log-or-done			synthetic 0:10	unknown10
+r1	6673	completed	chain	Hordar	6	285	already-in-log-or-done				indicator
+r2	6681	completed	prereq-bypass	Xanus	12	45	prereq-quests				
+r1	6708	completed	root	Drakai	21	80	prereq-quests				
+r1	6711	completed	root	Fenion	21	261	prereq-quests				
+r1	6713	completed	chain	Drakai	21	365	already-in-log-or-done				
+r1	6714	completed	chain	Drakai	21	11	already-in-log-or-done				
+r1	6718	completed	root	Moran	20	46	prereq-id				
+r1	6720	completed	root	Vexcor	20	60	prereq-id				
+r1	6721	completed	prereq-bypass	Moran	20	179	prereq-quests				
+r1	6724	completed	prereq-bypass	Moran	20	11	prereq-quests				
+r1	6727	completed	chain	Drakai	21	31	already-in-log-or-done				
+r1	6732	completed	chain	Moran	21	5	already-in-log-or-done				
+r3	6734	completed	root	Aerara	12	30	prereq-quests				
+r1	6749	timeout	root	Orlthor	21	482	prereq-quests	0:2:30982:14/25* 1:12:30993:8/8 2:8:10907:800/1000*	targets kill [30982,30481,30634,41207,41273,61981,61983,51001] activate [] talk [] in world 22		
+r2	6760	completed	prereq-bypass	Brancor	3	108	prereq-quests				
+r1	6772	stalled	root	Nyxzul	21	420	already-in-log-or-done	0:8:3604:200/1000*	objective 10577 type 8 data 3604 200/1000 | last trace: targets kill [30513,30514,30515,31879,61974,61977] activate [] talk [] in world 22		
+r1	6773	completed	root	Xanus	13	11	prereq-id			synthetic 0:5	
+r2	6778	completed	prereq-bypass	Drakai	12	27	prereq-quests			synthetic 3:5	
+r1	6788	completed	root	Xanus	21	15	already-in-log-or-done				
+r1	6807	completed	chain	Quinmir	7	6	candidate				
+r2	6811	completed	prereq-bypass	Dovzul	6	6	prereq-quests				
+r1	6822	completed	chain	Drakai	21	295	already-in-log-or-done				
+r3	6880	completed	root	Pelmar	11	42	candidate			synthetic 0:22	
+r2	6883	completed	prereq-bypass	Branmar	11	5	prereq-quests				
+r3	6884	completed	root	Zarlas	11	423	prereq-quests				
+r1	6887	completed	root	Nyxlas	9	43	prereq-id				
+r1	6889	completed	prereq-bypass	Nyxlas	9	152	prereq-quests				
+r1	6891	completed	prereq-bypass	Nyxlas	9	26	prereq-quests				reward-pane
+r1	6893	completed	prereq-bypass	Nyxlas	9	120	prereq-quests			synthetic 1:32	
+r1	6894	completed	chain	Nyxlas	9	11	already-in-log-or-done				
+r1	6899	completed	root	Pelion	13	271	prereq-quests				
+r1	6900	completed	chain	Pelion	13	22	already-in-log-or-done			event-gave-up 1:25	
+r1	6901	completed	chain	Pelion	13	60	already-in-log-or-done				
+r1	6904	completed	root	Orlvek	13	255	already-in-log-or-done				
+r1	6908	completed	chain	Nyxlas	10	5	already-in-log-or-done				
+r2	6909	completed	prereq-bypass	Ulmkai	12	21	prereq-quests				
+r1	6913	completed	root	Xanus	10	64	prereq-quests				
+r1	6919	completed	root	Dovor	50	236	prereq-id			synthetic 0:22	
+r1	6921	completed	root	Galsha	50	11	prereq-id			synthetic 0:13	
+r1	6922	completed	root	Galmir	50	15	prereq-id			synthetic 0:35	
+r1	6925	completed	root	Galsha	50	11	prereq-id			synthetic 0:11	
+r1	6927	completed	root	Galmir	50	10	prereq-id			synthetic 0:32	
+r1	6933	completed	root	Galsha	50	11	prereq-id			synthetic 0:32	
+r1	6934	completed	root	Horan	50	11	prereq-id			synthetic 0:32	
+r1	6938	completed	root	Galmir	50	11	prereq-id			synthetic 0:32	
+r1	6939	completed	root	Faellyn	50	12	prereq-id			synthetic 0:32	
+r1	6942	completed	root	Galsha	50	16	prereq-id			synthetic 0:13	
+r1	6944	completed	root	Zaryth	50	11	prereq-id			synthetic 0:32	
+r1	6949	completed	root	Horan	48	11	prereq-id			synthetic 0:32	
+r1	6951	completed	root	Galmir	50	12	prereq-id			synthetic 0:5	
+r2	6952	completed	prereq-bypass	Hortan	12	189	prereq-quests				
+r1	6953	completed	chain	Faellyn	12	20	candidate				
+r2	6954	completed	prereq-bypass	Orldal	12	163	prereq-quests				
+r1	6955	completed	chain	Faellyn	12	59	candidate				
+r1	6956	completed	chain	Faellyn	12	87	already-in-log-or-done			event-gave-up 2:25	
+r1	6957	completed	chain	Faellyn	12	75	already-in-log-or-done				
+r2	6960	completed	prereq-bypass	Quinion	12	34	prereq-quests	0:2:73464:5/5 1:5:73463:1/1 2:5:0:1/1 3:5:5968:1/1 4:2:73494:0/2* 5:8:14356:0/3*		synthetic 1:17	
+r1	6961	completed	prereq-bypass	Faellyn	12	12	prereq-quests				
+r1	6964	completed	chain	Faellyn	12	43	already-in-log-or-done				
+r2	6966	completed	prereq-bypass	Vexmar	12	114	prereq-quests				
+r2	6978	completed	prereq-bypass	Lyrix	12	29	prereq-quests				
+r2	6979	completed	prereq-bypass	Zaryth	12	76	prereq-quests				
+r1	6985	completed	root	Faellyn	11	54	prereq-quests				
+r1	6986	completed	chain	Faellyn	11	23	already-in-log-or-done			synthetic 1:5	
+r1	6991	completed	root	Faelvek97	50	11	prereq-id			synthetic 0:5	
+r1	6997	completed	prereq-bypass	Orlvek	9	10	prereq-quests				reward-pane
+r1	7002	completed	root	Zaryth	9	82	prereq-quests			synthetic 2:5	
+r1	7006	completed	prereq-bypass	Zaryth	9	26	prereq-quests				
+r4	7009	stalled	root	Drakai	2	420	prereq-quests	0:14:7370:2/2 1:12:51349:1/1 2:12:33022:0/1*	objective 16144 type 14 data 7370 2/2; objective 16098 type 12 data 51349 1/1; objective 16099 type 12 data 33022 0/1 | last trace: activating creature 33022: not cast (cooldown or prerequisite)		
+r2	7011	completed	prereq-bypass	Grimus	2	88	prereq-quests				
+r2	7012	completed	prereq-bypass	Yorwen	2	29	prereq-quests			synthetic 1:5	
+r1	7018	completed	root	Ralric	2	58	already-in-log-or-done			synthetic 4:17,synthetic 5:5	
+r1	7019	completed	chain	Ralric	1	16	already-in-log-or-done				
+r1	7024	completed	root	Galsha	9	61	prereq-quests				
+r1	7026	completed	root	Zarlas	10	5	already-in-log-or-done				
+r2	7027	completed	prereq-bypass	Ithwen	12	23	prereq-quests			synthetic 1:5,synthetic 2:5	
+r1	7032	completed	root	Horan	50	12	prereq-id			synthetic 0:32	
+r1	7036	completed	root	Yorwyn	3	5	prereq-quests				
+r1	7039	completed	root	Pelfen	50	13	prereq-id			synthetic 0:10	unknown10
+r1	7040	completed	root	Galmir	50	12	prereq-id			synthetic 0:10	unknown10
+r1	7046	completed	root	Faelvek97	50	10	prereq-id			event-gave-up 0:25	
+r1	7053	completed	root	Horan	50	14	prereq-id			synthetic 0:5	
+r1	7055	completed	prereq-bypass	Orlvek	9	11	prereq-quests				reward-pane
+r1	7057	completed	chain	Ralric	3	207	already-in-log-or-done			synthetic 4:12,synthetic 5:12,synthetic 0:17	reward-pane
+r1	7058	completed	chain	Ralric	3	72	already-in-log-or-done			synthetic 2:5	
+r1	7059	completed	chain	Ralric	3	147	prereq-id			synthetic 2:5	
+r1	7060	completed	chain	Ralric	3	22	prereq-id				
+r1	7066	completed	chain	Xanus	11	5	already-in-log-or-done				
+r1	7098	completed	root	Quinon	50	61	prereq-quests				
+r1	7099	completed	chain	Galmir	50	55	already-in-log-or-done				
+r1	7100	completed	chain	Quinon	50	151	already-in-log-or-done				
+r1	7101	completed	root	Galmir	50	126	already-in-log-or-done				
+r2	7110	completed	chain	Pelwen	9	35	already-in-log			synthetic 1:17	
+r1	7151	completed	root	Lyrix	43	242	prereq-quests				
+r1	7161	completed	root	Pelfen	42	6	prereq-quests				
+r1	7162	completed	chain	Pelfen	42	89	candidate				
+r1	7163	stalled	chain	Pelfen	42	460	already-in-log-or-done	0:32:327:11/30*	objective 13228 type 32 data 327 11/30 | last trace: targets kill [34738,34878,34879,34880,34881,34882,61813] activate [] talk [] in world 1061		
+r1	7164	completed	prereq-bypass	Pelfen	42	11	prereq-quests				
+r1	7172	completed	root	Faelvek97	42	11	prereq-quests				
+r1	7176	completed	root	Branmar	42	58	prereq-quests				
+r1	7180	completed	root	Horan	42	42	prereq-quests				
+r1	7210	completed	root	Faelvek97	41	120	prereq-quests				
+r1	7211	completed	root	Galsha	41	123	prereq-quests				
+r1	7212	completed	chain	Galsha	41	70	already-in-log-or-done				
+r1	7350	completed	root	Horan	20	12	prereq-quests				
+r1	7371	completed	chain	Horan	45	105	already-in-log-or-done				
+r1	7372	completed	root	Horan	45	28	already-in-log-or-done			event-gave-up 1:25	
+r1	7373	completed	chain	Horan	45	329	already-in-log-or-done				
+r1	7374	completed	chain	Horan	45	105	already-in-log-or-done				
+r1	7375	completed	chain	Horan	45	24	already-in-log-or-done			synthetic 0:17	
+r2	7378	completed	prereq-bypass	Ulmkai	45	6	prereq-quests				
+r2	7379	completed	prereq-bypass	Ulmwyn	45	5	prereq-quests				
+r1	7382	completed	chain	Grimus	45	71	candidate				
+r1	7383	completed	chain	Horan	45	332	already-in-log-or-done				
+r1	7404	completed	root	Zaryth	45	16	prereq-quests			event-gave-up 0:25	
+r1	7405	completed	chain	Zaryth	45	332	already-in-log-or-done				
+r1	7406	completed	root	Ithbel	45	256	prereq-quests				
+r1	7407	completed	chain	Zaryth	45	86	already-in-log-or-done				
+r1	7409	completed	chain	Zaryth	45	5	already-in-log-or-done				
+r1	7410	completed	chain	Zaryth	45	73	candidate				
+r1	7411	completed	chain	Zaryth	45	35	already-in-log-or-done				
+r1	7412	completed	chain	Zaryth	44	18	already-in-log-or-done				
+r1	7413	completed	root	Caeleth	45	11	already-in-log-or-done				
+r1	7414	completed	chain	Caeleth	45	17	already-in-log-or-done				
+r1	7417	completed	prereq-bypass	Lyrix	44	11	prereq-quests				
+r2	7418	completed	root	Drakai	44	15	prereq-quests				
+r1	7431	stalled	root	Brancor	44	433	prereq-quests	0:32:823:12/12 1:2:36005:333/1000*	objective 13725 type 32 data 823 12/12; objective 13726 type 2 data 36005 333/1000 | last trace: targets kill [36005] activate [] talk [] in world 1061		
+r1	7438	completed	root	Morwyn	50	58	prereq-quests				
+r1	7440	completed	root	Xanrin	50	58	prereq-quests				
+r1	7441	completed	chain	Xanrin	50	129	already-in-log-or-done				
+r1	7540	stalled	chain	Quinion	4	361	already-in-log-or-done	0:24:6305:0/1* 1:24:6306:0/1*	objective 13654 type 24 data 6305 0/1; objective 13655 type 24 data 6306 0/1 | last trace: no creature targets; open objectives: 13654 type 24 data 6305 0/1; 13655 type 24 data 6306 0/1		
+r2	7590	completed	prereq-bypass	Faelvek97	10	6	prereq-quests				
+r2	7597	completed	prereq-bypass	Pelmar	14	62	prereq-quests				
+r1	7635	completed	chain	Galmir	12	84	candidate				
+r3	7658	completed	root	Zarlas	20	18	prereq-quests				
+r1	7665	completed	root	Wyndar	46	22	already-in-log-or-done			synthetic 0:17	
+r1	7682	completed	chain	Pelmar	48	60	already-in-log-or-done				
+r1	7683	completed	chain	Pelmar	48	224	already-in-log-or-done				
+r1	7684	completed	chain	Pelmar	48	12	already-in-log-or-done				
+r1	7685	completed	prereq-bypass	Pelmar	48	62	prereq-quests				
+r1	7688	completed	root	Aerara	48	12	prereq-quests				
+r1	7689	completed	chain	Aerara	48	21	already-in-log-or-done				
+r1	7690	completed	chain	Aerara	48	16	already-in-log-or-done				
+r1	7691	completed	chain	Aerara	48	63	already-in-log-or-done				
+r1	7707	completed	root	Wyndar	47	17	already-in-log-or-done				
+r1	7708	completed	chain	Wyndar	47	17	already-in-log-or-done				
+r1	7710	completed	chain	Wyndar	47	72	already-in-log-or-done				reward-pane
+r1	7716	completed	chain	Caelyth	30	6	already-in-log-or-done				
+r1	7724	completed	root	Caeleth	30	38	already-in-log-or-done				
+r1	7725	completed	root	Xanus	30	38	prereq-quests				
+r1	7726	completed	chain	Caeleth	30	56	already-in-log-or-done				
+r1	7727	completed	chain	Xanus	30	63	already-in-log-or-done				
+r1	7742	completed	root	Orlsha	30	228	prereq-quests				
+r1	7743	completed	root	Branmar	30	220	prereq-quests				
+r1	7744	completed	chain	Orlsha	30	33	already-in-log-or-done			event-gave-up 2:25	
+r1	7745	completed	chain	Branmar	30	28	already-in-log-or-done			synthetic 2:25	
+r1	7750	completed	root	Morwyn	39	28	prereq-quests				
+r1	7753	completed	chain	Morwyn	39	12	already-in-log-or-done			event-gave-up 0:25	
+r2	7754	completed	prereq-bypass	Branmar	39	51	prereq-quests			synthetic 2:5	
+r1	7757	completed	root	Eskwyn	39	210	already-in-log-or-done				
+r1	7763	completed	root	Dovor	40	10	already-in-log-or-done			synthetic 0:25	
+r1	7792	completed	root	Ulmkai	40	23	prereq-quests				
+r1	7794	completed	chain	Ulmkai	40	6	already-in-log-or-done				
+r3	7797	completed	root	Ithric	44	148	candidate				reward-pane
+r2	7799	completed	prereq-bypass	Xanrin	44	142	prereq-quests				
+r2	7800	completed	prereq-bypass	Galsha	44	15	prereq-quests				
+r2	7801	completed	prereq-bypass	Caeleth	44	96	prereq-quests				
+r3	7803	completed	root	Yorwen	44	11	candidate				
+r2	7805	completed	prereq-bypass	Hordar	44	59	prereq-quests				
+r2	7814	completed	prereq-bypass	Ulmkai	45	75	prereq-quests				
+r1	7820	completed	root	Orlvek	45	99	already-in-log-or-done				
+r1	7821	completed	root	Morwyn	45	81	prereq-quests				
+r1	7822	completed	root	Dovor	45	20	prereq-quests			synthetic 0:32	
+r1	7823	completed	root	Sylwen	45	17	already-in-log-or-done			synthetic 0:32	
+r1	7824	completed	chain	Orlvek	45	12	already-in-log-or-done				
+r1	7825	completed	chain	Morwyn	45	10	already-in-log-or-done				
+r1	7826	completed	prereq-bypass	Dovor	45	224	prereq-quests			synthetic 3:5	
+r1	7827	completed	root	Orldal	45	134	prereq-id				
+r1	7828	completed	root	Xanus	45	140	prereq-id				
+r2	7837	completed	root	Ralric	46	25	prereq-quests			synthetic 1:32	
+r1	7839	completed	chain	Hordar	46	14	candidate			synthetic 0:32,synthetic 1:32	
+r1	7840	completed	chain	Hordar	46	208	already-in-log-or-done				
+r1	7841	completed	chain	Hordar	46	39	candidate				
+r1	7842	completed	chain	Hordar	46	12	already-in-log-or-done				
+r1	7843	completed	root	Eldmar	46	5	prereq-id				
+r1	7846	completed	chain	Hordar	46	31	already-in-log-or-done				
+r1	7851	completed	prereq-bypass	Sylwen	45	120	prereq-quests				
+r1	7860	completed	root	Caelyth	29	48	prereq-quests				
+r1	7861	completed	root	Moran	29	47	prereq-quests				
+r1	7864	completed	prereq-bypass	Caelyth	29	24	prereq-quests				
+r1	7865	completed	prereq-bypass	Moran	29	11	prereq-quests				
+r1	7866	completed	chain	Orlsha	31	5	already-in-log-or-done				
+r1	7867	completed	chain	Branmar	31	6	already-in-log-or-done				
+r1	7875	completed	root	Fenion	31	71	already-in-log-or-done				
+r1	7876	completed	root	Ulmkai	31	40	prereq-quests				
+r1	7877	completed	root	Quinon	31	29	prereq-quests				
+r1	7884	completed	root	Eldmar	31	5	prereq-quests				
+r1	7885	completed	chain	Fenion	31	16	already-in-log-or-done				
+r1	7898	completed	chain	Wyndar	47	95	already-in-log-or-done				
+r1	7899	completed	chain	Wyndar	47	70	already-in-log-or-done				
+r1	7917	completed	chain	Caelyth	29	6	candidate				
+r1	7918	completed	chain	Caelyth	29	132	candidate				
+r1	7919	completed	chain	Caelyth	29	131	candidate				
+r1	7920	completed	chain	Caelyth	29	127	already-in-log-or-done				
+r1	7921	completed	chain	Caelyth	29	32	already-in-log-or-done				
+r1	7922	completed	prereq-bypass	Caelyth	29	22	prereq-quests				
+r1	7925	completed	chain	Caelyth	29	72	already-in-log-or-done				
+r1	7938	completed	chain	Eldmar	31	5	already-in-log-or-done				
+r1	7941	completed	chain	Galmir	31	32	already-in-log-or-done				
+r1	7942	completed	root	Galmir	31	134	already-in-log-or-done				
+r1	7943	stalled	chain	Galmir	31	363	already-in-log-or-done	0:2:38253:0/1* 1:12:40061:0/1*	objective 14268 type 2 data 38253 0/1; objective 15688 type 12 data 40061 0/1 | last trace: targets kill [38253] activate [] talk [] in world 1421		
+r1	7963	completed	root	Hordar	46	5	already-in-log-or-done				
+r1	7977	completed	chain	Sylwen	38	5	candidate				
+r1	7978	completed	root	Morwyn	39	6	prereq-id				
+r1	7990	completed	chain	Moran	29	6	already-in-log-or-done				
+r1	7993	completed	chain	Moran	29	85	candidate				
+r1	7994	completed	chain	Moran	29	119	already-in-log-or-done				
+r1	7995	completed	chain	Moran	29	116	already-in-log-or-done				
+r1	7996	completed	chain	Moran	29	40	already-in-log-or-done				
+r1	7997	completed	prereq-bypass	Moran	29	22	prereq-quests				
+r1	8000	completed	chain	Moran	29	67	already-in-log-or-done				indicator
+r1	8003	completed	chain	Dovor	45	83	already-in-log-or-done				
+r1	8004	completed	chain	Fenion	31	6	already-in-log-or-done				
+r1	8007	completed	chain	Morwyn	31	37	already-in-log-or-done				
+r1	8008	completed	root	Morwyn	31	185	prereq-quests				
+r1	8009	completed	chain	Morwyn	31	115	already-in-log-or-done				
+r1	8012	completed	chain	Morwyn	32	23	already-in-log-or-done			synthetic 0:17,synthetic 1:17,synthetic 2:17	
+r1	8033	completed	root	Eldmar	47	15	already-in-log-or-done				
+r1	8034	completed	chain	Eldmar	47	16	already-in-log-or-done				
+r1	8036	completed	chain	Eldmar	47	71	already-in-log-or-done				reward-pane
+r1	8042	completed	chain	Eldmar	47	94	already-in-log-or-done				
+r1	8043	completed	chain	Eldmar	47	238	already-in-log-or-done				
+r1	8055	completed	root	Ithric	46	21	already-in-log-or-done			synthetic 0:17	
+r1	8060	completed	root	Ulmkai	39	5	prereq-id				
+r1	8062	completed	root	Ithric	39	223	already-in-log-or-done				
+r1	8064	completed	root	Caeleth	39	28	prereq-quests				
+r2	8074	completed	prereq-bypass	Galmir	44	6	prereq-quests				
+r1	8075	completed	chain	Caeleth	39	14	already-in-log-or-done			event-gave-up 0:25	
+r2	8077	completed	prereq-bypass	Faelvek97	39	41	prereq-quests			synthetic 2:5	
+r1	8078	completed	chain	Dovor	45	5	already-in-log-or-done				
+r1	8079	completed	chain	Sylwen	45	6	already-in-log-or-done				
+r1	8080	completed	chain	Sylwen	45	87	already-in-log-or-done				
+r2	8081	completed	prereq-bypass	Dovzul	44	5	prereq-quests				
+r2	8082	completed	prereq-bypass	Galmir	44	5	prereq-quests				
+r1	8096	completed	root	Ulmkai	48	111	prereq-quests				
+r1	8097	completed	chain	Ulmkai	48	204	already-in-log-or-done				
+r1	8098	completed	chain	Ulmkai	48	17	already-in-log-or-done				
+r1	8099	completed	prereq-bypass	Galsha	48	59	prereq-quests				
+r1	8102	completed	root	Galsha	48	16	already-in-log-or-done				
+r1	8103	completed	chain	Galsha	48	26	already-in-log-or-done				
+r1	8104	completed	chain	Galsha	48	11	already-in-log-or-done				
+r1	8105	completed	chain	Galsha	48	58	already-in-log-or-done				
+r1	8112	completed	chain	Eskwyn	36	336	already-in-log-or-done				
+r1	8155	completed	root	Lyrix	49	91	prereq-quests				
+r1	8158	completed	prereq-bypass	Lyrix	49	76	prereq-quests				
+r1	8161	completed	root	Orlvek	49	210	already-in-log-or-done				
+r1	8168	completed	root	Pelion	34	214	prereq-quests				
+r3	8169	completed	root	Caelyth	34	118	prereq-quests				
+r2	8170	completed	prereq-bypass	Ithwen	34	59	prereq-quests				
+r2	8171	completed	prereq-bypass	Galsha	35	31	prereq-quests			event-gave-up 1:25	
+r2	8172	completed	prereq-bypass	Lyrix	35	12	prereq-quests				
+r3	8179	completed	root	Branmar	38	44	candidate				
+r2	8181	completed	prereq-bypass	Quinion	38	16	prereq-quests			synthetic 0:15	unknown10
+r2	8184	completed	prereq-bypass	Galmir	30	195	prereq-quests			synthetic 0:11	
+r2	8186	completed	prereq-bypass	Faellyn	30	10	prereq-quests			synthetic 0:25	
+r1	8191	completed	root	Hortan	37	93	prereq-quests				
+r1	8192	completed	chain	Hortan	37	61	already-in-log-or-done				
+r1	8193	completed	chain	Hortan	37	116	already-in-log-or-done				
+r1	8194	completed	chain	Hortan	37	372	already-in-log-or-done			synthetic 0:11	
+r1	8195	completed	chain	Hortan	37	157	already-in-log-or-done				
+r2	8198	completed	prereq-bypass	Wyndar	37	86	prereq-quests				
+r2	8199	completed	prereq-bypass	Ulmwyn	37	147	prereq-quests				
+r2	8200	completed	prereq-bypass	Nyxlas	37	119	prereq-quests				
+r2	8201	completed	prereq-bypass	Zarlas	37	382	prereq-quests			synthetic 0:11	
+r2	8202	completed	prereq-bypass	Dovzul	37	196	prereq-quests				
+r1	8204	completed	root	Orldal	28	10	prereq-id			synthetic 0:17	
+r2	8211	completed	prereq-bypass	Orlvek	28	11	prereq-quests			synthetic 0:32,synthetic 1:32	
+r1	8215	completed	root	Xanrin	37	194	prereq-quests				
+r1	8216	completed	prereq-bypass	Xanrin	37	11	prereq-quests				
+r2	8220	completed	prereq-bypass	Ithbel	37	5	prereq-quests				
+r2	8221	completed	prereq-bypass	Lyrix	29	14	prereq-quests			synthetic 0:25	
+r1	8233	completed	chain	Orldal	37	6	already-in-log-or-done				
+r2	8249	completed	root	Nyxzul	34	66	prereq-quests				
+r1	8250	completed	chain	Xanrin	34	59	already-in-log-or-done				
+r2	8251	completed	prereq-bypass	Horan	34	31	prereq-quests				
+r2	8256	completed	prereq-bypass	Quinion	29	10	prereq-quests			synthetic 0:28,synthetic 1:32	
+r4	8258	stalled	root	Pelfen	29	363	prereq-quests	0:25:467:0/1*	objective 15000 type 25 data 467 0/1 | last trace: targets kill [37962,38295,37963,38297,58620,39863,39873,39644] activate [] talk [] in world 1061		
+r2	8261	completed	prereq-bypass	Faellyn	29	11	prereq-quests			synthetic 0:32	
+r1	8353	completed	root	Orldal	49	5	prereq-quests				
+r4	8357	timeout	root	Wyndar	50	901	prereq-quests	0:22:4996:1/1 1:36:66920:21/75*	no creature targets; open objectives: 15042 type 36 data 66920 21/75	synthetic 0:22	
+r2	8442	completed	prereq-bypass	Morzen	34	26	prereq-quests			synthetic 1:25	
+r1	8447	completed	root	Orldal	35	35	already-in-log-or-done				indicator
+r1	8448	completed	chain	Orldal	35	17	already-in-log-or-done			synthetic 0:5	
+r2	8485	completed	prereq-bypass	Faelvek97	29	14	prereq-quests			synthetic 0:32	
+r3	8486	completed	root	Pelfen	29	351	prereq-quests				
+r1	8539	completed	root	Pelmar	48	59	already-in-log-or-done				
+r1	8549	completed	chain	Grimus	45	351	already-in-log-or-done				
+r2	8550	completed	root	Xanus	45	477	prereq-quests				
+r2	8551	completed	chain	Yorwyn	45	21	candidate			synthetic 0:17	
+r1	8568	completed	root	Grimus	45	23	prereq-quests			event-gave-up 1:25	
+r1	8569	completed	chain	Grimus	45	190	already-in-log-or-done				
+r2	8570	completed	root	Yorwyn	45	117	prereq-quests				
+r1	8572	completed	root	Quinon	28	15	prereq-id			synthetic 0:17	
+r1	8574	completed	root	Morrin	48	27	already-in-log-or-done			synthetic 0:25,synthetic 1:25,synthetic 2:25,event-gave-up 3:25	
+r1	8581	completed	chain	Morrin	48	11	already-in-log-or-done				
+r1	8582	completed	chain	Morzen	49	90	already-in-log-or-done				
+r1	8598	completed	chain	Morzen	49	22	already-in-log-or-done				
+r1	8599	completed	chain	Morzen	49	61	already-in-log-or-done				
+r1	8600	completed	chain	Morzen	49	61	already-in-log-or-done				
+r2	8668	completed	chain	Pelfen	34	258	already-in-log				
+r2	8729	completed	chain	Sylwen	34	178	already-in-log				
+r1	8750	completed	chain	Pelion	13	22	already-in-log-or-done				
+r2	8759	completed	prereq-bypass	Lyrix	9	27	prereq-quests			synthetic 1:5	
+r2	8800	completed	prereq-bypass	Quinion	22	31	prereq-quests			synthetic 1:17	
+r1	8826	completed	chain	Moran	4	13	already-in-log-or-done				
+r2	8913	completed	prereq-bypass	Faellyn	3	70	prereq-quests				
+r4	8923	stalled	root	Hortan	50	361	prereq-id row 2968 t52 Equal v1 o0	0:14:7055:0/1* 1:14:7055:0/1* 2:14:7055:0/1* 3:14:7055:0/1*	objective 16043 type 14 data 7055 0/1; objective 16045 type 14 data 7055 0/1; objective 16046 type 14 data 7055 0/1; objective 16047 type 14 data 7055 0/1 | last trace: activating creature 49836: not cast (cooldown or prerequisite)		
+r1	8939	completed	chain	Wyndar	47	15	candidate			synthetic 0:11	
+r1	8945	completed	chain	Eldmar	47	11	already-in-log-or-done			event-gave-up 0:25	
+r1	8984	completed	root	Morzen	48	22	already-in-log-or-done			event-gave-up 0:25,event-gave-up 1:25,event-gave-up 2:25,event-gave-up 3:25	
+r1	8987	completed	chain	Morzen	48	10	already-in-log-or-done				
+r1	8988	completed	chain	Morzen	49	26	already-in-log-or-done				
+r4	8993	stalled	root	Ithric	50	424	candidate	0:17:2872:1/1 1:12:52465:1/1 2:10:1:1/5* 3:12:52465:0/1* 4:25:566:0/1* 5:22:6674:0/1*	objective 16260 type 17 data 2872 1/1; objective 18157 type 12 data 52465 1/1; objective 16257 type 10 data 1 1/5; objective 16258 type 12 data 52465 0/1; objective 16259 type 25 data 566 0/1; objective 16289 type 22 data 6674 0/1 | last trace: no creature targets; open objectives: 16257 type 10 data 1 1/5; 16258 type 12 data 52465 0/1 waits; 16259 type 25 data 566 0/1 waits; 16289 type 22 data 6674 0/1 waits		unknown10
+r4	8995	stalled	root	Caelyth	50	646	prereq-quests	0:17:2938:1/1 1:32:919:13/20* 2:12:52586:0/1*	objective 16339 type 17 data 2938 1/1; objective 16262 type 32 data 919 13/20; objective 16299 type 12 data 52586 0/1 | last trace: targets kill [52010,63178] activate [52571,52586] talk [] in world 1061	synthetic 0:17	
+r2	8996	completed	prereq-bypass	Faelvek97	50	238	prereq-quests			synthetic 0:17	
+r2	8997	completed	prereq-bypass	Caelyth	50	55	prereq-quests			synthetic 0:17	
+r2	8998	completed	prereq-bypass	Ithric	50	21	prereq-quests				
+r1	9006	completed	root	Zarlas	50	65	prereq-quests			synthetic 0:17	
+r1	9007	completed	chain	Zarlas	50	22	already-in-log-or-done				
+r4	9014	stalled	root	Morzen	50	404	candidate	0:10:7933:1/5* 1:17:2860:0/1*	objective 16300 type 10 data 7933 1/5; objective 16268 type 17 data 2860 0/1 | last trace: activating creature 52589: cast		unknown10
+r4	9016	timeout	root	Lyrix	50	900	prereq-quests	0:32:913:15/50* 1:32:914:0/50* 2:32:915:50/50 3:32:916:0/50* 4:32:917:0/50* 5:32:918:1/50*	kill target 51967 at 143 m (dy -142), dead False, health 270256/270256, faction 845		
+r2	9017	completed	prereq-bypass	Ithwen	50	154	prereq-quests				
+r4	9030	stalled	root	Caeleth	10	363	already-in-log	0:3:32296:0/1* 1:5:0:1/1 2:4:14700:0/5*	objective 16234 type 3 data 32296 0/1; objective 16240 type 5 data 0 1/1; objective 16236 type 4 data 14700 0/5 | last trace: no kill target [29552] within 300 m		
+r1	9051	completed	chain	Ralric	2	34	already-in-log-or-done			synthetic 2:5	
+r1	9053	completed	root	Lyrix	50	34	prereq-quests				
+r1	9054	timeout	root	Ithwen	50	482	already-in-log-or-done	0:32:934:10/10 1:8:9004:250/1000*	targets kill [52469,52471,62865,63729,52472,52477,52478,62866] activate [] talk [] in world 1061		
+r1	9055	completed	root	Quinon	50	60	prereq-quests				
+r1	9057	completed	chain	Quinon	50	116	already-in-log-or-done				
+r1	9061	completed	root	Ithric	50	246	prereq-quests				
+r1	9062	completed	chain	Quinon	50	26	already-in-log-or-done			synthetic 1:10	unknown10
+r1	9063	completed	chain	Quinon	50	363	already-in-log-or-done			synthetic 1:17	
+r1	9064	completed	chain	Quinon	50	135	already-in-log-or-done				
+r4	9065	stalled	root	Ithbel	10	378	candidate	0:3:26963:0/1* 1:5:0:1/1 2:4:14700:0/5*	objective 16330 type 3 data 26963 0/1; objective 16331 type 5 data 0 1/1; objective 16332 type 4 data 14700 0/5 | last trace: no kill target [29552] within 300 m	synthetic 1:5	
+r4	9066	stalled	root	Fenion	10	363	already-in-log	0:3:32310:1/1 1:5:0:1/1 2:4:14700:0/5*	objective 16333 type 3 data 32310 1/1; objective 16334 type 5 data 0 1/1; objective 16335 type 4 data 14700 0/5 | last trace: no kill target [29552] within 300 m		
+r1	9068	completed	prereq-bypass	Ithric	50	33	already-in-log-or-done			synthetic 0:5,synthetic 2:5	
+r2	9073	completed	chain	Zaryth	12	20	already-in-log				
+r4	9077	stalled	root	Yorara	10	380	candidate	0:3:32309:0/1* 1:5:0:1/1 2:4:14781:0/5*	objective 16378 type 3 data 32309 0/1; objective 16379 type 5 data 0 1/1; objective 16380 type 4 data 14781 0/5 | last trace: no kill target [19308,20997,26369,35216,37643,37648,61508,32684] within 300 m	synthetic 1:5	
+r4	9083	stalled	root	Horan	14	364	candidate	0:4:34058:0/1*	objective 16431 type 4 data 34058 0/1 | last trace: activating creature 53310: cast		
+r4	9102	stalled	root	Quinon	14	361	candidate	0:4:34058:0/1*	objective 16446 type 4 data 34058 0/1 | last trace: activating creature 53449: cast		
+r2	9112	completed	chain	Brancor	3	6	candidate				
+r2	9113	completed	prereq-bypass	Morzen	3	5	prereq-quests				
+r2	9116	completed	prereq-bypass	Ulmkai	4	6	prereq-quests				
+r1	9119	completed	root	Orlvek	50	59	prereq-quests				
+r1	9120	completed	chain	Orlvek	50	126	already-in-log-or-done				
+r1	9121	completed	chain	Orlvek	50	26	already-in-log-or-done			synthetic 1:10	unknown10
+r1	9122	completed	chain	Orlvek	50	333	already-in-log-or-done			synthetic 1:17	
+r1	9123	completed	chain	Orlvek	50	139	already-in-log-or-done				
+r1	9126	completed	chain	Ralric	3	5	already-in-log-or-done				
+r1	9127	completed	chain	Ralric	3	5	candidate				
+r1	9130	completed	chain	Ralric	3	5	already-in-log-or-done				
+r1	9131	completed	chain	Ralric	3	6	already-in-log-or-done				
+r1	9132	completed	chain	Ralric	3	6	prereq-id				
+r1	9133	completed	chain	Ralric	3	6	prereq-id				
+r1	9134	completed	chain	Ralric	3	6	prereq-id				
+r1	9135	completed	chain	Ralric	3	5	prereq-id				
+r1	9149	completed	chain	Quinon	50	83	already-in-log-or-done			synthetic 1:32,synthetic 3:32	
+r1	9152	completed	chain	Quinon	50	21	already-in-log-or-done				
+r1	9161	completed	chain	Orlvek	50	106	already-in-log-or-done			synthetic 1:32,synthetic 3:32	
+r1	9162	completed	chain	Orlvek	50	114	already-in-log-or-done				
+r2	9177	completed	prereq-bypass	Brancor	50	10	prereq-quests			event-gave-up 0:25,event-gave-up 1:25	
+r2	9178	completed	prereq-bypass	Eldmar	50	117	prereq-quests				
+r2	9179	completed	prereq-bypass	Morzen	50	251	prereq-quests				
+r2	9180	completed	prereq-bypass	Lyrix	50	69	prereq-quests				
+r2	9184	completed	root	Ralric	50	76	prereq-quests				
+r2	9185	completed	chain	Ralric	50	235	candidate				
+r1	9194	completed	root	Dovor	50	42	prereq-quests				
+r1	9195	completed	chain	Dovor	50	125	already-in-log-or-done				
+r2	9206	completed	prereq-bypass	Zaryth	50	143	prereq-quests				
+r1	9287	completed	root	Yorwyn	50	197	prereq-quests				
+r1	9288	completed	chain	Yorwyn	50	45	prereq-id			synthetic 2:10	unknown10
+r4	9317	stalled	root	Ithwen	50	375	candidate	0:3:56940:1/1 1:2:55019:0/1*	objective 18827 type 3 data 56940 1/1; objective 18374 type 2 data 55019 0/1 | last trace: targets kill [55019] activate [] talk [] in world 1061		
+r4	9322	stalled	root	Zarlas	50	421	candidate	0:3:56939:1/1 1:2:55019:0/1*	objective 18828 type 3 data 56939 1/1; objective 18373 type 2 data 55019 0/1 | last trace: targets kill [55019] activate [] talk [] in world 1061		
+r2	9398	completed	prereq-bypass	Drakai	50	33	prereq-quests				
+r1	9407	completed	chain	Aerara	48	462	already-in-log-or-done				
+r1	9408	completed	chain	Galsha	48	164	already-in-log-or-done				
+r1	9413	completed	chain	Wyndar	47	6	already-in-log-or-done				
+r1	9414	completed	chain	Wyndar	47	147	already-in-log-or-done				
+r1	9416	completed	chain	Eldmar	47	5	already-in-log-or-done				
+r1	9417	completed	chain	Eldmar	47	117	candidate				
+r1	9434	completed	root	Faelvek97	39	6	prereq-id				
+r2	9439	completed	prereq-bypass	Fenion	1	87	prereq-quests			synthetic 2:5	
+r2	9442	completed	prereq-bypass	Ulmkai	1	40	prereq-quests			synthetic 2:5	
+r2	9443	completed	prereq-bypass	Yorwen	1	11	prereq-quests				
+r1	9444	completed	chain	Sylwen	39	5	prereq-id				
+r2	9445	completed	prereq-bypass	Quinion	1	10	prereq-quests				
+r1	9493	completed	root	Hordar	50	35	prereq-quests			synthetic 1:5,event-gave-up 2:25,synthetic 3:5	
+r4	9495	stalled	root	Xanrin	12	508	candidate	0:4:40490:2/20* 1:5:0:0/3*	objective 18136 type 4 data 40490 2/20; objective 18137 type 5 data 0 0/3 | last trace: targets kill [57033,57046,53091,56464,30497,30498,31667,31674] activate [] talk [] in world 1658		
+r2	9552	completed	prereq-bypass	Caeleth	3	27	prereq-quests				
+r2	9555	completed	prereq-bypass	Brancor	3	25	prereq-quests				
+r1	9556	completed	chain	Ralric	3	69	already-in-log-or-done				
+r1	9557	completed	chain	Ralric	3	22	prereq-id				
+r2	9656	completed	chain	Quinon	50	80	already-in-log			synthetic 3:32	
+r2	9657	completed	prereq-bypass	Eskwyn	50	16	prereq-quests			synthetic 0:32	
+r2	9658	completed	prereq-bypass	Xanus	50	78	prereq-quests				
+r2	9680	completed	chain	Morwyn	50	57	already-in-log				
+r2	9681	completed	chain	Morwyn	50	70	periodic-offered				
+r2	9690	completed	prereq-bypass	Vexmar	50	17	prereq-quests			synthetic 1:22	
+r1	9707	completed	root	Brancor	50	5	prereq-id				
+r1	9708	completed	chain	Brancor	50	5	candidate				
+r1	9709	completed	chain	Brancor	50	5	already-in-log-or-done				
+r1	9710	completed	chain	Brancor	50	6	candidate				
+r1	9711	completed	chain	Brancor	50	5	already-in-log-or-done				
+r1	9712	completed	chain	Brancor	50	14	candidate			synthetic 0:5	
+r1	9716	completed	chain	Brancor	50	28	already-in-log-or-done			synthetic 0:17,synthetic 2:17	
+r1	9723	completed	root	Branmar	50	5	prereq-id				
+r1	9724	completed	chain	Branmar	50	5	already-in-log-or-done				
+r1	9725	completed	chain	Branmar	50	5	candidate				
+r1	9726	completed	chain	Branmar	50	5	already-in-log-or-done				
+r1	9727	completed	chain	Branmar	50	5	candidate				
+r1	9728	completed	chain	Branmar	50	11	already-in-log-or-done			synthetic 0:5	
+r1	9729	completed	chain	Branmar	50	38	already-in-log-or-done			synthetic 0:17,synthetic 2:17	
+r1	9730	completed	chain	Aerara	50	39	already-in-log-or-done				
+r1	9731	completed	chain	Morzen	50	37	already-in-log-or-done				
+r1	9736	stalled	root	Nyxzul	25	362	candidate	0:8:3843:0/1*	objective 18648 type 8 data 3843 0/1 | last trace: targets kill [32531,32533] activate [] talk [] in world 1421		
+r2	9773	completed	prereq-bypass	Morwyn	50	6	prereq-quests				
+r2	9774	completed	prereq-bypass	Ithric	50	6	prereq-quests				
+r1	9783	completed	chain	Aerara	50	11	already-in-log-or-done				
+r1	9784	completed	prereq-bypass	Morzen	50	11	prereq-quests				
+r2	9805	completed	prereq-bypass	Quinion	50	5	prereq-quests				
+r2	9810	completed	prereq-bypass	Quinon	50	6	prereq-quests				
+r2	9812	completed	prereq-bypass	Yorwen	50	5	prereq-quests				
+r1	9840	completed	root	Hordar	50	238	prereq-quests				
+r1	9841	completed	chain	Hordar	50	43	prereq-id			synthetic 2:10	unknown10
+r1	9876	completed	chain	Morrin	13	21	candidate			synthetic 0:17	
+r2	9877	completed	prereq-bypass	Morwyn	13	23	prereq-quests			synthetic 0:17	
+r1	9905	completed	root	Dovzul	14	22	prereq-quests			synthetic 0:17	
+r2	9954	completed	root	Yorwyn	50	135	prereq-quests				
+r1	9955	completed	chain	Dovor	50	175	already-in-log-or-done				
+r1	9960	completed	root	Pelfen	50	16	already-in-log-or-done				
+r1	9961	completed	chain	Pelfen	50	60	already-in-log-or-done				
+r2	10079	completed	prereq-bypass	Ithric	50	13	prereq-quests				
+r2	10080	completed	prereq-bypass	Quinon	50	11	prereq-quests				
+r2	10412	completed	prereq-bypass	Quinion	50	423	prereq-quests				
+r2	10413	completed	prereq-bypass	Vexmar	50	33	prereq-quests				
+r2	10423	completed	prereq-bypass	Eskwyn	50	393	prereq-quests				
+r2	10424	completed	prereq-bypass	Branmar	50	11	prereq-quests				
+r2	10436	completed	prereq-bypass	Caeleth	50	5	prereq-quests				
+r2	10437	completed	prereq-bypass	Caelyth	50	5	prereq-quests				
+r2	10438	completed	prereq-bypass	Ithric	50	5	prereq-quests				
+r2	10439	completed	prereq-bypass	Brancor	50	12	prereq-quests			synthetic 0:17,synthetic 1:5	
+r2	10443	completed	prereq-bypass	Yorwen	50	6	prereq-quests				
+r2	10444	completed	prereq-bypass	Vexcor	50	5	prereq-quests				
+r2	10445	completed	prereq-bypass	Drakai	50	11	prereq-quests			synthetic 0:17,synthetic 1:5	
+r1	10493	completed	root	Ulmkai	50	28	prereq-quests			synthetic 1:5	
+r1	10494	completed	root	Pelwen	50	27	already-in-log-or-done			synthetic 1:5	
+r1	10495	completed	chain	Ulmkai	50	12	already-in-log-or-done			synthetic 0:5	
+r1	10497	completed	chain	Pelwen	50	10	already-in-log-or-done			synthetic 0:5	
+r1	10498	completed	chain	Ulmkai	50	12	already-in-log-or-done			synthetic 0:22	
+r1	10499	completed	chain	Pelwen	50	11	already-in-log-or-done			synthetic 0:22	
+r1	10500	completed	chain	Ulmkai	50	11	already-in-log-or-done			synthetic 0:5,synthetic 1:5	
+r1	10501	completed	chain	Pelwen	50	14	already-in-log-or-done			synthetic 0:5,synthetic 1:5	
+r4	10502	stalled	root	Quinmir	10	361	candidate	0:24:10503:1/1 1:24:10504:0/1* 2:24:10505:0/1* 3:24:10506:0/1*	objective 21208 type 24 data 10503 1/1; objective 21209 type 24 data 10504 0/1; objective 21210 type 24 data 10505 0/1; objective 21211 type 24 data 10506 0/1 | last trace: targets kill [] activate [1] talk [] in world 22		
+r1	10510	completed	root	Xanrin	3	15	prereq-id			synthetic 0:5	
+r3	10518	completed	root	Dovor	2	69	already-in-log				
+r2	10519	completed	prereq-bypass	Faellyn	2	82	prereq-quests				
+r3	10520	completed	root	Eldmar	3	78	prereq-quests			synthetic 4:17	
+r2	10522	completed	prereq-bypass	Yorwen	2	31	prereq-quests				
+r3	10523	completed	root	Nyxlas	3	76	prereq-quests			synthetic 4:17	
+r2	10525	completed	prereq-bypass	Caelyth	2	88	prereq-quests			synthetic 0:17	
+r2	10526	completed	prereq-bypass	Vexcor	2	79	prereq-quests			synthetic 0:17	
+r2	10528	completed	prereq-bypass	Caeleth	3	86	prereq-quests				
+r2	10530	completed	prereq-bypass	Quinon	3	144	prereq-quests				
+r4	10535	stalled	root	Orldal	10	387	candidate	0:24:10536:1/1 1:24:10537:0/1* 2:24:10538:0/1* 3:24:10539:0/1*	objective 21363 type 24 data 10536 1/1; objective 21364 type 24 data 10537 0/1; objective 21365 type 24 data 10538 0/1; objective 21366 type 24 data 10539 0/1 | last trace: targets kill [] activate [1] talk [] in world 426		
+r2	10589	completed	prereq-bypass	Ithric	50	72	prereq-quests				
+r2	10590	completed	prereq-bypass	Xanrin	50	141	prereq-quests			synthetic 0:17	
+r2	10594	completed	prereq-bypass	Branmar	50	139	prereq-quests				
+r2	10599	completed	prereq-bypass	Aerara	50	164	prereq-quests				

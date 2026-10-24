@@ -1,0 +1,52 @@
+[
+ {
+  "boss": "Kuralak the Defiler",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Vanish into Darkness",
+      "first": 8,
+      "every": 47.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Chromosome Corruption",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 74,
+    "abilities": [
+     {
+      "spell": "Vanish into Darkness",
+      "first": 8,
+      "every": 47.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Chromosome Corruption",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "likely",
+  "timerSources": {
+   "Vanish into Darkness every": "every: raidcore [47.0], drusera [50.0], lui [47.0] -> agree"
+  },
+  "names": "certain"
+ }
+]

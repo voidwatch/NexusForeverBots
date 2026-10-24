@@ -1,0 +1,38 @@
+[
+ {
+  "boss": "Experiment X-89",
+  "world": 1462,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Genetic Archives",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Shattering Shockwave",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Repugnant Spew",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Resounding Shout",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "certain"
+ }
+]

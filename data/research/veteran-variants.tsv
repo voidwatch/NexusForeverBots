@@ -1,0 +1,206 @@
+# world	spawned	replacement	in mode	match	name  (scripts/research/veteran_pairs.py)
+382	17153	34689	veteran	tag display	Thundercall Acolyte
+382	17154	34690	veteran	display	Thundercall Disciple
+382	17160	33405	veteran	tag code display	Blade-Wind the Invoker
+382	17163	33406	veteran	tag code display	Stormtalon
+382	17166	32703	veteran	tag code display	Aethros
+382	17173	34702	veteran	tag	Thundercall Channeler
+382	17316	34707	veteran	tag code display	Gust of Aethros
+382	24474	34711	veteran	tag display	Arcanist Breeze-Binder
+382	31592	34712	veteran	tag code display	Aethros Twister
+382	33361	33362	veteran	tag display	Overseer Drift-Catcher
+382	34697	37145	veteran	tag display	Thundercall Shaman
+382	36598	67379	veteran	tag code display	Static Wisp
+382	36758	37140	veteran	tag display	Thundercall Sentinel
+382	36796	37141	veteran	tag display	Thundercall Storm-Weaver
+382	36859	37142	veteran	tag display	Skyborn Tempest
+382	36861	37143	veteran	display	Thunderbeak Fleshripper
+382	36862	37144	veteran	tag display	Thundercall Storm-Watcher
+382	45777	69182	veteran	display	Crazed Guard
+382	45936	69188	veteran	display	Writhing Engineer
+382	46091	69190	veteran	display	Infested Porter
+382	46123	69213	veteran	display	Writhing Nightmare
+382	46124	69214	veteran	display	Stinging Nightmare
+382	46126	69215	veteran	display	Shocking Nightmare
+382	46128	69217	veteran	display	Venomous Nightmare
+382	46130	69218	veteran	display	Rending Nightmare
+382	46138	69194	veteran	display	Spiderling
+382	46621	69197	veteran	display	Needy Websack
+382	58783	69223	veteran	display	Gnarled Nightmare
+1263	24475	24893	veteran	tag code display	Thunderfoot
+1263	24486	24894	veteran	tag code display	Bosun Octog
+1263	24489	24895	veteran	tag code display	Mordechai Redmoon
+1263	24490	24896	veteran	tag code display	Quartermaster Gruh'ar
+1263	24493	24898	veteran	tag code display	Stew-Shaman Tugga
+1263	24494	24899	veteran	tag display	Grim-Grim Doomcaller
+1263	24495	24900	veteran	tag display	Grim-Grim Hexweaver
+1263	24498	24901	veteran	tag display	Grim-Grim Curseblade
+1263	24499	24902	veteran	tag display	Grim-Grim Blightmask
+1263	24507	24905	veteran	tag display	Redmoon Prisoner
+1263	24510	24908	veteran	tag display	Redmoon Jailor
+1263	24512	24910	veteran	tag display	Redmoon Gold Guardian
+1263	24514	24911	veteran	tag display	Redmoon Gold Hoarder
+1263	24578	24913	veteran	tag display	Redmoon Cannoneer
+1263	24579	24914	veteran	tag display	Redmoon Sniper
+1263	24580	24916	veteran	tag display	Redmoon Furyspitter
+1263	24581	24919	veteran	tag display	Redmoon Necromancer
+1263	24618	24920	veteran	tag display	Redmoon Crusher
+1263	24680	24921	veteran	tag code display	Gold-Infused Lava Node
+1263	25173	25226	veteran	tag code display	Redmoon Cluster Missile Launcher
+1263	25561	25562	veteran	tag display	Redmoon Razortail
+1263	25815	24788	veteran	tag display	Chief Kaskalak
+1263	26236	26238	veteran	tag code display	Redmoon Chaingun
+1263	33348	33350	veteran	tag display	Mushroom
+1263	34457	34458	veteran	tag display	Ammunition Deposit
+1263	37751	37752	veteran	tag display	Redmoon Wrestler
+1263	38426	56952	veteran	tag code display	Squirgling Offspring
+1263	39137	39191	veteran	tag code	Flame Wall
+1263	39336	57126	veteran	tag code display	Flame-Crazed Grim-Grim
+1263	51470	57188	veteran	tag code display	Magma Wave
+1263	51943	57189	veteran	tag code display	Volcanic Fissure
+1271	28585	28580	normal	tag normal	Zealous Battlemaiden
+1271	28599	28600	normal	tag normal	Deadringer Shallaos
+1271	28613	28612	normal	tag normal	Zealous Clawsister
+1271	28647	28646	normal	tag normal	Zealous Lifesinger
+1271	28661	28660	normal	tag normal	Silent Predator
+1271	28666	28665	normal	tag normal	Lifeweaver Initiate
+1271	28720	28721	normal	tag normal	Ondu Lifeweaver
+1271	28735	28736	veteran	tag code display	Spiritmother Selene the Corrupted
+1271	28736	28735	normal	tag normal	Spiritmother Selene the Corrupted
+1271	28775	28774	normal	tag normal	Lifeweaver Guardian
+1271	28781	28780	normal	tag normal	Lifeweaver Warcaller
+1271	28796	28795	normal	tag normal	Lifeweaver Soulbinder
+1271	28829	28801	normal	tag normal	Corrupted Terrorantula
+1271	28986	28985	normal	tag normal	Corrupted Edgesmith Torian
+1271	28993	28992	normal	tag normal	Corrupted Lifecaller Khalee
+1271	28996	28995	normal	tag normal	Corrupted Deathbringer Dareia
+1271	29199	29198	normal	tag normal	Elder Moldwood Ravager
+1271	29249	29248	normal	tag normal	Corrupted Deathsting Swarmer
+1271	29255	29254	normal	tag normal	Flame-Crazed Demon
+1271	30209	72992	normal	tag normal	Moldwood Corruptor
+1271	40404	40402	normal	tag normal	Gaze of the Moldwood
+1271	40769	28732	veteran	tag code	Rayna Darkspeaker
+1271	41215	41214	normal	tag normal	Corrupted Predator
+1271	41220	41219	normal	tag normal	Hammerfist Moldjaw
+1271	43139	43138	normal	tag normal	Moldwood Gorger
+1271	56936	41238	normal	tag normal	Darkness Effigy
+1271	70950	40436	normal	tag normal	Moldwood Growth
+1319	23454	69075	veteran	display	Novaburn Plunderer
+1319	23455	69076	veteran	display	"Ransacker" Rorgh
+1319	23513	69078	veteran	display	Hive Queen
+1319	23514	69079	veteran	display	Hive Pod
+1319	23536	69080	veteran	display	Hive Infector
+1319	23539	69081	veteran	display	Space Frizlet
+1319	23571	69126	veteran	display	Rescued Miner
+1319	29612	69084	veteran	display	Larval Infector
+1336	30386	32607	veteran		Voreth Beastmaster
+1336	32531	32533	veteran	tag code display	Forgemaster Trogun
+1336	32534	32535	veteran	tag code display	Grond the Corpsemaker
+1336	32536	32539	veteran	tag code display	Slavemaster Drokk
+1336	32547	32549	veteran	tag display	Voreth Mechano Slaver
+1336	32555	32556	veteran	tag display	Voreth Battlesworn
+1336	32614	32613	veteran	tag display	Voreth Blinded Slaver
+1336	32618	32619	veteran	tag display	Voreth Darkwitch
+1336	32621	32622	veteran	display	Kel Voreth Slave
+1336	32727	32726	veteran	tag display	Voreth Warhound
+1336	33049	33050	veteran	tag code display	Darkwitch Gurka
+1336	33090	33091	veteran	code display	Eldan Phase Blaster
+1336	35424	56496	veteran	tag code display	Destructo Construct
+1336	35538	56497	veteran	tag code display	Bombshell Construct
+1336	37110	37111	veteran	tag display	Enslaved Protector
+1336	37113	37114	veteran	tag display	Enslaved Augmentor
+1336	37119	37120	veteran	tag display	Blood Pit Slave
+1336	50991	50992	veteran	tag display	Blood Pit Necromancer
+1336	51068	51069	veteran	tag display	Blood Pit Gladiator
+1336	51431	67360	veteran	tag code display	Fissure
+1336	51432	51433	veteran	tag display	Voreth Necromancer
+1336	51453	51454	veteran	tag display	Voreth Gladiator
+1336	52572	67362	veteran	tag code display	Flame Monument
+1336	52573	67364	veteran	tag code display	Lava Spout
+1627	32302	69096	veteran	display	Ragebot Swarmer
+1627	32303	69098	veteran	display	Ragebot Infector
+1627	32322	69095	veteran	display	Rage Defender
+1627	32323	69094	veteran	display	Infected Freebot
+1627	32324	69097	veteran	display	Ragebot Exterminator
+1627	32325	69100	veteran	display	Ragebot Driller
+1627	32326	69099	veteran	display	Axiom
+1627	43273	69103	veteran	display	Ragebot Enforcer
+1627	43276	69104	veteran	display	Rage Scrapper
+1627	43284	69105	veteran	display	Rage Picker
+1627	43879	69179	veteran	display	Trash Crawler
+2149	46133	69220	veteran	display	Ravenous Nightmare
+2149	46856	69145	veteran	display	Scorched Mauler
+2149	46858	69146	veteran	display	Scorched Struther
+2149	46881	69147	veteran	display	Burnt Affliction
+2149	46882	69148	veteran	display	Burnt Brute
+2149	46883	69149	veteran	display	Charred Firefang
+2149	46884	69150	veteran	display	Charred Brigand
+2149	46889	69153	veteran	display	Inferno Intensity
+2149	48098	69154	veteran	display	Sparkriden Offender
+2149	48099	69155	veteran	display	Sparkriden Skitterer
+2149	48101	69156	veteran	display	Shockwing Stormer
+2149	48102	69157	veteran	display	Shockwing Slasher
+2149	48103	69158	veteran	display	Sparkcharged Rager
+2149	48104	69159	veteran	display	Sparkcharged Cloudburst
+2149	48105	69160	veteran	display	Voltmarked Sparkman
+2149	48106	69161	veteran	display	Voltmarked Sparklass
+2149	48107	69162	veteran	display	Thunder Surger
+2149	48345	69163	veteran	display	Dark Creeper
+2149	48346	69164	veteran	display	Dark Woodheart
+2149	48347	69165	veteran	display	Drifting Horror
+2149	48348	69173	veteran	display	Stampeding Horror
+2149	48349	69166	veteran	display	Wretched Queen
+2149	48350	69167	veteran	display	Wretched Servant
+2149	48351	69168	veteran	display	Smoldering Billow
+2149	48352	69169	veteran	display	Smoldering Bonebeast
+2149	48353	69170	veteran	display	Decrepit Atrocity
+2183	23807	52095	veteran	tag display	Darkspur Enforcer
+2183	23843	52112	veteran	tag display	Goonbot
+2183	48454	69280	veteran	display	Bash Brother
+2183	48461	69237	veteran	display	Arena-Frenzied Chomper
+2183	48493	69300	veteran	display	Pyro
+2183	48499	69257	veteran	display	The Morticianatrix
+2183	48510	69301	veteran	display	Maniac
+2183	48511	69258	veteran	display	Professor Doctor Voodoo
+2183	48516	69302	veteran	display	The Handler
+2183	48518	69303	veteran	display	Chompers
+2183	48519	69304	veteran	display	Spud
+2183	48529	69255	veteran	display	The Championator
+2183	48554	69305	veteran	display	Shock King
+2183	48557	69306	veteran	display	Slice
+2183	48558	69307	veteran	display	Dice
+2183	48579	69308	veteran	display	Showtime
+2183	48588	69309	veteran	display	"Bonebreaker" Zoragg
+2183	48589	69310	veteran	display	Fist
+2183	48667	69283	veteran	display	Exile Hound
+2183	48669	69284	veteran	display	Houndmaster Hagan
+2183	48670	69285	veteran	display	Garrmaster Grazza
+2183	48689	69286	veteran	display	Pistolier Jakra
+2183	48695	69287	veteran	display	Deathblade Vytene
+2183	48697	69288	veteran	display	Nightstalker Accia
+2183	48721	69289	veteran	display	Gunslinger Zynri
+2183	48723	69290	veteran	display	Skullcrusher Panzox
+2183	48728	69291	veteran	display	Shadowblade Ivan
+2183	48765	69239	veteran	display	Arena-Frenzied Shocker
+2183	48793	69240	veteran	display	Arena-Frenzied Moodie
+2183	48833	69241	veteran	display	Arena-Frenzied Skitterbot
+2183	48835	69242	veteran	display	Arena-Frenzied Scurrier
+2183	48842	69243	veteran	display	Arena-Frenzied Razortail
+2183	48843	69244	veteran	display	Arena-Frenzied Peeper
+2183	48863	69247	veteran	display	Arena-Frenzied Arachnid
+2183	48865	69248	veteran	display	Arena-Frenzied Spikehorde
+2188	48702	69292	veteran	display	Steelfin Abductor
+2188	48703	69267	veteran	display	Captain Rotfin
+2188	48704	69299	veteran	display	Riptide the Stone Serpent
+2188	48705	69272	veteran	display	Steelfin Constrainer
+2188	48706	69271	veteran	display	Steelfin Enervator
+2188	48708	69269	veteran	display	Steelfin Experimenter
+2188	48738	69298	veteran	display	Steelfin Xenonaut
+2188	48740	69268	veteran	display	Steelfin Hydroprober
+2188	48742	69279	veteran	display	Steelfin Crushclaw
+2188	48762	69270	veteran	display	Steelfin Bonestripper
+3173	67475	71082	veteran	tag code display	Invulnotron
+3173	67668	71203	veteran	tag code display	Seek-N-Slaughter
+3173	68096	71209	veteran	tag code display	Super-Invulnotron
+3404	46127	69216	veteran	display	Electrifying Nightmare
+3404	71630	71636	veteran	display	Crazed Zarkhov Shiphand

@@ -1,0 +1,49 @@
+[
+ {
+  "boss": "Star-Eater the Voracious",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Supernova",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Hookshot",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Flamethrower",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Summon Squirglings",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Hookshot every": "every: raidcore -, drusera -, lui [30.0] -> single source",
+   "Hookshot first": "first: raidcore -, drusera -, lui [10.0] -> single source",
+   "Flamethrower every": "every: raidcore -, drusera -, lui [45.0] -> single source",
+   "Flamethrower first": "first: raidcore -, drusera -, lui [34.0] -> single source"
+  },
+  "names": "guess"
+ }
+]

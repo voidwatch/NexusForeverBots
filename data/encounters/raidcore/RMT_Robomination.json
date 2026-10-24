@@ -1,0 +1,42 @@
+[
+ {
+  "boss": "Robomination",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Cannon Fire",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Incineration Laser",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Noxious Belch",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Incineration Laser every": "every: raidcore -, drusera -, lui [20.0, 40.0] -> single source",
+   "Noxious Belch every": "every: raidcore -, drusera -, lui [31.0, 14.0] -> single source",
+   "Noxious Belch first": "first: raidcore -, drusera -, lui [16.0] -> single source"
+  },
+  "names": "certain"
+ }
+]

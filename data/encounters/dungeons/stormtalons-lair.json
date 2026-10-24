@@ -1,0 +1,214 @@
+[
+ {
+  "boss": "Blade-Wind the Invoker",
+  "world": 382,
+  "enrage": 480,
+  "leash": 120,
+  "source": "guides (elijaa.org, thecomfywizard.com): phases and ability names; timings are assumptions",
+  "phases": [
+   {
+    "name": "Tank and spank",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Thunder Cross",
+      "first": 10,
+      "every": 20,
+      "target": "tank"
+     },
+     {
+      "spell": "Lightning Strike",
+      "first": 6,
+      "every": 16,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Adds: four shielded channelers",
+    "health": 50,
+    "invulnerable": true,
+    "nextWhenAddsDead": true,
+    "say": "The channelers must fall first!",
+    "abilities": [
+     {
+      "spell": "Lightning Strike",
+      "first": 5,
+      "every": 9,
+      "target": "random"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Thundercall Channeler",
+      "count": 4,
+      "first": 2
+     }
+    ]
+   },
+   {
+    "name": "Static wisps and Electrostatic Pulse",
+    "health": 50,
+    "abilities": [
+     {
+      "spell": "Thunder Cross",
+      "first": 10,
+      "every": 18,
+      "target": "tank"
+     },
+     {
+      "spell": "Electrostatic Pulse",
+      "first": 14,
+      "every": 28,
+      "target": "self"
+     },
+     {
+      "spell": "Lightning Strike",
+      "first": 6,
+      "every": 14,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Aethros",
+  "world": 382,
+  "enrage": 480,
+  "leash": 120,
+  "source": "guides (elijaa.org, thecomfywizard.com): phases and ability names; timings are assumptions",
+  "phases": [
+   {
+    "name": "Tank and spank",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Thunderbolt",
+      "first": 8,
+      "every": 15,
+      "target": "random"
+     },
+     {
+      "spell": "Torrent",
+      "first": 14,
+      "every": 24,
+      "target": "tank"
+     }
+    ]
+   },
+   {
+    "name": "Gusts of Aethros",
+    "health": 66,
+    "invulnerable": true,
+    "nextWhenAddsDead": true,
+    "say": "Air Shift! Three gusts rise.",
+    "abilities": [
+     {
+      "spell": "Thunderbolt",
+      "first": 6,
+      "every": 12,
+      "target": "random"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Gust of Aethros",
+      "count": 3,
+      "first": 2
+     }
+    ]
+   },
+   {
+    "name": "Tempest",
+    "health": 66,
+    "abilities": [
+     {
+      "spell": "Tempest",
+      "first": 8,
+      "every": 60,
+      "target": "self"
+     },
+     {
+      "spell": "Thunderbolt",
+      "first": 6,
+      "every": 12,
+      "target": "random"
+     },
+     {
+      "spell": "Torrent",
+      "first": 14,
+      "every": 24,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Stormtalon",
+  "world": 382,
+  "enrage": 540,
+  "leash": 120,
+  "source": "guides (thecomfywizard.com): phases and ability names; timings are assumptions",
+  "phases": [
+   {
+    "name": "Tank and spank",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Lightning Strike",
+      "first": 8,
+      "every": 14,
+      "target": "random"
+     },
+     {
+      "spell": "Static Wave",
+      "first": 22,
+      "every": 35,
+      "target": "self"
+     },
+     {
+      "spell": "Lightning Storm",
+      "first": 14,
+      "every": 28,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Lightning Rod",
+    "health": 60,
+    "abilities": [
+     {
+      "spell": "Lightning Strike",
+      "first": 8,
+      "every": 12,
+      "target": "random"
+     },
+     {
+      "spell": "Static Wave",
+      "first": 22,
+      "every": 35,
+      "target": "self"
+     },
+     {
+      "spell": "Lightning Storm",
+      "first": 14,
+      "every": 26,
+      "target": "random"
+     },
+     {
+      "spell": "Lightning Rod",
+      "first": 10,
+      "every": 40,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ }
+]

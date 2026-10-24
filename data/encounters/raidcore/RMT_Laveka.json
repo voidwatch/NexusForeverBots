@@ -1,0 +1,77 @@
+[
+ {
+  "boss": "Laveka the Dark-Hearted",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Essence Surge",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Devour Souls",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Animate Bones",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Essence Void",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Cacophony of Souls",
+      "first": 32,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Expulsion of Souls",
+      "first": 38,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Necrotic Bulwark",
+      "first": 44,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Manifest",
+      "first": 50,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Spirit Ire",
+      "first": 56,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Expulsion of Souls every": "every: raidcore -, drusera -, lui [35.0] -> single source",
+   "Expulsion of Souls first": "first: raidcore -, drusera -, lui [17.0] -> single source"
+  },
+  "names": "certain"
+ }
+]

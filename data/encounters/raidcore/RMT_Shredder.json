@@ -1,0 +1,56 @@
+[
+ {
+  "boss": "Swabbie Ski'Li",
+  "world": 3032,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Redmoon Terror",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Swabbie Swoop",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Risen Repellent",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Crush",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Gravedigger",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Deathwail",
+      "first": 32,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Necrotic Lash",
+      "first": 38,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "partial"
+ }
+]

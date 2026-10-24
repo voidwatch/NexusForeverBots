@@ -1,0 +1,636 @@
+[
+ {
+  "boss": "Metal Maw",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Plasma Beam",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Foot Stomp",
+      "first": 12,
+      "every": 20,
+      "target": "self"
+     }
+    ]
+   },
+   {
+    "name": "Adds",
+    "health": 60,
+    "abilities": [
+     {
+      "spell": "Plasma Beam",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Foot Stomp",
+      "first": 12,
+      "every": 20,
+      "target": "self"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Cerberean Spawn",
+      "count": 3,
+      "first": 3
+     }
+    ]
+   },
+   {
+    "name": "Phase 3",
+    "health": 30,
+    "abilities": [
+     {
+      "spell": "Plasma Beam",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Foot Stomp",
+      "first": 12,
+      "every": 20,
+      "target": "self"
+     },
+     {
+      "spell": "Chomp",
+      "first": 6,
+      "every": 14,
+      "target": "tank"
+     },
+     {
+      "spell": "Reckless Bombardment",
+      "first": 25,
+      "every": 40,
+      "target": "random"
+     },
+     {
+      "spell": "Shed Symbiotes",
+      "first": 30,
+      "every": 60,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Metal Maw Prime",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Plasma Beam",
+      "first": 8,
+      "every": 16,
+      "target": "random"
+     },
+     {
+      "spell": "Foot Stomp",
+      "first": 12,
+      "every": 18,
+      "target": "self"
+     }
+    ]
+   },
+   {
+    "name": "Adds",
+    "health": 60,
+    "abilities": [
+     {
+      "spell": "Plasma Beam",
+      "first": 8,
+      "every": 16,
+      "target": "random"
+     },
+     {
+      "spell": "Foot Stomp",
+      "first": 12,
+      "every": 18,
+      "target": "self"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Cerberean Spawn",
+      "count": 3,
+      "first": 3
+     }
+    ]
+   },
+   {
+    "name": "Phase 3",
+    "health": 30,
+    "abilities": [
+     {
+      "spell": "Plasma Beam",
+      "first": 8,
+      "every": 16,
+      "target": "random"
+     },
+     {
+      "spell": "Foot Stomp",
+      "first": 12,
+      "every": 18,
+      "target": "self"
+     },
+     {
+      "spell": "Chomp",
+      "first": 6,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Reckless Bombardment",
+      "first": 25,
+      "every": 35,
+      "target": "random"
+     },
+     {
+      "spell": "Shed Symbiotes",
+      "first": 30,
+      "every": 55,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Kraggar the Earth-Render",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Ground Slam",
+      "first": 8,
+      "every": 18,
+      "target": "self"
+     },
+     {
+      "spell": "Smash",
+      "first": 5,
+      "every": 12,
+      "target": "tank"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 50,
+    "abilities": [
+     {
+      "spell": "Ground Slam",
+      "first": 8,
+      "every": 18,
+      "target": "self"
+     },
+     {
+      "spell": "Smash",
+      "first": 5,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Earth Shocks",
+      "first": 14,
+      "every": 24,
+      "target": "random"
+     },
+     {
+      "spell": "Maelstrom",
+      "first": 30,
+      "every": 50,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "King Honeygrave",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Honey Blast",
+      "first": 8,
+      "every": 16,
+      "target": "random"
+     },
+     {
+      "spell": "Stinger Flurry",
+      "first": 12,
+      "every": 20,
+      "target": "tank"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 50,
+    "abilities": [
+     {
+      "spell": "Honey Blast",
+      "first": 8,
+      "every": 16,
+      "target": "random"
+     },
+     {
+      "spell": "Stinger Flurry",
+      "first": 12,
+      "every": 20,
+      "target": "tank"
+     },
+     {
+      "spell": "Summon Swarm",
+      "first": 20,
+      "every": 40,
+      "target": "self"
+     },
+     {
+      "spell": "Blinding Swarm",
+      "first": 30,
+      "every": 50,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Dreamspore",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Poisonous Spores",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Whipping Bite",
+      "first": 5,
+      "every": 12,
+      "target": "tank"
+     }
+    ]
+   },
+   {
+    "name": "Adds",
+    "health": 60,
+    "abilities": [
+     {
+      "spell": "Poisonous Spores",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Whipping Bite",
+      "first": 5,
+      "every": 12,
+      "target": "tank"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Spore Pod",
+      "count": 3,
+      "first": 3
+     }
+    ]
+   },
+   {
+    "name": "Phase 3",
+    "health": 30,
+    "abilities": [
+     {
+      "spell": "Poisonous Spores",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Whipping Bite",
+      "first": 5,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Pollen Cloud",
+      "first": 16,
+      "every": 28,
+      "target": "random"
+     },
+     {
+      "spell": "Release Spores",
+      "first": 30,
+      "every": 50,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Grendelus the Guardian",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Pound",
+      "first": 6,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Augmentation Bomb",
+      "first": 10,
+      "every": 22,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Adds",
+    "health": 60,
+    "abilities": [
+     {
+      "spell": "Pound",
+      "first": 6,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Augmentation Bomb",
+      "first": 10,
+      "every": 22,
+      "target": "random"
+     }
+    ],
+    "adds": [
+     {
+      "creature": "Grendelus Probe",
+      "count": 3,
+      "first": 3
+     }
+    ]
+   },
+   {
+    "name": "Phase 3",
+    "health": 30,
+    "abilities": [
+     {
+      "spell": "Pound",
+      "first": 6,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Augmentation Bomb",
+      "first": 10,
+      "every": 22,
+      "target": "random"
+     },
+     {
+      "spell": "Scorching Beam",
+      "first": 16,
+      "every": 30,
+      "target": "random"
+     },
+     {
+      "spell": "Summon Probe",
+      "first": 30,
+      "every": 60,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Zoetic",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Flash Flood",
+      "first": 8,
+      "every": 20,
+      "target": "random"
+     },
+     {
+      "spell": "Tornado",
+      "first": 14,
+      "every": 26,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 50,
+    "abilities": [
+     {
+      "spell": "Flash Flood",
+      "first": 8,
+      "every": 20,
+      "target": "random"
+     },
+     {
+      "spell": "Tornado",
+      "first": 14,
+      "every": 26,
+      "target": "random"
+     },
+     {
+      "spell": "Thunderclap",
+      "first": 6,
+      "every": 14,
+      "target": "tank"
+     },
+     {
+      "spell": "Rampant Growth",
+      "first": 30,
+      "every": 50,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Scorchwing",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Flame Arcs",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Fiery Crash",
+      "first": 14,
+      "every": 28,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 50,
+    "abilities": [
+     {
+      "spell": "Flame Arcs",
+      "first": 8,
+      "every": 18,
+      "target": "random"
+     },
+     {
+      "spell": "Fiery Crash",
+      "first": 14,
+      "every": 28,
+      "target": "random"
+     },
+     {
+      "spell": "Wind Buffet",
+      "first": 6,
+      "every": 14,
+      "target": "tank"
+     },
+     {
+      "spell": "Summon Guardians",
+      "first": 30,
+      "every": 60,
+      "target": "self"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ },
+ {
+  "boss": "Gargantua",
+  "world": 0,
+  "enrage": 600,
+  "leash": 150,
+  "source": "world boss spell names from the Spell4 tables (descriptions naming the boss); phases, timings and targets are assumptions, wiki has no mechanics (docs/ASSUMPTIONS.md World bosses)",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Gargantuan Slash",
+      "first": 5,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Pound",
+      "first": 10,
+      "every": 18,
+      "target": "self"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 50,
+    "abilities": [
+     {
+      "spell": "Gargantuan Slash",
+      "first": 5,
+      "every": 12,
+      "target": "tank"
+     },
+     {
+      "spell": "Pound",
+      "first": 10,
+      "every": 18,
+      "target": "self"
+     },
+     {
+      "spell": "Blight",
+      "first": 14,
+      "every": 26,
+      "target": "random"
+     },
+     {
+      "spell": "Upheaval",
+      "first": 24,
+      "every": 40,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "names": "certain"
+ }
+]

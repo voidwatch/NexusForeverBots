@@ -1,0 +1,198 @@
+[
+ {
+  "boss": "Prime Evolutionary Operant",
+  "world": 0,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Initialization Core Y-83",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Disintegrate",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Digitize",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Strain Injection",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Corruption Spike",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 2",
+    "health": 62,
+    "abilities": [
+     {
+      "spell": "Disintegrate",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Digitize",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Strain Injection",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Corruption Spike",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 3",
+    "health": 22,
+    "abilities": [
+     {
+      "spell": "Disintegrate",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Digitize",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Strain Injection",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Corruption Spike",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   },
+   {
+    "name": "Phase 4",
+    "health": 20,
+    "abilities": [
+     {
+      "spell": "Disintegrate",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Digitize",
+      "first": 14,
+      "every": 25.0,
+      "target": "random"
+     },
+     {
+      "spell": "Strain Injection",
+      "first": 20,
+      "every": 25.0,
+      "target": "tank"
+     },
+     {
+      "spell": "Corruption Spike",
+      "first": 26,
+      "every": 25.0,
+      "target": "random"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "certain"
+ },
+ {
+  "boss": "Prime Phage Distributor",
+  "world": 0,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Initialization Core Y-83",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   },
+   {
+    "name": "Phase 2",
+    "health": 62,
+    "abilities": []
+   },
+   {
+    "name": "Phase 3",
+    "health": 22,
+    "abilities": []
+   },
+   {
+    "name": "Phase 4",
+    "health": 20,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ },
+ {
+  "boss": "Organic Incinerator",
+  "world": 0,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Initialization Core Y-83",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": []
+   },
+   {
+    "name": "Phase 2",
+    "health": 62,
+    "abilities": []
+   },
+   {
+    "name": "Phase 3",
+    "health": 22,
+    "abilities": []
+   },
+   {
+    "name": "Phase 4",
+    "health": 20,
+    "abilities": []
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "tables (spell ids)"
+ }
+]

@@ -1,0 +1,53 @@
+[
+ {
+  "boss": "Mnemesis",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Defragment",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {
+   "Defragment every": "every: raidcore -, drusera -, lui [40.0, 50.0, 36.0] -> single source",
+   "Defragment first": "first: raidcore -, drusera -, lui [10.0, 21.0, 16.0, 75.0] -> single source"
+  },
+  "names": "certain"
+ },
+ {
+  "boss": "Visceralus",
+  "world": 1333,
+  "enrage": 0,
+  "leash": 150,
+  "source": "raidcore Datascape",
+  "phases": [
+   {
+    "name": "Phase 1",
+    "health": 100,
+    "abilities": [
+     {
+      "spell": "Blinding Light",
+      "first": 8,
+      "every": 25.0,
+      "target": "tank"
+     }
+    ]
+   }
+  ],
+  "confidence": "guess",
+  "timerSources": {},
+  "names": "certain"
+ }
+]

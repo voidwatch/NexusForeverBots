@@ -1,0 +1,42 @@
+{
+    "Network": {
+        "Host": "0.0.0.0",
+        "Port": 24000
+    },
+    "Database": {
+        "Auth": {
+            "ConnectionString": "server=127.0.0.1;port=3306;user=nexusforever;password=nexusforever;database=nexus_forever_auth",
+            "Provider": "MySql"
+        },
+        "Character": {
+            "ConnectionString": "server=127.0.0.1;port=3306;user=nexusforever;password=nexusforever;database=nexus_forever_character",
+            "Provider": "MySql"
+        },
+        "World": {
+            "ConnectionString": "server=127.0.0.1;port=3306;user=nexusforever;password=nexusforever;database=nexus_forever_world",
+            "Provider": "MySql"
+        }
+    },
+    "Map": {
+        "MapPath": "map",
+        "PrecacheBaseMaps": [
+            22,
+            51,
+            1061
+        ],
+        "PrecacheMapSpawns": [
+            22,
+            51,
+            1061
+        ],
+        "SynchronousUpdate": false,
+        "GridActionThreshold": 100,
+        "GridActionMaxRetry": 5, 
+        "GridUnloadTimer": 3600,
+        "MaxInstances": 10
+    },
+    "RealmId": 1,
+    "MessageOfTheDay": "Welcome to this NexusForever server!",
+    "LengthOfInGameDay": 12600,
+    "CrossFactionChat": true
+}
